@@ -1,0 +1,1108 @@
+[
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 1,
+    "question_text": "Given spot rates for one-, two-, and three-year zero coupon bonds, how many forward rates can be calculated?[cite: 7]",
+    "correct_answer": "Constructed Response[cite: 7]",
+    "explanation": "Three forward rates can be calculated from the one-, two- and three-year spot rates. The rate on a one-year loan that begins at the end of Year 1 can be calculated using the one- and two-year spot rates... The rate on a one-year loan that starts at the end of Year 2 can be calculated from the two- and three-year spot rates... Additionally, the rate on a two-year loan that begins at the end of Year 1 can be computed from the one- and three-year spot rates.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 2,
+    "question_text": "Give two interpretations for the following forward rate: The two-year forward rate one year from now is 2%.[cite: 7]",
+    "correct_answer": "Constructed Response[cite: 7]",
+    "explanation": "For the two-year forward rate one year from now of 2%, the two interpretations are as follows:\n2% is the rate that will make an investor indifferent between buying a three-year zero-coupon bond or investing in a one-year zero-coupon bond and, when it matures, reinvesting in a zero-coupon bond that matures in two years.\n2% is the rate that can be locked in today by buying a three-year zero-coupon bond rather than investing in a one-year zero-coupon bond and, when it matures, reinvesting in a zero-coupon bond that matures in two years.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 3,
+    "question_text": "Describe the relationship between forward rates and spot rates if the yield curve is flat.[cite: 7]",
+    "correct_answer": "Constructed Response[cite: 7]",
+    "explanation": "A flat yield curve implies that all spot interest rates are the same. When the spot rate is the same for every maturity, successive applications of the forward rate model will show that all the forward rates will also be the same and equal to the spot rate.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 4,
+    "question_text": "Which forward rate cannot be computed from the one-, two-, three-, and four-year spot rates? The rate for a:\nA. one-year loan beginning in two years\nB. two-year loan beginning in two years\nC. three-year loan beginning in two years[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. There is no spot rate information to provide rates for a loan that terminates in five years. That is $f_{2,3}$ is calculated as follows... This equation indicates that in order to calculate the rate for a three-year loan beginning at the end of two years, one needs the five-year spot rate, $z_{5}$, and the two-year spot rate, $z_{2}.$ However, $z_{5}$ is not provided.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 5,
+    "question_text": "Consider spot rates for three zero-coupon bonds: $z(1)=3\\%,$ $z(2)=4\\%,$ and $z(3)=$ 5%. Which statement is correct? The forward rate for a one-year loan beginning in one year will be:\nA. less than the forward rate for a one-year loan beginning in two years.\nB. greater than the forward rate for a two-year loan beginning in one year.\nC. greater than the forward rate for a one-year loan beginning in two years.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. The forward rate for a one-year loan beginning in one year, $f_{1,1}$, is $1.04^{2}/1.03-1=5\\%$. The rate for a one-year loan beginning in two years, $f_{2,1},$ is $1.05^{3}/1.04^{2}-1=7\\%$. This confirms that an upward-sloping yield curve is consistent with an upward-sloping forward curve.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 6,
+    "question_text": "If one-period forward rates are decreasing with maturity, the yield curve is most likely:\nA. flat.\nB. upward sloping.\nC. downward sloping.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. If one-period forward rates are decreasing with maturity, then the forward curve is downward sloping. This turn implies a downward-sloping yield curve where longer-term spot rates $z_{B-A}$ are less than shorter-term spot rates $z_{A}$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 7,
+    "question_text": "The rate for a one-year loan beginning in one year is closest to:\nΑ. 4.5%.\nB. 5.0%.\nC. 6.0%.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. From the forward rate model, we have $[1+z_{2}]^{2}=[1+z_{1}]^{1}[1+f_{1,1}]^{1}$ Using the one- and two-year spot rates, we have $(1+0.05)^{2}=(1+0.04)^{1}[1+f_{1,1}]^{1},so\\frac{(1+0.05)^{2}}{(1+0.04)^{1}}-1=f_{1,1}=6.010\\%.$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 8,
+    "question_text": "The forward rate for a two-year loan beginning in one year is closest to:\nA. 5.0%.\nB. 6.0%.\nC. 7.0%.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. From the forward rate model, $[1+z_{3}]^{3}=[1+z_{1}]^{1}[1+f_{1,2}]^{2}$ Using the one- and three-year spot rates, we find $(1+0.06)^{3}=(1+0.04)^{1}[1+f_{1,2}]^{2}$, so $\\sqrt{\\frac{(1+0.06)^{3}}{(1+0.04)^{1}}-1=f_{1,2}=7.014\\%.$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 9,
+    "question_text": "The forward rate for a one-year loan beginning in two years is closest to:\nA. 6.0%.\nB. 7.0%.\nC. 8.0%.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. From the forward rate model, $[1+z_{3}]^{3}=[1+z_{2}]^{2}[1+f_{2,1}]^{1}$ Using the two- and three-year spot rates, we find $(1+0.06)^{3}=(1+0.05)^{2}[1+f_{2,1}]^{1},so\\frac{(1+0.06)^{3}}{(1+0.05)^{2}}-1=f_{2,1}=8.029\\%.$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 10,
+    "question_text": "The five-year spot rate is not provided here; however, the forward price for a two-year zero-coupon bond beginning in three years is known to be 0.8479. The price today of a five-year zero-coupon bond is closest to:\nA. 0.7119.\nB. 0.7835.\nC. 0.9524.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. We can convert spot rates to spot prices to find $DF_{3}=\\frac{1}{(1.06)^{3}}=$ 0.8396. The forward pricing model can be used to find the price of the five-year zero as $DF_{B}=DF_{A}\\times\\dot{F}_{A,B-A},so~DF_{5}=DF_{3}F_{3,2}=0.8396\\times0.8479=0.7119$.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 11,
+    "question_text": "The one-year spot rate $z_{1}$ is 4%, the forward rate for a one-year loan beginning in one year is 6%, and the forward rate for a one-year loan beginning in two years is 8%. Which of the following rates is closest to the three-year spot rate?\nA. 4.0%\nB. 6.0%\nC. 8.0%[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. Applying the forward rate model, we find $[1+z_{3}]^{3}=[1+z_{1}]^{1}[1+f_{1,1}]^{1}[1+f_{2,1}]^{1}$ $So[1+z_{3}]^{3}=(1+0.04)^{1}(1+0.06)^{1}(1+0.08)^{1},$ $\\sqrt[3]{1.1906}-1$ $=z_{3}=5.987\\%$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 12,
+    "question_text": "The one-year spot rate $z_{1}$ is 5%, and the forward price for a one-year zero-coupon bond beginning in one year is 0.9346. The spot price of a two-year zero-coupon bond is closest to:\nA. 0.87.\nB. 0.89.\nC. 0.93.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. We can convert spot rates to spot prices and use the forward pricing model, so we have $DF_{1}=\\frac{1}{(1.05)^{1}}=0.9524$ . The forward pricing model is $DF_{B}=DF_{A}\\times F_{A,B-A},$ SO $DF_{2}=DF_{1}F_{1,1}=0.9524\\times0.9346=0.8901.$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 13,
+    "question_text": "In a typical interest rate swap contract, the swap rate is best describedas the interest rate for the:\nA. fixed-rate leg of the swap.\nB. floating-rate leg of the swap.\nC. difference between the fixed and floating legs of the swap.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. The swap rate is the interest rate for the fixed-rate leg of an interest rate swap.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 14,
+    "question_text": "A two-year fixed-for-floating MRR swap is 1.00%, and the two-year US Treasury bond is yielding 0.63%. The swap spread is closest to:\nA. 37 bps.\nB. 100 bps.\nC. 163 bps.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. The swap spread $=1.00\\%-0.63\\%=0.37\\%$, or 37 bps.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 15,
+    "question_text": "The swap spread is quoted as 50 bps. If the five-year US Treasury bond is yielding 2%, the rate paid by the fixed payer in a five-year interest rate swap is closest to:\nA. 0.50%.\nB. 1.50%.\nC. 2.50%.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. The fixed leg of the five-year fixed-for-floating swap will be equal to the five-year Treasury rate plus the swap spread: $2.0\\%+0.5\\%=2.5\\%$.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 16,
+    "question_text": "If the three-month T-bill rate drops and MRR remains the same, the relevant TED spread:\nA. increases.\nB. decreases.\nC. does not change.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. The TED spread is the difference between the three-month MRR and the three-month Treasury bill rate. If the T-bill rate falls and MRR does not change, the TED spread will increase.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 17,
+    "question_text": "Given the yield curve for US Treasury zero-coupon bonds, which spread is most helpful pricing a corporate bond? The:\nA. Z-spread.\nB. TED spread.\nC. MRR-OIS spread, formerly the Libor-OIS spread.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. The Z spread is the single rate that, when added to the rates of the spot yield curve, will provide the correct discount rates to price a particular risky bond.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 18,
+    "question_text": "Based on Exhibit 1, the five-year spot rate is closest to:\nΑ. 4.40%.\nB. 4.45%.\nC. 4.50%.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The five-year spot rate is determined by using forward substitution and using the known values of the one-year, two-year, three-year, and four-year spot rates... $= 4.453\\%$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 19,
+    "question_text": "Based on Exhibit 1, the market is most likely expecting:\nA. deflation.\nB. inflation.\nC. no risk premiums.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The spot rates imply an upward-sloping yield curve, $z_{3}>z_{2}>$ $z_{1}$ Because nominal yields incorporate a premium for expected inflation, an upward-sloping yield curve is generally interpreted as reflecting a market expectation of increasing, or at least level, future inflation (associated with relatively strong economic growth).[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 20,
+    "question_text": "Based on Exhibit 1, the forward rate of a one-year loan beginning in three years is closest to:\nA. 4.17%.\nB. 4.50%.\nC. 5.51%.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. A one-year loan beginning in three years, or $f_{3,1}$ is calculated as follows: $[1+z_{3+1}]^{3+1}=[1+z_{3}]^{3}[1+f_{3,1}]^{1}$ $[1.04]^{4}=[1.035]^{3}[1+f_{3,1}]$ $f_{3,1}=\\frac{(1.04)^{4}}{(1.035)^{3}}-1=5.514\\%$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 21,
+    "question_text": "Based on Exhibit 1, which of the following forward rates can be computed?\nA. A one-year loan beginning in five years\nB. A three-year loan beginning in three years\nC. A four-year loan beginning in one year[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. Exhibit 1 provides five years of par rates, from which the spot rates for $z_{1}$, $z_{2}$, $z_{3}$, $z_{4}$ and $z_{5}$ can be derived. Thus the forward rate $f_{1.4}$ can be calculated as follows: $f_{1,4}=\\sqrt[4]{\\frac{[1+z_{5}]^{5}}{{[1+z_{1}]^{1}}-1}$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 22,
+    "question_text": "For Assignment 1, the yield-to-maturity for Bond Z is closest to the:\nA. one-year spot rate.\nB. two-year spot rate.\nC. three-year spot rate.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. The yield-to-maturity, $y_{3}$ of Bond Z should be a weighted average of the spot rates used in the valuation of the bond. Because the bond's largest cash flow occurs in Year 3, $z_{3}$ will have a greater weight than $z_{1}$ and $z_{2}$ in determining $y_{3}$... The computed result is $y_{3}=3.46\\%$ which is closest to the three-year spot rate of 3.50%.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 23,
+    "question_text": "For Assignment 2, Alexander should conclude that Bond Z is currently:\nA. undervalued.\nB. fairly valued.\nC. overvalued.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. Alexander projects that the spot curve two years from today will be below the current forward curve, which implies that her expected future spot rates beyond two years will be lower than the quoted forward rates. Alexander would perceive Bond Z to be undervalued in the sense that the market is effectively discounting the bond's payments at a higher rate than she would, and the bond's market price is below her estimate of intrinsic value.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 24,
+    "question_text": "By choosing to buy Bond Z, Nguyen is most likely making which of the following assumptions?\nA. Bond Z will be held to maturity.\nB. The three-year forward curve is above the spot curve.\nC. Future spot rates do not accurately reflect future inflation.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. Nguyen's strategy is to ride the yield curve, which is appropriate when the yield curve is upward sloping. The yield curve implied by Exhibit 1 is upward sloping, which implies that the three-year forward curve is above the current spot curve. When the yield curve slopes upward, as a bond approaches maturity or \"rolls down the yield curve,\" the bond is valued at successively lower yields and higher prices.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 25,
+    "question_text": "In his presentation of Investment 1, Smith could show that under the no-arbitrage principle, the forward price of a one-year government bond to be issued in one year is closest to:\nA. 0.9662.\nB. 0.9694.\nC. 0.9780.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The forward pricing model is based on the no-arbitrage principle and is used to calculate a bond's forward price based on the spot yield curve... Equation 2: $DF_{B}=DF_{A}\\times F_{A,B-A};$ we need to solve for $F_{1,1}$ $DF_{1}=1/(1+0.0225)^{1}$ and $DF_{2}=1/(1+0.0270)^{2}.$ $F_{1,1}=DF_{2}/DF_{1}=0.9481/0.9780=0.9694.$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 26,
+    "question_text": "In presenting Investment 1, using Shire Gate Advisers' interest rate outlook, Smith could show that riding the yield curve provides a total return that is most likely:\nA. lower than the return on a maturity-matching strategy.\nB. equal to the return on a maturity-matching strategy.\nC. higher than the return on a maturity-matching strategy.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. When the spot curve is upward sloping and its level and shape are expected to remain constant over an investment horizon (Shire Gate Advisers' view), buying bonds with a maturity longer than the investment horizon (i.e., riding the yield curve) will provide a total return greater than the return on a maturity-matching strategy.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 27,
+    "question_text": "In presenting Investment 2, Smith should show an annual return closest to:\nA. 4.31%.\nB. 5.42%.\nC. 6.53%.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. The swap spread is a common way to indicate credit spreads in a market. The four-year swap rate (fixed leg of an interest rate swap) can be used as an indication of the four-year corporate yield. Riding the yield curve by purchasing a four-year zero-coupon bond with a yield of 4.75% (i.e., $4.05\\%+0.70\\%,$ $[P_{4}$ $=100/(1+0.0475)^{4}=83.058]\\}$ and then selling it when it becomes a two-year zero-coupon bond with a yield of 3.00% (i.e., 2.70%+ 0.30%, $[P_{2}=100/(1+$ $0.0300)^{2}=94.260]$ produces an annual return of 6.53%: $(94.260/83.058)^{0.5}-1.0$ = 0.0653.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 28,
+    "question_text": "The bond in Investment 3 is most likely trading at a price of:\nA. 100.97.\nB. 101.54.\nC. 104.09.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The Z-spread is the constant basis point spread that is added to the default-free spot curve to price a risky bond... Therefore, for the two-year bond, $z_{1}=2.90\\%$ ( $i.e.,2.25\\%+0.65\\%)$, $z_{2}=3.35\\%$ (i.e., 2.70% + 0.65%), and the price of the bond with an annual coupon of 4.15% is as follows: $P=4.15/(1+0.029)^{1}+4.15/(1+0.0335)^{2}+100/(1+0.0335)^{2}$ $P=101.54.$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 29,
+    "question_text": "The most appropriate response to Mathews question regarding a spread measure is the:\nA. Z-spread.\nB. TED spread.\nC. MRR-OIS spread, formerly the Libor-OIS spread.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. The MRR-OIS spread is considered an indicator of the risk and liquidity of money market securities. This spread measures the difference between MRR and the OIS rate.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 30,
+    "question_text": "Did Tyo's assistant accurately describe the process of bootstrapping?\nA. Yes\nB. No, with respect to par yields\nC. No, with respect to backward substitution[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. The assistant states that bootstrapping entails backward substitution using par yields to solve for zero-coupon rates one by one, in order from latest to earliest maturities. Bootstrapping entails forward substitution, however, using par yields to solve for zero-coupon rates one by one, in order from earliest to latest maturities.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 31,
+    "question_text": "The swap curve is a better benchmark than the government spot curve for:\nA. Country A.\nB. Country B.\nC. Country C.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. Country C's private sector is much bigger than the public sector, and the government bond market in Country C currently lacks liquidity. Under such circumstances, the swap curve is a more relevant benchmark for interest rates.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 32,
+    "question_text": "Based on Exhibit 2, the implied credit and liquidity risks as indicated by the historical three-year swap spreads for Country B were the lowest:\nA. 1 month ago.\nB. 6 months ago.\nC. 12 months ago.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The historical three-year swap spread for Country B was the lowest six months ago... The lower (higher) the swap spread, the lower (higher) the return that investors require for credit and/or liquidity risks... Thus the swap spread six months ago was $0.01\\%-(-0.08\\%)=0.09\\%$...[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 33,
+    "question_text": "Based on Exhibit 1 and Tyo's expectations, which country's term structure is currently best for traders seeking to ride the yield curve?\nA. Country A\nB. Country B\nC. Country C[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. Country A's yield curve is upward sloping-a condition for the strategy and more so than Country B's.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 34,
+    "question_text": "Based on Exhibit 1 and assuming Tyo's market views on yield curve changes are realized, the forward curve of which country will lie below its spot curve?\nA. Country A\nB. Country B\nC. Country C[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The yield curve for Country B is currently upward sloping, but Tyo expects a reversal in the slope of the current yield curve. This means she expects the resulting yield curve for Country B to slope downward, which implies that the resulting forward curve would lie below the spot yield curve...[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 35,
+    "question_text": "Based on Exhibit 1 and Tyo's expectations for the yield curves, Tyo most likely perceives the bonds of which country to be fairly valued?\nA. Country A\nB. Country B\nC. Country C[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. Tyo's projected spot curve assumes that future spot rates reflect, or will be equal to, the current forward rates for all respective maturities. This assumption implies that the bonds for Country A are fairly valued because the market is effectively discounting the bond's payments at spot rates that match those projected by Tyo.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 36,
+    "question_text": "With respect to their discussion of yield curves, Tyo and her assistant are most likely discussing which term structure theory?\nA. Pure expectations theory\nB. Local expectations theory\nC. Liquidity preference theory[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. Liquidity preference theory suggests that liquidity premiums exist to compensate investors for the added interest rate risk that they face when lending long term and that these premiums increase with maturity. Tyo and her assistant are assuming that liquidity premiums exist.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 37,
+    "question_text": "Tyo's assistant should calculate a forward rate closest to:\nA. 9.07%.\nB. 9.58%.\nC. 9.97%.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. From the forward rate model, $f_{3,2}$ is found as follows: $[1+z_{5}]^{5}=[1+z_{3}]^{3}[1+f_{3,2}]^{2}$ Using the three-year and five-year spot rates, we find $(1+0.107)^{5}=(1+0.118)^{3}[1+f_{3,2}]^{2},$ so $\\sqrt{\\frac{(1+0.107)^{5}}{(1+0.118)^{3}}-1=f_{3,2}=9.07\\%$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 38,
+    "question_text": "During economic expansions, monetary authorities raise benchmark rates to help control inflation. This action is most often consistent with:\nA. bearish flattening.\nB. bullish steepening.\nC. bearish steepening.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. This action is most often consistent with bearish flattening, or short-term bond yields rising more than long-term bond yields resulting in a flatter yield curve.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 39,
+    "question_text": "When government budget deficits fall, fiscal supply-side effects are most likely to result in:\nA. higher bond yields.\nB. a steeper yield curve.\nC. lower bond yields.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. When government budget deficits fall, fiscal supply-side effects are most likely to result in lower bond yields.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 40,
+    "question_text": "A flight to quality is most often associated with:\nA. a general rise in the level of interest rates.\nB. bullish flattening.\nC. bearish flattening.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. A flight to quality is most often associated with bullish flattening, in which the yield curve flattens as long term rates fall by more than short-term rates.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 41,
+    "question_text": "Define the yield-to-maturity for a coupon bond.[cite: 7]",
+    "correct_answer": "Constructed Response[cite: 7]",
+    "explanation": "The yield-to-maturity of a coupon bond is the expected rate of return on a bond if the bond is held to maturity, there is no default, and the bond and all coupons are reinvested at the original yield-to-maturity.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 42,
+    "question_text": "Is it possible for a coupon bond to earn less than the yield-to-maturity if held to maturity?[cite: 7]",
+    "correct_answer": "Constructed Response[cite: 7]",
+    "explanation": "Yes, it is possible. For example, if reinvestment rates for the future coupons are lower than the initial yield-to-maturity, a bondholder may experience lower realized returns.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 43,
+    "question_text": "If a bond trader believes that current forward rates overstate future spot rates, how might she profit from that conclusion?[cite: 7]",
+    "correct_answer": "Constructed Response[cite: 7]",
+    "explanation": "If forward rates are higher than expected future spot rates, the market price of the bond will be lower than the intrinsic value. This dynamic occurs because, everything else held constant, the market is currently discounting the bonds cash flows at a higher rate than the investor's expected future spot rates. The investor can capitalize on this scenario by purchasing the undervalued bond. If expected future spot rates are realized, then bond prices should rise, thus generating gains for the investor.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 44,
+    "question_text": "Explain the strategy of rolling down the yield curve.[cite: 7]",
+    "correct_answer": "Constructed Response[cite: 7]",
+    "explanation": "The strategy of rolling down the yield curve is one in which a bond trader attempts to generate a total return over a given investment horizon that exceeds the return to bond with maturity matched to the horizon. The strategy involves buying a bond with maturity more distant than the investment horizon. Assuming an upward-sloping yield curve, if the yield curve does not change level or shape, as the bond approaches maturity (or rolls down the yield curve) it will be priced at successively lower yields. So as long as the bond is held for a period less than maturity, it should generate higher returns because of price gains.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 45,
+    "question_text": "What are the advantages of using the swap curve as a benchmark of interest rates relative to a government bond yield curve?[cite: 7]",
+    "correct_answer": "Constructed Response[cite: 7]",
+    "explanation": "Some countries do not have active government bond markets with trading at all maturities. For those countries without a liquid government bond market but with an active swap market, there are typically more points available to construct a swap curve than a government bond yield curve. For those markets, the swap curve may be a superior benchmark.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 46,
+    "question_text": "What is the TED spread, and what type of risk does it measure?[cite: 7]",
+    "correct_answer": "Constructed Response[cite: 7]",
+    "explanation": "The TED spread is the difference between MRR and the US T-bill rate of matching maturity. It is an indicator of perceived credit and liquidity risk. In particular, because sovereign debt instruments are typically the benchmark for the lowest default risk instruments in a given market, and loans between banks (often at MRR) have some counterparty risk, the TED spread is considered to at least in part reflect default (or counterparty) risk in the banking sector.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 47,
+    "question_text": "What is the SOFR rate, and which market conditions does it reflect?[cite: 7]",
+    "correct_answer": "Constructed Response[cite: 7]",
+    "explanation": "The secured overnight financing rate (SOFR), or overnight cash borrowing rate collateralized by US Treasuries, is a barometer of the US Treasury repurchase (or repo) market. SOFR is a volume-weighted index of all qualified repo market transactions on a given day and is influenced by supply and demand conditions in secured funding markets.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 48,
+    "question_text": "Madison's views on the term structure of interest rates are most consistent with the:\nA. local expectations theory.\nB. segmented markets theory.\nC. liquidity preference theory.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. Liquidity preference theory asserts that investors demand a risk premium, in the form of a liquidity premium, to compensate them for the added interest rate risk they face when buying long-maturity bonds. The theory also states that the liquidity premium increases with maturity.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 49,
+    "question_text": "Is Madison's response regarding the factors that affect short-term and long-term rate volatility correct?\nA. Yes\nB. No, she is incorrect regarding factors linked to long-term rate volatility\nC. No, she is incorrect regarding factors linked to short-term rate volatility[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. Madison's response is correct; research indicates that short-term rate volatility is mostly linked to uncertainty regarding monetary policy, whereas long-term rate volatility is mostly linked to uncertainty regarding the real economy and inflation.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 50,
+    "question_text": "Based on Exhibit 1, the results of Analysis 1 should show the yield on the 20-year bond decreasing by:\nA. 0.3015%.\nB. 0.6030%.\nC. 0.8946%.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. Because the factors in Exhibit 1 have been standardized to have unit standard deviations, a two-standard-deviation increase in the steepness factor will lead to the yield on the 20-year bond decreasing by 0.6030%, calculated as follows: Change in 20-year bond yield $=-0.3015\\%\\times2=-0.6030\\%$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 51,
+    "question_text": "Based on Exhibit 1, the results of Analysis 2 should show the yield on the five-year bond:\nA. decreasing by 0.8315%.\nB. decreasing by 0.0389%.\nC. increasing by 0.0389%.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. Because the factors in Exhibit 1 have been standardized to have unit standard deviations, a one-standard-deviation decrease in both the level factor and the curvature factor will lead to the yield on the five-year bond increasing by 0.0389%, calculated as follows: Change in five-year bond yield $=0.4352\\%-0.3963\\%=0.03963\\%=0.0389\\%$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 52,
+    "question_text": "According to the local expectations theory, what would be the difference in the one-month total return if an investor purchased a five-year zero-coupon bond versus a two-year zero-coupon bond?[cite: 7]",
+    "correct_answer": "Constructed Response[cite: 7]",
+    "explanation": "The local expectations theory asserts that the total return over a one-month horizon for a five-year zero-coupon bond would be the same as for a two-year zero-coupon bond.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 53,
+    "question_text": "Compare the segmented market and the preferred habitat term structure theories.[cite: 7]",
+    "correct_answer": "Constructed Response[cite: 7]",
+    "explanation": "Both theories attempt to explain the shape of any yield curve in terms of supply and demand for bonds. In segmented market theory, bond market participants are limited to purchase of maturities that match the timing of their liabilities. In the preferred habitat theory, participants have a preferred maturity for asset purchases, but they may deviate from it if they feel returns in other maturities offer sufficient compensation for leaving their preferred maturity segment.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 54,
+    "question_text": "List the three factors that have empirically been observed to affect Treasury security returns and explain how each of these factors affects returns on Treasury securities.[cite: 7]",
+    "correct_answer": "Constructed Response[cite: 7]",
+    "explanation": "Studies have shown that three factors affect Treasury returns: (1) changes in the level of the yield curve, (2) changes in the slope of the yield curve, and (3) changes in the curvature of the yield curve. Changes in the level refer to upward or downward shifts in the yield curve... Changes in the slope of the yield curve relate to the steepness of the yield curve... An example of a change in the curvature of the yield curve is a situation where rates fall at the short and long end of the yield curve while rising for intermediate maturities...[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 55,
+    "question_text": "What has been observed to be the most important factor in affecting Treasury returns?[cite: 7]",
+    "correct_answer": "Constructed Response[cite: 7]",
+    "explanation": "Empirically, the most important factor is the change in the level of interest rates.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 1[cite: 7]",
+    "question_id": 56,
+    "question_text": "Which measures of yield curve risk can measure shaping risk?[cite: 7]",
+    "correct_answer": "Constructed Response[cite: 7]",
+    "explanation": "Key rate durations and a measure based on sensitivities to level, slope, and curvature movements can address shaping risk, but effective duration cannot.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 2[cite: 7]",
+    "question_id": 57,
+    "question_text": "Based on Exhibit 1, the best action that an investor should take to profit from the arbitrage opportunity is to:\nA. buy on Frankfurt, sell on Eurex.\nB. buy on NYSE Euronext, sell on Eurex.\nC. buy on Frankfurt, sell on NYSE Euronext.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. This is the same bond being sold at three different prices, so an arbitrage opportunity exists by buying the bond from the exchange where it is priced lowest and immediately selling it on the exchange that has the highest price. Accordingly, an investor would maximize profit from the arbitrage opportunity by buying the bond on the Frankfurt exchange (which has the lowest price, €103.7565) and selling it on the Eurex exchange (which has the highest price, €103.7956) to generate a risk-free profit of €0.0391 (as mentioned, ignoring transaction costs) per €100 par.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 2[cite: 7]",
+    "question_id": 58,
+    "question_text": "Based on Exhibits 1 and 2, the exchange that reflects the arbitrage-free price of the bond is:\nA. Eurex.\nB. Frankfurt.\nC. NYSE Euronext.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. The bond from Exhibit 1 is selling for its calculated value on the NYSE Euronext exchange. The arbitrage-free value of a bond is the present value of its cash flows discounted by the spot rate for zero-coupon bonds maturing on the same date as each cash flow. The value of this bond, 103.7815, is calculated as follows...[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 2[cite: 7]",
+    "question_id": 59,
+    "question_text": "Recall from the reading that each node is represented by both a time element and a rate change component. Which of the following statements about the missing data in Exhibit 3 is correct?\nA. Node 3-2 can be derived from Node 2-2.\nB. Node 4-1 should be equal to Node 4-5 multiplied by $e^{0.4}.$\nC. Node 2-2 approximates the implied one-year forward rate two years from now.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. Because Node 2-2 is the middle node rate in Year 2, it will be close to the implied one-year forward rate two years from now (as derived from the spot curve). Node 4-1 should be equal to the product of Node 4-5 and $e^{0.8}.$ Lastly, Node 3-2 cannot be derived from Node 2-2; it can be derived from any other Year 3 node...[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 2[cite: 7]",
+    "question_id": 60,
+    "question_text": "Based on the information in Exhibits 3 and 4, the bond price in euros at Node 1-2 in Exhibit 4 is closest to:\nA. 102.7917.\nB. 104.8640.\nC. 105.2917.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. The value of a bond at a particular node, in this case Node 1-2, can be derived by determining the present value of the coupon payment and expected future bond values to the right of that node on the tree... The bond value at Node 1-2 is calculated as follows: Value 2.5+ (0.5× 101.5168 +0.5 102.1350) 1.014925 = 102.7917.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 2[cite: 7]",
+    "question_id": 61,
+    "question_text": "A benefit of performing Task 1 is that it:\nA. enables the model to price bonds with embedded options.\nB. identifies benchmark bonds that have been mispriced by the market.\nC. allows investors to realize arbitrage profits through stripping and reconstitution.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. Calibrating a binomial interest rate tree to match a specific term structure is important because we can use the known valuation of a benchmark bond from the spot rate pricing to verify the accuracy of the rates shown in the binomial interest rate tree. Once its accuracy is confirmed, the interest rate tree can then be used to value bonds with embedded options...[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 2[cite: 7]",
+    "question_id": 62,
+    "question_text": "If the assumed volatility is changed as Black requested in Task 4, the forward rates shown in Exhibit 3 will most likely:\nA. spread out.\nB. remain unchanged.\nC. converge to the spot rates.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. Volatility is one of the two key assumptions required to estimate rates for the binomial interest rate tree. Increasing the volatility from 10% to 15% would cause the possible forward rates to spread out on the tree because it increases the exponent in the relationship multiple between nodes...[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 2[cite: 7]",
+    "question_id": 63,
+    "question_text": "Based on Exhibit 1, which of the following bonds most likely includes an arbitrage opportunity?\nA. Bond A\nB. Bond B\nC. Bond C[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. Bond B's arbitrage-free price is calculated as follows: $\\frac{3}{1.02}+\\frac{103}{1.02^{2}}=101.9416,$ which is higher than the bond's market price of 100.9641. Therefore, an arbitrage opportunity exists... The arbitrage-free prices of Bond A and Bond C are equal to the market prices of the respective bonds, so there is no arbitrage opportunity for these two bonds...[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 2[cite: 7]",
+    "question_id": 64,
+    "question_text": "Based on Exhibits 2 and 3 and using Method 1, the amount (in absolute terms) by which the Hutto-Barkley Inc. corporate bond is mispriced is closest to:\nA. 0.3368 per 100 of par value.\nB. 0.4682 per 100 of par value.\nC. 0.5156 per 100 of par value.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. The first step in the solution is to find the correct spot rate (zero-coupon rates) for each year's cash flow... The spot rates for Year $2(z_{2})$ and Year $3(z_{3})$ are calculated as follows... The correct arbitrage-free price for the Hutto-Barkley Inc. bond is $P_{0}=\\frac{3}{(1.0300)}+\\frac{3}{(1.0402)^{2}}+\\frac{103}{(1.0507)^{3}}=94.4828.$ . Therefore, the bond is mispriced by 94.9984-94.4828 = 0.5156 per 100 of par value.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 2[cite: 7]",
+    "question_id": 65,
+    "question_text": "Method 1 would most likely not be an appropriate valuation technique for the bond issued by:\nA. Hutto-Barkley Inc.\nB. Luna y Estrellas Intl.\nC. Peaton Scorpio Motors.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The Luna y Estrellas Intl. bond contains an embedded option. Method 1 will produce an arbitrage-free valuation for option-free bonds; however, for bonds with embedded options, changes in future interest rates impact the likelihood the option will be exercised and so impact future cash flows...[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 2[cite: 7]",
+    "question_id": 66,
+    "question_text": "Based on Exhibit 4 and using Method 2, the correct price for Bond X is closest to:\nΑ. 97.2998.\nB. 109.0085.\nC. 115.0085.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. This is the binomial tree that obtains a bond value of 109.0085. ... $\\frac{6+(0.5x102.3810+0.5x105.8162)}{1.01}=109.0085.$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 2[cite: 7]",
+    "question_id": 67,
+    "question_text": "Based on Exhibit 1, Alvarez finds that an arbitrage opportunity is:\nA. not available.\nB. available based on the dominance principle.\nC. available based on the value additivity principle.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. Based on the dominance principle, an arbitrage opportunity exists. The dominance principle asserts that a financial asset with a risk-free payoff in the future must have a positive price today. Because Asset A and Asset B are both risk-free assets, they should have the same discount rate. Relative to its payoff, Asset A is priced at $500/525, or 0.95238, and Asset B is priced at $1,000/1,100, or 0.90909. Given its higher implied discount rate (10%) and lower corresponding price, Asset B is cheap relative to Asset A, which has a lower implied discount rate (5%) and a higher corresponding price...[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 2[cite: 7]",
+    "question_id": 68,
+    "question_text": "Based on the data in Exhibit 2, the most profitable arbitrage opportunity would be to buy the bond in:\nA. Mumbai and sell it in Hong Kong.\nB. Hong Kong and sell it in New York.\nC. New York and sell it in Hong Kong.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. Of the three markets, the New York bond has the lowest yield-to-maturity and, correspondingly, the highest bond price. Similarly, the Hong Kong bond has the highest yield-to-maturity and the lowest bond price of the three markets. Therefore, the most profitable arbitrage trade would be to buy the bond in Hong Kong and sell it in New York.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 2[cite: 7]",
+    "question_id": 69,
+    "question_text": "Based on Exhibits 3 and 4, the value of Bond C at the upper node at Time 1 is closest to:\nΑ. 97.1957.\n . 99.6255.\nC. 102.1255.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The bond value at the upper node at Time 1 is closest to 99.6255. The cash flow at Time 2 is 102.5, the redemption of par value (100) plus the final coupon payment (2.5). Using backward induction, we calculate the present value of the bond at the upper node of Time 1 as $102.5/1.028853=99.6255$.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 2[cite: 7]",
+    "question_id": 70,
+    "question_text": "Based on Exhibits 3 and 4, the price for Bond D is closest to:\nΑ. 97.4785.\nB. 103.3230.\nC. 106.3230.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The price of Bond D is closest to 103.3230 and can be calculated using backward induction... Therefore, the price of the bond is 103.3230.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 2[cite: 7]",
+    "question_id": 71,
+    "question_text": "Which of the various statements regarding binomial interest rate trees is correct?\nA. Statement 1\nB. Statement 2\nC. Statement 3[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. Two methods are commonly used to estimate potential interest rate volatility in a binomial interest rate tree. The first method bases estimates on historical interest rate volatility. The second method uses observed market prices of interest rate derivatives... Statement 1 is incorrect because there are three requirements to create a binomial interest rate tree, not two... Statement 3 is incorrect because the valuation of a bond using spot rates and the valuation of a bond from an interest rate tree will be the same regardless of the volatility assumption used in the model.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 2[cite: 7]",
+    "question_id": 72,
+    "question_text": "Based on Exhibits 5 and 6, the value of the lower one-period forward rate is closest to:\nΑ. 3.5122%.\nB. 3.5400%.\nC. 4.8037%.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The value of the lower one-period forward rate is closest to 3.5400%. Since the higher one-period forward rate is 5.8365% and interest rate volatility is 25%, the lower rate equals the higher rate multiplied by $e^{-2\\sigma}$. This is calculated as $0.058365\\times e^{-0.50}=0.035400$.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 2[cite: 7]",
+    "question_id": 73,
+    "question_text": "Based on Exhibits 4 and 7, the present value of Bond D's cash flows following Path 2 is closest to:\nΑ. 97.0322.\nB. 102.8607.\nC. 105.8607.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The present value of Bond D's cash flows following Path 2 is 102.8607 and can be calculated as follows: $\\frac{3}{1.015}+\\frac{3}{(1.015)(1.028853)}+\\frac{103}{(1.015)(1.028853)(1.016487)}=102.8607.$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 2[cite: 7]",
+    "question_id": 74,
+    "question_text": "Which of the statements regarding Monte Carlo simulation is correct?\nA. Only Statement 4 is correct.\nB. Only Statement 5 is correct.\nC. Both Statement 4 and Statement 5 are correct.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. Increasing the number of paths using the Monte Carlo method does increase the estimate's statistical accuracy. It does not, however, provide a value that is closer to the bond's true fundamental value.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 2[cite: 7]",
+    "question_id": 75,
+    "question_text": "Which term structure model can be calibrated to closely fit an observed yield curve?\nA. The Ho-Lee model\nB. The Vasicek model\nC. The Cox-Ingersoll-Ross model[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. The Ho-Lee model is arbitrage free and can be calibrated to closely match the observed term structure.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 2[cite: 7]",
+    "question_id": 76,
+    "question_text": "Which of Jones's statements regarding equilibrium and arbitrage-free term structure models is incorrect?\nA. Statement 1 only\nB. Statement 2 only\nC. Both Statement 1 and Statement 2[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. Both statements are incorrect because Jones incorrectly describes both types of model. Equilibrium term structure models are factor models that seek to describe the dynamics of the term structure by using fundamental economic variables that are assumed to affect interest rates. Arbitrage-free term structure models use observed market prices of a reference set of financial instruments, assumed to be correctly priced, to model the market yield curve.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 2[cite: 7]",
+    "question_id": 77,
+    "question_text": "Is Jones correct in describing key differences in equilibrium and arbitrage-free models as they relate to the number of parameters and model accuracy?\nA. Yes\nB. No, she is incorrect about which type of model requires fewer parameter estimates.\nC. No, she is incorrect about which type of model is more precise at modeling market yield curves.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. Consistent with Jones's statement, equilibrium term structure models require fewer parameters to be estimated relative to arbitrage-free models, and arbitrage-free models allow for time-varying parameters. Consequently, arbitrage-free models can model the market yield curve more precisely than equilibrium models.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 2[cite: 7]",
+    "question_id": 78,
+    "question_text": "Which of the following statements comparing the Ho-Lee and Kalotay-Williams-Fabozzi (KWF) equilibrium term structure models is correct?\nA. The Ho-Lee model assumes constant volatility, while the KWF model does not.\nB. The KWF model incorporates the possibility of negative rates, while the Ho-Lee model does not.\nC. The KWF model describes the log of the dynamics of the short rate, while the Ho-Lee model does not.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. The Kalotay-Williams-Fabozzi equilibrium term structure model is similar to the Ho-Lee model in that it assumes constant drift, no mean reversion, and constant volatility, but the KWF model describes the log of the dynamics of the short rate, while the Ho-Lee model does not.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 79,
+    "question_text": "The call feature of Bond #2 is best described as:\nA. European style.\nB. American style.\nC. Bermudan style.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. The call option embedded in Bond #2 can be exercised only at two predetermined dates: 1 October 20X1 and 1 October 20X2. Thus, the call feature is Bermudan style.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 80,
+    "question_text": "The bond that would most likely protect investors against a significant increase in interest rates is:\nA. Bond #1.\nB. Bond #2.\nC. Bond #3.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. The bond that would most likely protect investors against a significant increase in interest rates is the putable bond (i.e., Bond #3). When interest rates have risen and higher-yield bonds are available, a put option allows the bondholders to put back the bonds to the issuer prior to maturity and to reinvest the proceeds of the retired bonds in higher-yielding bonds.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 81,
+    "question_text": "A fall in interest rates would most likely result in:\nA. a decrease in the effective duration of Bond #3.\nB. Bond #3 having more upside potential than Bond #2.\nC. a change in the effective convexity of Bond #3 from positive to negative.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. A fall in interest rates results in a rise in bond values. For a callable bond, such as Bond #2, the upside potential is capped because the issuer is more likely to call the bond. In contrast, the upside potential for a putable bond, such as Bond #3, is uncapped. Thus, a fall in interest rates would result in a putable bond having more upside potential than an otherwise identical callable bond...[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 82,
+    "question_text": "The value of Bond #2 is closest to:\nA. 102.103% of par.\nB. 103.121% of par.\nC. 103.744% of par.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct: [Calculation utilizing the binomial interest rate tree yields 102.103% of par].[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 83,
+    "question_text": "The value of Bond #3 is closest to:\nA. 102.103% of par.\nB. 103.688% of par.\nC. 103.744% of par.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct: [Calculation utilizing the binomial interest rate tree yields 103.744% of par].[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 84,
+    "question_text": "All else being equal, a rise in interest rates will most likely result in the value of the option embedded in Bond #3:\nA. decreasing.\nB. remaining unchanged.\nC. increasing.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. Bond #3 is a putable bond, and the value of a put option increases as interest rates rise. At higher interest rates, the value of the underlying option-free bond (straight bond) declines, but the decline is offset partially by the increase in the value of the embedded put option, which is more likely to be exercised.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 85,
+    "question_text": "All else being equal, if Ferguson assumes an interest rate volatility of 15% instead of 10%, the bond that would most likely increase in value is:\nA. Bond #1.\nB. Bond #2.\nC. Bond #3.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. Regardless of the type of option, an increase in interest rate volatility results in an increase in option value. Because the value of a putable bond is equal to the value of the straight bond plus the value of the embedded put option, Bond #3 will increase in value if interest rate volatility increases...[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 86,
+    "question_text": "All else being equal, if the shape of the yield curve changes from upward sloping to flattening, the value of the option embedded in Bond #2 will most likely:\nA. decrease.\nB. remain unchanged.\nC. increase.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. Bond #2 is a callable bond, and the value of the embedded call option increases as the yield curve flattens. When the yield curve is upward sloping, the one-period forward rates on the interest rate tree are high and opportunities for the issuer to call the bond are fewer. When the yield curve flattens or inverts, many nodes on the tree have lower forward rates, which increase the opportunities to call and, thus, the value of the embedded call option.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 87,
+    "question_text": "The conversion price of the bond in Exhibit 3 is closest to:\nA. $26.67.\nB. $32.26.\nC. $34.19.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The conversion price of a convertible bond is equal to the par value divided by the conversion ratio-that is, $\\$1,000/31=\\$32.26$ per share.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 88,
+    "question_text": "If the market price of Pro Star's common stock falls from its level on 19 October 20X0, the price of the convertible bond will most likely:\nA. fall at the same rate as Pro Star's stock price.\nB. fall but at a slightly lower rate than Pro Star's stock price.\nC. be unaffected until Pro Star's stock price reaches the conversion price.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The conversion value of the bond is $31\\times\\$37.50$ or $1,162.50, which represents its minimum value. Thus, the convertible bond exhibits mostly stock risk-return characteristics; a fall in the stock price will result in a fall in the convertible bond price. However, the change in the convertible bond price is less than the change in the stock price because the convertible bond has a floor. That floor is the value of the straight (option-free) bond.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 89,
+    "question_text": "Based on Exhibit 2, and assuming that the forecast for interest rates and Smith's outlook for equity returns are validated, which bond's option is most likely to be exercised?\nA. Bond 2\nB. Bond 3\nC. Bond 4[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. If the central bank takes actions that lead to lower interest rates, the yields on Alpha's bonds are likely to decrease. If the yield to maturity on Bond 4 (callable) falls below the 1.55% coupon rate, the call option will become valuable and Alpha may call the bond because it is in the money...[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 90,
+    "question_text": "Based on Exhibit 2, the current price of Bond 1 is most likely greater than the current price of:\nA. Bond 2.\nB. Bond 3.\nC. Bond 4.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. All four bonds in Exhibit 2 issued by Alpha Corporation offer the same coupon rate and have the same remaining term to maturity. Bond 4 (callable) most likely has a current price that is less than Bond 1 (straight or option free) because investors are short the call option and must be compensated for bearing call risk. Bond 2 (convertible) most likely has a current price that is greater than Bond 1 because investors are paying for the conversion option embedded in Bond 2...[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 91,
+    "question_text": "Assuming the forecast for interest rates is proven accurate, which bond in Exhibit 2 will likely experience the smallest price increase?\nA. Bond 1\nB. Bond 3\nC. Bond 4[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. The consensus economic forecast is for interest rates to decrease. In an environment of decreasing interest rates, all bond prices should rise, ignoring any price impact resulting from any embedded options. When interest rates fall, the value of the embedded call option in Bond 4 (callable) increases, causing an opposing effect on price. The put option of putable bonds, by contrast, increases in value when interest rates rise rather than decline.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 92,
+    "question_text": "Based on the information in Exhibit 1 and Exhibit 2, the value of the embedded option in Bond 4 is closest to:\nA. nil.\nB. 0.1906.\nC. 0.8789.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. Bond 4 is a callable bond. Value of an issuer call option = Value of straight bond - Value of callable bond... Value of an option-free (straight) bond with a 1.55% coupon using spot rates: $1.55/(1.0100)^{1}+1.55/(1.012012)^{2}+101.55/(1.012515)^{3}=100.8789$. The value of a callable bond (at par) with no call protection period cannot exceed 100... The value of the call option $ion=100.8789-100=0.8789$.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 93,
+    "question_text": "If Smith's interest rate volatility forecast turns out to be true, which bond in Exhibit 2 is likely to experience the greatest price increase?\nA. Bond 2\nB. Bond 3\nC. Bond 4[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. An increase in interest rate volatility will cause the value of the put and call options embedded in Bond 3 and Bond 4 to increase. Bond 3 (putable) would experience an increase in price because the increased value of the put option increases the bond's value. In contrast, Bond 4 (callable) will experience a price decrease because the increased value of the call option reduces the callable bond's value...[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 94,
+    "question_text": "If the Brown and Company forecast comes true, which of the following is most likely to occur? The value of the embedded option in:\nA. Bond 3 decreases.\nB. Bond 4 decreases.\nC. both Bond 3 and Bond 4 increases.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. All else being equal, the value of a put option decreases as the yield curve moves from being upward sloping to flat to downward sloping (inverted). Alternatively, a call option's value increases as the yield curve flattens and increases further if the yield curve inverts. Therefore, if the yield curve became inverted, the value of the embedded option in Bond 3 (putable) would decrease and the value of the embedded option in Bond 4 (callable) would increase.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 95,
+    "question_text": "Based on Exhibit 2 and Exhibit 3, the market price of Bond 4 is closest to:\nA. 100.0000.\nB. 100.5123.\nC. 100.8790.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. The market price of callable Bond 4 with no protection period cannot exceed 100.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 96,
+    "question_text": "Which of the following conclusions regarding the bonds in Exhibit 4 is correct?\nA. Bond 5 is relatively cheaper than Bond 6.\nB. Bond 7 is relatively cheaper than Bond 6.\nC. Bond 8 is relatively cheaper than Bond 7.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. A bond with a larger option-adjusted spread (OAS) than that of a bond with similar characteristics and credit quality means that the bond is likely underpriced (cheap). Bond 7 (OAS 85 bps) is relatively cheaper than Bond 6 (OAS 65 bps).[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 97,
+    "question_text": "Based on Exhibit 1, Rayes would most likely conclude that relative to Bond #1, Bond #2 is:\nA. overpriced.\nB. fairly priced.\nC. underpriced.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. The option-adjusted spread (OAS) is the constant spread added to all the one-period forward rates that makes the arbitrage-free value of a risky bond equal to its market price. The OAS approach is often used to assess bond relative values. If two bonds have the same characteristics and credit quality, they should have the same OAS. If this is not the case, the bond with the largest OAS (i.e., Bond #2) is likely to be underpriced (cheap) relative to the bond with the smallest OAS (i.e., Bond #1).[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 98,
+    "question_text": "The effective duration of Bond #6 is:\nA. close to 1.\nB. higher than 1 but lower than 3.\nC. higher than 3.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. The effective duration of a floating-rate bond is close to the time to next reset. As the reset for Bond #6 is annual, the effective duration of this bond is close to 1.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 99,
+    "question_text": "In Exhibit 2, the bond whose effective duration might lengthen if interest rates rise is:\nA. Bond #3.\nB. Bond #4.\nC. Bond #5.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. Effective duration indicates the sensitivity of a bond's price to a 100 bps parallel shift of the benchmark yield curve assuming no change in the bond's credit spread. The effective duration of an option-free bond, such as Bond #3, goes down as interest rates rise. As interest rates rise, a call option moves out of the money, which increases the value of the callable bond and lengthens its effective duration. In contrast, as interest rates rise, a put option moves into the money, which limits the price depreciation of the putable bond and shortens its effective duration. Thus, the bond whose effective duration might lengthen if interest rates rise is the callable bond (i.e., Bond #4).[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 100,
+    "question_text": "The effective duration of Bond #4 is closest to:\nA. 0.76.\nB. 1.88.\nC. 3.77.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The effective duration of Bond #4 can be calculated using Equation 3, where ACurve is 20 bps, PV_ is 101.238, and $PV_{+}$ is 100.478. $PV_{0}$ the current full price of the bond (i.e., with no shift), is not given but can be calculated using Exhibit 3 as follows: [Calculation yields EffDur = 1.88].[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 101,
+    "question_text": "The value of Bond #7 is closest to:\nA. 99.697% of par.\nB. 99.936% of par.\nC. 101.153% of par.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct: [Calculation using the binomial interest rate tree yields a value of 99.697].[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 102,
+    "question_text": "The value of Bond #8 is closest to:\nA. 98.116% of par.\nB. 100.000% of par.\nC. 100.485% of par.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct: [Calculation using the binomial interest rate tree yields a value of 100.485].[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 103,
+    "question_text": "The value of Bond #9 is equal to the value of Bond #10:\nA. plus the value of a put option on Whorton's common stock.\nB. plus the value of a call option on Whorton's common stock.\nC. minus the value of a call option on Whorton's common stock.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. A convertible bond includes a conversion option, which is a call option on the issuer's common stock. This conversion option gives the bondholders the right to convert their debt into equity. Thus, the value of Bond #9, the convertible bond, is equal to the value of Bond #10, the underlying option-free bond (straight bond), plus the value of a call option on Whorton's common stock.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 104,
+    "question_text": "The minimum value of Bond #9 is equal to the greater of:\nA. the conversion value of Bond #9 and the current value of Bond #10.\nB. the current value of Bond #10 and a call option on Whorton's common stock.\nC. the conversion value of Bond #9 and a call option on Whorton's common stock.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. The minimum value of a convertible bond is equal to the greater of the conversion value of the convertible bond (i.e., Bond #9) and the current value of the straight bond (i.e., Bond #10).[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 105,
+    "question_text": "The factor that is currently least likely to affect the risk-return characteristics of Bond #9 is:\nA. interest rate movements.\nB. Whorton's credit spreads.\nC. Whorton's common stock price movements.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. The risk-return characteristics of a convertible bond depend on the market price of the issuer's common stock (underlying share price) relative to the bond's conversion price. When the underlying share price is well below the conversion price, the convertible bond exhibits mostly bond risk-return characteristics... The underlying share price ($30) is lower than the conversion price of Bond #9 ($50). Thus, Bond #9 exhibits mostly bond risk-return characteristics and is least affected by Whorton's common stock price movements.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 106,
+    "question_text": "Based on Exhibit 1 and Exhibit 2, the effective duration for the Al bond is closest to:\nA. 1.98.\nB. 2.15.\nC. 2.73.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The Al bond's value if interest rates shift down by 30 bps (PV_) is 100.78... The Al bond's value if interest rates shift up by 30 bps (PV) is 99.487: EffDur = (100.780 - 99.487) / (2 x 0.003 x 100.200) = 2.15.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 107,
+    "question_text": "If benchmark yields were to fall, which bond in Exhibit 1 would most likely experience a decline in effective duration?\nA. Al bond\nB. BI bond\nC. CE bond[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. The Al bond is a callable bond, and the effective duration of a callable bond decreases when interest rates fall. The reason is because a decline in interest rates may result in the call option moving into the money, which limits the price appreciation of the callable bond...[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 108,
+    "question_text": "Based on Exhibit 1, for the BI bond, one-sided:\nA. up-duration will be greater than one-sided down-duration.\nB. down-duration will be greater than one-sided up-duration.\nC. up-duration and one-sided down-duration will be about equal.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. The BI bond is an option-free bond, and one-sided up-duration and one-sided down-duration will be about equal for option-free bonds.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 109,
+    "question_text": "Based on Exhibit 1, which key rate duration is the largest for the BI bond?\nA. One-year key rate duration\nB. Two-year key rate duration\nC. Three-year key rate duration[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. The BI bond is an option-free bond. Its longest key rate duration will be in the year of its maturity because the largest cash flow (payment of both coupon and principal) occurs in that year.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 110,
+    "question_text": "Which bond in Exhibit 1most likely has the lowest effective convexity?\nA. Al bond\nB. BI bond\nC. CE bond[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. All else being equal, a callable bond will have lower effective convexity than an option-free bond when the call option is in the money. Similarly, when the call option is in the money, a callable bond will also have lower effective convexity than a putable bond if the put option is out of the money...[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 111,
+    "question_text": "Based on Exhibit 3, if DeLille Enterprises pays the dividend expected by Gillette, the conversion price of the DE bond will:\nA. be adjusted downward.\nB. not be adjusted.\nC. be adjusted upward.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. The conversion price would be adjusted downward because Gillette's expected dividend payment of €0.70 is greater than the threshold dividend of €0.50.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 112,
+    "question_text": "Based on Exhibit 3, the market conversion premium per share for the DE bond on 17 September 20X5 is closest to:\nΑ. €0.90.\nΒ. €2.13.\nC. €2.53.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The market conversion premium per share is equal to the market conversion price minus the underlying share price. The market conversion price is calculated as follows: Market conversion price = Convertible bond price / Conversion ratio = €1,123 / (€1,000/€10 per share) = €11.23 per share. The market conversion premium per share is then calculated as follows: Market conversion premium per share = Market conversion price - Underlying share price. $=\\in11.23-\\in9.10=\\in2.13$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 113,
+    "question_text": "Based on Exhibit 4, the arbitrage-free value of the RI bond is closest to:\nΑ. €814.\nΒ. €1,056.\nC. €1,108.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. The value of a convertible bond with both an embedded call option and a put option can be determined using the following formula: Value of callable putable convertible bond = Value of straight bond + Value of call option on the issuer's stock - Value of issuer call option + Value of investor put option. Value of callable putable bond $=\\in978+\\in147-\\in43+\\in26=\\in1,108.$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 3[cite: 7]",
+    "question_id": 114,
+    "question_text": "Based on Exhibit 4 and Gillette's forecast regarding Raffarin's share price, the return on the RI bond over the next year is most likely to be:\nA. lower than the return on Raffarin's common shares.\nB. the same as the return on Raffarin's common shares.\nC. higher than the return on Raffarin's common shares.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. Over the next year, Gillette believes that Raffarin's share price will continue to increase toward the conversion price but not exceed it. If Gillette's forecast becomes true, the return on the RI bond will increase but at a lower rate than the increase in Raffarin's share price because the conversion price is not expected to be reached.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 115,
+    "question_text": "The expected exposure to default loss for Bond I is:\nA. less than the expected exposure for Bond II.\nB. the same as the expected exposure for Bond II.\nC. greater than the expected exposure for Bond II.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The expected exposure is the projected amount of money that an investor could lose if an event of default occurs, before factoring in possible recovery. The expected exposure for both Bond I and Bond II is $100+5=105$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 116,
+    "question_text": "Based on Exhibit 1, the loss given default for Bond II is:\nA. less than that for Bond 1.\nB. the same as that for Bond I.\nC. greater than that for Bond I.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. The loss given default is a positive function of the expected exposure to default loss and a negative function of the recovery rate. Because Bond II has a lower recovery rate than Bond I and the same expected exposure to default loss $(100+5=105)$, it will have a higher loss given default than Bond I will have. The loss given default for Bond I is $105\\times(1-0.40)=63.00$ The loss given default for Bond II is $105\\times(1-0.35)=68.25$.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 117,
+    "question_text": "Based on Exhibit 1, the expected future value of Bond I at maturity is closest to:\nA. 98.80.\nB. 103.74.\nC. 105.00.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. In the event of no default, the investor is expected to receive 105. In the event of a default, the investor is expected to receive $105-[105\\times(1-0.40)]$ $=42$ The expected future value of the bond is, therefore, the weighted average of the no-default and default amounts, or $(105\\times0.98)+(42\\times0.02)=103.74$.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 118,
+    "question_text": "Based on Exhibit 1, the risk-neutral default probability for Bond I is closest to:\nA. 2.000%.\nB. 3.175%.\nC. 4.762%.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The risk-neutral default probability, $P^{\\circ}$ is calculated using the current price, the expected receipt at maturity with no default (that is, $100+5=$ 105), the expected receipt at maturity in the event of a default (that is, $0.40\\times105$ $=42$), and the risk-free rate of interest (0.03): $100=\\frac{[105\\times(1-P^{*})]+(42\\times P^{*})}{1.03}$ Solving for $P^{\\circ}$ gives 0.031746, or 3.1746%.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 119,
+    "question_text": "Based on Exhibit 2, the credit valuation adjustment for Bond III is closest to:\nA. 3.3367.\nB. 3.5395.\nC. 5.8808.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. The CVA is the sum of the present value of expected losses on the bond, which from Exhibit 2 is 3.3367.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 120,
+    "question_text": "Based on Exhibit 3, if Bond IV's credit rating changes during the next year to an A rating, its expected price change would be closest to:\nA. -8.00%.\nB. -7.35%.\nC. -3.15%.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. The expected percentage price change is the product of the negative of the modified duration and the difference between the credit spread in the new rating and the old rating: Expected percentage price change $=-4.2\\times(0.0175-0.01)=-0.0315,$ or -3.15%.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 121,
+    "question_text": "Kreming's suggested model for Bond IV is a:\nA. structural model.\nB. reduced-form model.\nC. term structure model.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. A reduced-form model in credit risk analysis uses historical variables, such as financial ratios and macroeconomic variables, to estimate the default intensity. A structural model for credit risk analysis, in contrast, uses option pricing and relies on a traded market for the issuer's equity.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 122,
+    "question_text": "Which of Kreming's observations regarding actual and risk-neutral default probabilities is correct?\nA. Only Observation 1\nB. Only Observation 2\nC. Both Observation 1 and Observation 2[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. Observation 1 is incorrect, but Observation 2 is correct. The actual default probabilities do not include the default risk premium associated with the uncertainty in the timing of the possible default loss. The observed spread over the yield on a risk-free bond in practice does include liquidity and tax considerations, in addition to credit risk.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 123,
+    "question_text": "The market price of Bond B1 is €875. The bond is:\nA. fairly valued.\nB. overvalued.\nC. undervalued.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The following table shows that the credit valuation adjustment (CVA) for the bond is €36.49, the sum of the present values of expected loss... Fair value of the bond considering $CVA=f888.49-CVA=f888.49-f36.49=$ €852.00. Because the market price of the bond (€875) is greater than the fair value of €852, B is correct.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 124,
+    "question_text": "Koning realizes that an increase in the recovery rate would lead to an increase in the bond's fair value, whereas an increase in the probability of default would lead to a decrease in the bond's fair value. He is not sure, however, which effect would be greater. So, he increases both the recovery rate and the probability of default by 25% of their existing estimates and recomputes the bond's fair value. The recomputed fair value is closest to:\nΑ. €843.14.\nΒ. €848.00.\nC. €855.91.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The recovery rate to be used now in the computation of fair value is $30\\%\\times1.25=37.5\\%$ whereas the default probability to be used is $1.50\\%\\times1.25=$ 1.875%... Fair value of the bond considering $CVA=f888.49-CVA=f888.49-f40.49=$ €848.00[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 125,
+    "question_text": "The fair value of Bond B2 is closest to:\nΑ. €1,069.34.\nΒ. €1,111.51.\nC. €1,153.68.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. The following table shows that the CVA for the bond is €42.17, the sum of the present values of expected loss... The value of the bond if it were default free would be $\\epsilon60\\times DF_{1}+\\epsilon60\\times DF_{2}+$ $\\epsilon60\\times DF_{3}+\\epsilon1,060\\times DF_{4}=\\epsilon1,111.51$. Fair value of the bond considering $CVA=\\in1,111.51-\\in42.17=\\in1,069.34.$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 126,
+    "question_text": "The market price of Bond B2 is €1,090. If the bond is purchased at this price and there is a default on Date 3, the rate of return to the bond buyer would be closest to:\nΑ. -28.38%.\nB. -41.72%.\nC. -69.49%.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. If default occurs on Date 3, the rate of return can be obtained by solving the following equation for internal rate of return (IRR): $\\epsilon1,090=\\frac{\\epsilon60}{1+IRR}+\\frac{\\epsilon60}{(1+IRR)^{2}}+\\frac{\\epsilon326.74}{(1+IRR)^{3}}$ In this equation, €60 is the amount of coupon received at Dates 1 and 2 prior to default at Date 3. The amount €326.74 is the recovery at Time 3...[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 127,
+    "question_text": "Bond B3 will have a modified duration of 2.75 at the end of the year. Based on the representative one-year corporate transition matrix in Exhibit 4 and assuming no default, how should the analyst adjust the bond's yield to maturity to assess the expected return on the bond over the next year?\nA. Add 7.7 bps to YTM.\nB. Subtract 7.7 bps from YTM.\nC. Subtract 9.0 bps from YTM.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. For each possible transition, the expected percentage price change, computed as the product of the modified duration and the change in the spread as shown in Exhibit 4... The expected percentage change in the value of the AA rated bond is computed by multiplying each expected percentage price change for a possible credit transition by its respective transition probability given in Exhibit 4 and summing the products... = -0.0774%. Therefore, the expected return on the bond over the next year is its YTM minus 0.0774%, assuming no default.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 128,
+    "question_text": "David Lok has estimated the probability of default of Bond B1 to be 1.50%. He is presenting the approach the research team used to estimate the probability of default. Which of the following statements is Lok likely to make in his presentation if the team used a reduced-form credit model?\nA. Option pricing methodologies were used, with the volatility of the underlying asset estimated based on historical data on the firm's stock price.\nB. Regression analysis was used, with the independent variables including both firm-specific variables, such as the debt ratio and return on assets, and macroeconomic variables, such as the rate of inflation and the unemployment rate.\nC. The default barrier was first estimated, followed by the estimation of the probability of default as the portion of the probability distribution that lies below the default barrier.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. Statement B is correct because a reduced-form credit model involves regression analysis using information generally available in the financial markets, such as the measures mentioned in the statement.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 129,
+    "question_text": "In the presentation, Lok is asked why the research team chose to use a reduced-form credit model instead of a structural model. Which statement is he likely to make in reply?\nA. Structural models are outdated, having been developed in the 1970s; reduced-form models are more modern, having been developed in the 1990s.\nB. Structural models are overly complex because they require the use of option pricing models, whereas reduced-form models use regression analysis.\nC. Structural models require \"inside\" information known to company management, whereas reduced-form models can use publicly available data on the firm.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. Structural models require information best known to the managers of the company. Reduced-form models require information only generally available in financial markets.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 130,
+    "question_text": "As previously mentioned, Ibarra is considering a future interest rate volatility of 20% and an upward-sloping yield curve, as shown in Exhibit 2. Based on her analysis, the fair value of Bond B2 is closest to:\nΑ. €1,101.24.\nΒ. €1,141.76.\nC. €1,144.63.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. The following tree shows the valuation assuming no default of Bond B2, which pays a 6% annual coupon... Fair value of the bond considering $CVA=\\in1,144.63-CVA=E1,144.63-E43.39$ $=\\in1,101.24$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 131,
+    "question_text": "Ibarra wants to know the credit spread of Bond B2 over a theoretical comparable-maturity government bond with the same coupon rate as this bond. The foregoing credit spread is closest to:\nA. 108 bps.\nB. 101 bps.\nC. 225 bps.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. The corporate bond's fair value is computed in the solution to Question 16 as €1,101.24. The YTM can be obtained by solving the following equation for IRR: $\\epsilon1,101.24=\\frac{\\epsilon60}{1+IRR}+\\frac{\\epsilon60}{(1+IRR)^{2}}+\\frac{\\epsilon60}{(1+IRR)^{3}}+\\frac{\\epsilon1,060}{(1+IRR)^{4}}.$ The solution to this equation is 3.26%. Valuation of a four-year, 6% coupon bond under no default is computed... as 1,144.63. So, the YTM of a theoretical comparable-maturity government bond... is 2.18%. So, the credit spread that the analyst wants to compute is $3.26\\%-2.18\\%=1.08\\%,$ or 108 bps.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 132,
+    "question_text": "Ibarra is interested in analyzing how a simultaneous decrease in the recovery rate and the probability of default would affect the fair value of Bond B2. She decreases both the recovery rate and the probability of default by 25% of their existing estimates and recomputes the bond's fair value. The recomputed fair value is closest to:\nΑ. €1,096.59.\nΒ. €1,108.40.\nC. €1,111.91.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The recovery rate to be used now in the computation of fair value is $30\\%\\times0.75=22.500\\%$, whereas the default probability to be used is $1.50\\%\\times0.75$ $=1.125\\%$... Fair value of the bond considering $CVA=\\in1,144.63-CVA=E1,144.63-\\in36.23$ $=\\in1,108.40$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 133,
+    "question_text": "The wealth management firm has an existing position in Bond B4. The market price of B4, a floating-rate note, is €1,070. Senior management has asked Ibarra to make a recommendation regarding the existing position. Based on the assumptions used to calculate the estimated fair value only, her recommendation should be to:\nA. add to the existing position.\nB. hold the existing position.\nC. reduce the existing position.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. The following tree shows the valuation assuming no default of the floating-rate note (FRN), B4, which has a quoted margin of 4%... Fair value of the FRN considering $CVA=E1,154.27-CVA=E1,154.27-\\in44.43$ $=\\in1,109.84$ Because the market price of €1,070 is less than the estimated fair value, the analyst should recommend adding to existing positions in the FRN.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 134,
+    "question_text": "The issuer of the floating-rate note, B4, is in the energy industry. Ibarra believes that oil prices are likely to increase significantly in the next year, which will lead to an improvement in the firm's financial health and a decline in the probability of default from 1.50% in Year 1 to 0.50% in Years 2, 3, and 4. Based on these expectations, which of the following statements is correct?\nA. The CVA will decrease to €22.99.\nB. The note's fair value will increase to €1,177.26.\nC. The value of the FRN, assuming no default, will increase to €1,173.55.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. The changing probability of default will not affect the binomial tree prepared in the solution to Question 11. The Date 1 value remains €1,154.27, which is also the VND. The expected exposures, loss given default, and discount factors are also unaffected by the changing probability of default... Thus, CVA decreases to €22.99.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 135,
+    "question_text": "The floating-rate note, B4, is currently rated BBB by Standard & Poor's and Fitch Ratings (and Baa by Moody's Investors Service). Based on the research department assumption about the probability of default in Question 18 and her own assumption in Question 19, which action does Ibarra most likely expect from the credit rating agencies?\nA. Downgrade from BBB to BB.\nB. Upgrade from BBB to AAA.\nC. Place the issuer on watch with a positive outlook.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. The credit rating agencies typically make incremental changes, as seen in a transition matrix provided in Exhibit 1. Ibarra believes the bond is undervalued, because her assessment of the probability of default and the recovery rate is more optimistic than that of the agencies. Therefore, she most likely expects the credit rating agencies to put the issuer on a positive watch.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 136,
+    "question_text": "During the presentation about how the research team estimates the probability of default for a particular bond issuer, Lok is asked for his thoughts on the shape of the term structure of credit spreads. Which statement is he most likely to include in his response?\nA. The term structure of credit spreads typically is flat or slightly upward sloping for high-quality investment-grade bonds. High-yield bonds are more sensitive to the credit cycle, however, and can have a more upwardly sloped term structure of credit spreads than investment-grade bonds or even an inverted curve.\nB. The term structure of credit spreads for corporate bonds is always upward sloping-more so the weaker the credit quality because probabilities of default are positively correlated with the time to maturity.\nC. There is no consistent pattern for the term structure of credit spreads. The shape of the credit term structure depends entirely on industry factors.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. B is incorrect because, although generally true for investment-grade bonds, the statement neglects the fact that high-yield issuers sometimes face a downward-sloping credit term structure... C is incorrect because there is a consistent pattern for the term structure of credit spreads: Typically, it is upwardly sloped because greater time to maturity is associated with higher projected probabilities of default and lower recovery rates.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 137,
+    "question_text": "The final question for Lok is about covered bonds. The person asking says, \"I've heard about them but don't know what they are.\" Which statement is Lok most likely to make to describe a covered bond?\nA. A covered bond is issued in a non-domestic currency. The currency risk is then fully hedged using a currency swap or a package of foreign exchange forward contracts.\nB. A covered bond is issued with an attached credit default swap. It essentially is a \"risk-free\" government bond.\nC. A covered bond is a senior debt obligation giving recourse to the issuer as well as a predetermined underlying collateral pool, often commercial or residential mortgages.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. A covered bond is a senior debt obligation of a financial institution that gives recourse to the originator/issuer as well as a predetermined underlying collateral pool. Each country or jurisdiction specifies the eligible collateral types as well as the specific structures permissible in the covered bond market...[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 138,
+    "question_text": "The most appropriate response to Kowalski's question regarding credit rating migration is that it has:\nA. a negative impact.\nB. no impact.\nC. a positive impact.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. Credit spread migration typically reduces the expected return for two reasons. First, the probabilities for rating changes are not symmetrically distributed around the current rating; they are skewed toward a downgrade rather than an upgrade. Second, the increase in the credit spread is much larger for downgrades than is the decrease in the spread for upgrades.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 139,
+    "question_text": "Based on Exhibit 1, the one-year expected return on the Entre Corp. bond is closest to:\nA. 3.73%.\nB. 5.50%.\nC. 7.27%.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. The expected return on the Entre Corp. bond over the next year is its yield to maturity plus the expected percentage price change in the bond over the next year. In the following table, for each possible transition, the expected percentage price change is the product of the bond's modified duration of 7.54, multiplied by -1, and the change in the spread, weighted by the given probability... = -1.76715% So, the expected return on the Entre Corp. bond is its yield to maturity plus the expected percentage price change due to credit migration: Expected return $=5.50\\%-1.77\\%=3.77\\%$[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 140,
+    "question_text": "Based on Kowalski's assumptions and Exhibit 2 and Exhibit 3, the credit spread on the VraiRive bond is closest to:\nA. 0.6949%.\nB. 0.9388%.\nC. 1.4082%.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. The credit spread can be calculated in three steps: Step 1 Estimate the value of the three-year VraiRive bond assuming no default... Step 2 Calculate the credit valuation adjustment, and then subtract the CVA from the VND from Step 1 to establish the fair value of the bond... Step 3 Based on the fair value from Step 2, calculate the yield to maturity of the bond, and solve for the credit spread by subtracting the yield to maturity on the benchmark bond from the yield to maturity on the VraiRive bond... The credit spread is equal to the yield to maturity on the VraiRive bond minus the yield to maturity on the three-year benchmark bond... Therefore, the credit spread on the VraiRive bond is 6.4082%- 5.0000% = 1.4082%.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 141,
+    "question_text": "The most appropriate response to Kowalski's question relating to the credit spread is:\nA. an increase in the probability of default.\nB. an increase in the loss given default.\nC. a decrease in the risk-neutral probability of default.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. A decrease in the risk-neutral probability of default would decrease the credit valuation adjustment and decrease the credit spread. In contrast, increasing the bond's loss-given-default assumption and increasing the probability-of-default assumption would increase the credit valuation adjustment and decrease the fair value of the bond (and increase the yield to maturity and the credit spread over its benchmark).[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 142,
+    "question_text": "Which of Kowalski's statements regarding the term structure of credit spreads is correct?\nA. Only Statement 1\nB. Only Statement 2\nC. Both Statement 1 and Statement 2[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. For investment-grade bonds with the highest credit ratings, credit spreads are extremely low, and credit migration is possible only in one direction given the implied lower bound of zero on credit spreads. As a result, the credit term structure for the most highly rated securities tends to be either flat or slightly upward sloping... Credit spreads would decrease, not increase, with the expectation of economic growth.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 143,
+    "question_text": "DLL's credit spread term structure is most consistent with the firm having:\nA. low leverage.\nB. weak cash flow.\nC. a low profit margin.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. Positive-sloped credit spread curves may arise when a high-quality issuer with a strong competitive position in a stable industry has low leverage, strong cash flow, and a high profit margin. This type of issuer tends to exhibit very low short-term credit spreads that rise with increasing maturity given greater uncertainty due to the macroeconomic environment...[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 4[cite: 7]",
+    "question_id": 144,
+    "question_text": "Given the description of the asset pool of the ABS, Kowalski should recommend a:\nA. loan-by-loan approach.\nB. portfolio-based approach.\nC. statistics-based approach.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The auto ABS is granular, with many small loans relative to the size of the total portfolio. The auto loans are also homogeneous. These characteristics support using the portfolio-based approach. A loan-by-loan approach would be inefficient because of the large number of basically similar loans; this approach is best for a portfolio of discrete, large loans that are heterogeneous. A statistics-based approach would work for a static book of loans, whereas the auto loan portfolio would be dynamic and would change over time.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 5[cite: 7]",
+    "question_id": 145,
+    "question_text": "If UNAB experienced a credit event on 1 July, Watt should recommend that Deem Advisors:\nA. prefer a cash settlement.\nB. prefer a physical settlement.\nC. be indifferent between a cash or a physical settlement.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. Deem Advisors would prefer a cash settlement. Deem Advisors owns Bond 2 (trading at 50% of par), which is worth more than the cheapest-to-deliver obligation (Bond 1, also a senior secured bond, trading at 40% of par). Based on the price of this cheapest-to-deliver security, the estimated recovery rate is 40%. Thus, Deem Advisors can cash settle for $6 million $[=(1-$ $40\\%)\\times\\$10$ million] on its CDS contract and sell the bond it owns, Bond 2, for $5 million, for total proceeds of $11 million...[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 5[cite: 7]",
+    "question_id": 146,
+    "question_text": "According to Watt's statement, the shape of UNAB's credit curve is most likely:\nA. flat.\nB. upward-sloping.\nC. downward-sloping.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. A downward-sloping credit curve implies a greater probability of default in the earlier years than in the later years. Downward-sloping curves are less common and often are the result of severe near-term stress in the financial markets.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 5[cite: 7]",
+    "question_id": 147,
+    "question_text": "Should Watt conclude that UNAB experienced a credit event?\nA. Yes\nB. No, because UNAB did not file for bankruptcy\nC. No, because the failure to pay occurred on a subordinated unsecured bond[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. UNAB experienced a credit event when it failed to make the scheduled coupon payment on the outstanding subordinated unsecured obligation. Failure to pay, a credit event, occurs when a borrower does not make a scheduled payment of principal or interest on outstanding obligations after a grace period, even without a formal bankruptcy filing.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 5[cite: 7]",
+    "question_id": 148,
+    "question_text": "Based on Exhibit 1, the upfront premium as a percent of the notional for the CDS protection on Kand Corporation would be closest to:\nA. 2.0%.\nB. 9.8%.\nC. 14.0%.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. An approximation for the upfront premium is (Credit spread - Fixed coupon rate) x Duration of the CDS. To buy 10-year CDS protection, Deem Advisors would have to pay an approximate upfront premium of 1,400 bps [(700 $-500)\\times71$ or 14% of the notional.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 5[cite: 7]",
+    "question_id": 149,
+    "question_text": "If Deem Advisors enters into a new offsetting contract two months after purchasing protection on Kand Corporation, this action will most likely result in:\nA. a loss on the CDS position.\nB. a profit on the CDS position.\nC. neither a loss nor a profit on the CDS position.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. Deem Advisors purchased protection and therefore is economically short and benefits from an increase in the company's spread. Since putting on the protection, the credit spread increased by 200 bps, and Deem Advisors realizes the profit by entering into a new, offsetting contract (sells protection to another party at a higher premium).[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 5[cite: 7]",
+    "question_id": 150,
+    "question_text": "If convergence occurs in the bond and CDS markets for Tollunt Corporation, a basis trade will capture a profit closest to:\nA. 0.25%.\nB. 1.75%.\nC. 2.75%.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. A difference in credit spreads in the bond market and CDS market is the foundation of the basis trade strategy. If the spread is higher in the bond market than in the CDS market, it is said to be a negative basis. In this case, the bond credit spread is currently 4.50% (bond yield minus MRR) and the comparable CDS contract has a credit spread of 4.25%. The credit risk is cheap in the CDS market relative to the bond market. Since the protection and the bond were both purchased, if convergence occurs, the trade will capture the 0.25% differential in the two markets (4.50% -4.25%).[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 5[cite: 7]",
+    "question_id": 151,
+    "question_text": "To satisfy the compliance requirements referenced by Chan, the Fund is most likely required to:\nA. set a notional amount.\nB. post an upfront payment.\nC. sign an ISDA master agreement.[cite: 7]",
+    "correct_answer": "C[cite: 7]",
+    "explanation": "C is correct. Parties to CDS contracts generally agree that their contracts will conform to ISDA specifications. These terms are specified in the ISDA master agreement, which the parties to a CDS sign before any transactions are made. Therefore, to satisfy the compliance requirements referenced by Chan, the sovereign wealth fund must sign an ISDA master agreement with SGS.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 5[cite: 7]",
+    "question_id": 152,
+    "question_text": "Which type of CDS should Chan recommend to Smith?\nA. CDS index\nB. Tranche CDS\nC. Single-name CDS[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. A CDS index (e.g., CDX and iTraxx) would allow the Fund to simultaneously fully hedge multiple fixed-income exposures. A tranche CDS will also hedge multiple exposures, but it would only partially hedge those exposures.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 5[cite: 7]",
+    "question_id": 153,
+    "question_text": "Based on Exhibit 1, the probability of Orion defaulting on the bond during the first three years is closest to:\nA. 1.07%.\nB. 2.50%.\nC. 3.85%.[cite: 7]",
+    "correct_answer": "A[cite: 7]",
+    "explanation": "A is correct. Based on Exhibit 1, the probability of survival for the first year is 99.78% (100% minus the 0.22% hazard rate). Similarly, the probability of survival for the second and third years is 99.65% (100% minus the 0.35% hazard rate) and 99.50% (100% minus the 0.50% hazard rate), respectively. Therefore, the probability of survival of the Orion bond through the first three years is equal to 0.9978 x $0.9965\\times0.9950=0.9893$, and the probability of default sometime during the first three years is $1-0.9893$ or 1.07%.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 5[cite: 7]",
+    "question_id": 154,
+    "question_text": "To close the position on the hypothetical Orion trade, the Fund:\nA. sells protection at a higher premium than it paid at the start of the trade.\nB. buys protection at a lower premium than it received at the start of the trade.\nC. buys protection at a higher premium than it received at the start of the trade.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The trade assumes that £6 million of five-year CDS protection on Orion is initially sold, so the Fund received the premium. Because the credit spread of the Orion CDS narrowed from 150 bps to 100 bps, the CDS position will realize a financial gain... To close the position and monetize this gain, the Fund should unwind the position by buying protection for a lower premium (relative to the original premium collected).[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 5[cite: 7]",
+    "question_id": 155,
+    "question_text": "The hypothetical Orion trade generated an approximate:\nA. loss of £117,000.\nB. gain of £117,000.\nC. gain of £234,000.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The gain on the hypothetical Orion trade is £117,000, calculated as follows. Approximate profit = Change in credit spread (in bps) Duration × Notional amount. Approximate profit $=(150~bps-100~bps)\\times3.9\\times f6~,$ million. Approximate profit $=0.005\\times3.9\\times f6$ million. £117,000. The Fund gains because it sold protection at a spread of 150 bps and closed out the position by buying protection at a lower spread of 100 bps.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 5[cite: 7]",
+    "question_id": 156,
+    "question_text": "Based on the three economic outlook statements, a profitable long/short trade would be to:\nA. sell protection using a Canadian CDX IG and buy protection using a US CDX IG.\nB. buy protection using an iTraxx Crossover and sell protection using an iTraxx Main.\nC. buy protection using an electric car CDS and sell protection using a traditional car CDS.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. Based on Outlook 1, Chan and Smith anticipate that Europe's economy will weaken. In order to profit from this forecast, one would buy protection using a high-yield CDS index (e.g., iTraxx Crossover) and sell protection using an investment-grade CDS index (e.g., iTraxx Main).[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 5[cite: 7]",
+    "question_id": 157,
+    "question_text": "The curve trade that would best capitalize on Chan's view of the US credit curve is to:\nA. buy protection using a 20-year CDX and buy protection using a 2-year CDX.\nB. buy protection using a 20-year CDX and sell protection using a 2-year CDX.\nC. sell protection using a 20-year CDX and buy protection using a 2-year CDX.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. To take advantage of Chan's view of the US credit curve steepening in the short term, a curve trade will entail shorting (buying protection using) a long-term (20-year) CDX and going long (selling protection using) a short-term (2-year) CDX. A steeper curve means that long-term credit risk increases relative to short-term credit risk.[cite: 7]"
+  },
+  {
+    "module": "Fixed Income - Learning Module 5[cite: 7]",
+    "question_id": 158,
+    "question_text": "A profitable equity-versus-credit trade involving Delta and Zega is to:\nA. short Zega shares and buy protection on Delta using the 10-year CDS.\nB. go long Zega shares and buy protection on Delta using 5-year CDS.\nC. go long Delta shares and buy protection on Delta using 5-year CDS.[cite: 7]",
+    "correct_answer": "B[cite: 7]",
+    "explanation": "B is correct. The shares of Zega can be sold at a higher price as a result of the unsolicited bid in the market. If Delta Corporation issues significantly more debt, there is a higher probability that it may default. If the Fund sells protection on Delta now, the trade will realize a profit as credit spreads widen. An equity-versus-credit trade would be to go long (buy) the Zega shares and buy protection on Delta.[cite: 7]"
+  }
+]

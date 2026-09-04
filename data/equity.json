@@ -1,0 +1,842 @@
+[
+  {
+    "module": "Equity Investments - Learning Module 1[cite: 6]",
+    "question_id": 1,
+    "question_text": "Based on Statement 2, which of the following sources of perceived mispricing do active investment managers attempt to identify? The difference between:\nA. intrinsic value and market price.\nB. estimated intrinsic value and market price.\nC. intrinsic value and estimated intrinsic value.[cite: 6]",
+    "correct_answer": "A[cite: 6]",
+    "explanation": "A is correct. The difference between the true (real) but unobservable intrinsic value and the observed market price contributes to the abnormal return or alpha, which is the concern of active investment managers.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 1[cite: 6]",
+    "question_id": 2,
+    "question_text": "With respect to Statements 3 and 4, which of the following measures of value would the distressed securities fund's analyst consider that a core equity fund analyst might ignore?\nA. Fair value\nB. Liquidation value\nC. Fair market value[cite: 6]",
+    "correct_answer": "B[cite: 6]",
+    "explanation": "B is correct. The measure of value the distressed securities fund's analyst would consider that the core equity fund analyst might ignore is liquidation value. The liquidation value of a company is its value if it were dissolved and its assets sold individually.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 1[cite: 6]",
+    "question_id": 3,
+    "question_text": "With respect to Statement 4, which measure of value is most relevant for the analyst of the fund described?\nA. Liquidation value\nB. Investment value\nC. Going-concern value[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. For its core equity fund, Global-Guardian Capital screens its investable universe of securities for well-capitalized companies that are expected to generate significant future free cash flow from core business operations. The concern with future free cash flows implies that going-concern value is relevant.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 1[cite: 6]",
+    "question_id": 4,
+    "question_text": "According to Statement 5, analysts are expected to use valuation concepts and models to:\nA. value private businesses.\nB. render fairness opinions.\nC. extract market expectations.[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. Market prices reflect the expectations of investors about the future performance of companies. The analyst can evaluate the reasonableness of the expectations implied by the market price by comparing the market's implied expectations to his own expectations. This process assumes a valuation model, as discussed in the text.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 1[cite: 6]",
+    "question_id": 5,
+    "question_text": "Based on Richardson's industry analysis, which of the following characteristics of men's retail clothing retailing would positively affect its profitability? That industry's:\nA. entry costs.\nB. substitution costs.\nC. number of suppliers.[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. The men's retail clothing industry is characterized by a large number of wholesale clothing suppliers. When many suppliers of the products needed by industry participants exist, competition among suppliers should limit their ability to raise input prices. Thus, the large number of suppliers is a factor that should positively affect industry profitability.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 1[cite: 6]",
+    "question_id": 6,
+    "question_text": "Which of the following statements about the reported earnings of Renaissance Clothing is most accurate? Relative to sustainable earnings, reported earnings are likely:\nA. unbiased.\nB. upward biased.\nC. downward biased.[cite: 6]",
+    "correct_answer": "B[cite: 6]",
+    "explanation": "B is correct. The effects of favorable nonrecurring events in reported earnings would tend to bias reported earnings upward relative to sustainable earnings because non-recurring items are by definition not expected to repeat. Renaissance Clothing included three non-recurring items in their most recent earnings release that all led to higher earnings for the current period: a positive litigation settlement, a one-time tax credit, and the gain on the sale of a non-operating asset.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 1[cite: 6]",
+    "question_id": 7,
+    "question_text": "Which valuation model is Richardson applying in his analysis of the retailers?\nA. Relative value\nB. Absolute value\nC. Sum-of-the-parts[cite: 6]",
+    "correct_answer": "B[cite: 6]",
+    "explanation": "B is correct. An absolute valuation model is a model that specifies an asset's intrinsic value. The most important type of absolute equity valuation models are present value models (also referred to as discounted cash flow models), and the model described by Richardson is of that type.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 1[cite: 6]",
+    "question_id": 8,
+    "question_text": "Which valuation model would the director of research most likely recommend Lee use to estimate the value of VEGA?\nA. Free cash flow\nB. Dividend discount\nC. $P/E$ relative valuation[cite: 6]",
+    "correct_answer": "A[cite: 6]",
+    "explanation": "A is correct. The broad criteria for model selection are that a valuation model be consistent with the characteristics of the company being valued that it be appropriate given the availability and quality of the data and consistent with the purpose of the valuation. VEGA currently has negative earnings, making the use of $P/E$ relative valuation difficult if not impossible. As VEGA does not pay a dividend and is not expected to for the foreseeable future, the application of a dividend discount model is problematic. However, the lack of a dividend would not be an obstacle to free cash flow valuation. Furthermore, the director of research has advised that the possibility that competitors may seek to acquire VEGA be taken in to account in valuing VEGA. The reading states that free cash flow valuation can be appropriate in such circumstances. Thus, the director of research would be most likely to recommend free cash flow valuation.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 1[cite: 6]",
+    "question_id": 9,
+    "question_text": "Based on Santos's revenue growth rate estimate, the shares of Phoenix are most likely:\nA. undervalued.\nB. fairly valued.\nC. overvalued.[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. If the revenue growth rate inferred by the market price exceeds the growth rate that the firm could reasonably expect, Santos should conclude that the market price is too high and thus that the firm is overvalued.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 1[cite: 6]",
+    "question_id": 10,
+    "question_text": "Which of the reasons given by Santos most likely justifies a reduction in Phoenix's forecasted growth rate?\nA. Reason 1 only\nB. Reason 2 only\nC. Both Reason 1 and Reason 2[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. Increased competition for successful firms can cause a regression to the mean of a company's growth rate. Expiring and weakening intellectual property and franchise agreements can also reduce potential growth.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 1[cite: 6]",
+    "question_id": 11,
+    "question_text": "Which of Hartmann's examples of company performance forecasting best describes an example of bottom-up forecasting?\nA. Restaurant chain\nB. Electric utility company\nC. Retail furniture company[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. The retail furniture company forecasting sales based on sales per square meter is an example of bottom-up forecasting because it aggregates forecasts at a micro level to larger-scale forecasts.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 1[cite: 6]",
+    "question_id": 12,
+    "question_text": "Based on his trading strategy, which of the following should Hartmann recommend?\nA. Short HG Health and Corgent Cell Sciences\nB. Buy Johnson Labs and Corgent Cell Sciences\nC. Buy Johnson Labs and short Corgent Cell Sciences[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. Pairs trading involves buying an undervalued stock and shorting an overvalued stock in the same industry. Hartmann should buy Johnson Labs (15% undervalued) and short Corgent Cell Sciences (10% overvalued).[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 1[cite: 6]",
+    "question_id": 13,
+    "question_text": "Based on Company A's characteristics, which of the following absolute valuation models is most appropriate for valuing that company?\nA. Asset based\nB. Dividend discount\nC. Free cash flow to the firm[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. The free cash flow to the firm model is the most appropriate of the choices because it can be used whether the company has significant marketable assets or consistently pays a cash dividend. Much of Company A's assets are intangible, and although the company has a history of paying a dividend, it has been only occasionally and in the form of a special dividend (i.e., not a consistent cash dividend).[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 1[cite: 6]",
+    "question_id": 14,
+    "question_text": "Based on Company B's characteristics, which of the following valuation models is most appropriate for valuing that company?\nA. Asset based\nB. Sum of the parts\nC. Dividend discount[cite: 6]",
+    "correct_answer": "B[cite: 6]",
+    "explanation": "B is correct. This valuation model would be consistent with the characteristics of the company. Company B is a conglomerate operating in three unrelated industries with significantly different expected revenue growth rates. The sum-of-the-parts valuation model sums the estimated values of each of the company's businesses as if each business were an independent going concern. Sum-of-the-parts analysis is most useful when valuing a company with segments in different industries that have different valuation characteristics.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 1[cite: 6]",
+    "question_id": 15,
+    "question_text": "Which of the following is most likely to be appropriate to consider in Company B's valuation of Company X?\nA. Blockage factor\nB. Control premium\nC. Lack of marketability discount[cite: 6]",
+    "correct_answer": "B[cite: 6]",
+    "explanation": "B is correct. A control premium may be reflected in the value of a stock investment that would give an investor a controlling position. Company B acquired 70% of the outstanding stock of Company X; more than 50% is considered a controlling ownership position.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 1[cite: 6]",
+    "question_id": 16,
+    "question_text": "Based on Dormier's response to the director of research, Dormier's process could have been more consistent with the firm's policy by:\nA. incorporating additional micro-level inputs into her valuation models.\nB. evaluating the impact of general economic conditions on each company.\nC. asking more probing questions during publicly available company conference calls.[cite: 6]",
+    "correct_answer": "B[cite: 6]",
+    "explanation": "B is correct. A top-down forecasting approach moves from macroeconomic forecasts to industry forecasts and then to individual company and asset forecasts. Analysts are expected to understand the general economic conditions before finalizing a research report and making a recommendation. According to Dormier's response, she did not comment on the general economic conditions-although such considerations would be consistent with the firm's policy of using a top-down approach.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 17,
+    "question_text": "What is the terminal value of the stock based on the first approach?\nA. C$17.65.\nB. C$31.06.\nC. C$33.09.[cite: 6]",
+    "correct_answer": "B[cite: 6]",
+    "explanation": "B is correct. The following table provides the calculations needed to compute the value of the stock using the first approach, including the calculations for the terminal value $V_{8}$ As the table shows, the terminal value $V_{8}=C\\$31.0550$[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 18,
+    "question_text": "In the first approach, what proportion of the stock's total value is represented by the value of second stage?\nA. 0.10.\nB. 0.52.\nC. 0.90.[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. As shown in the foregoing table, the value of the second stage = PV of $V_{8}=C\\$15.9095$. The total value is C$17.6528. As a proportion, the second stage represents 15.9095/17.6528 = 0.90 of the total value.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 19,
+    "question_text": "What is the stock's terminal value based on the second approach (earnings multiple)?\nA. C$12.12.\nB. C$28.29.\nC. C$33.09.[cite: 6]",
+    "correct_answer": "B[cite: 6]",
+    "explanation": "B is correct. $V_{8}/E_{8}=17$ $D_{8}/E_{8}=1-0.70=0.30$ From the table with the calculation details for the solution to Problem 22, $D_{8}=$ C$0.4992. So, $0.4992/E_{8}=0.30$, which means that $E_{8}=0.4992/0.30=1.6640.$ $V_{8}/E_{8}=17$ implies that $V_{8}/1.6640=17$ which gives $V_{8}=17(1.6640)$ $=C\\$28.2880$[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 20,
+    "question_text": "What is the stock's current value based on the second approach?\nA. C$16.24.\nB. C$17.65.\nC. C$28.29.[cite: 6]",
+    "correct_answer": "A[cite: 6]",
+    "explanation": "A is correct. As computed earlier, $V_{8}=17(1.6640)=C\\$28.2880.$ PV of $V_{8}=28.2880/1.0872^{8}=14.4919$ From the table with the calculation details for the solution to Problem 22, Sum of PV of $D_{1}$ through $D_{8}=1.7433$ So, the value of stock $V_{0}=14.4919+1.7433=C\\$16.2352$[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 21,
+    "question_text": "Based on the third approach (the H-model), the stock is:\nA. undervalued.\nB. fairly valued.\nC. overvalued.[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. Using the H-model, $V_{0}=\\frac{D_{0}(1+g_{L})+D_{0}H(g_{S}-g_{L})}{r-g_{L}},$ where $D_{0}=0.175$ $r=0.0872$ $H=4$ $g_{S}=0.14$ $g_{L}=0.07$ $V_{0}=\\frac{0.175(1.07)+0.175(4)(0.14-0.07)}{0.0872-0.07}=13.7355.$ The market price is C$17, which is greater than C$13.7355. So, the stock is overvalued in the market.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 22,
+    "question_text": "Dobson is wondering what the consequences would be if the duration of the first stage was assumed to be 11 years instead of 8, with all the other assumptions and estimates remaining the same. Considering this change, which of the following is true?\nA. In the second approach, the proportion of the total value of the stock represented by the second stage would not change.\nB. The total value estimated using the third approach would increase.\nC. Using this new assumption and the first approach will lead Dobson to conclude that the stock is overvalued.[cite: 6]",
+    "correct_answer": "B[cite: 6]",
+    "explanation": "B is correct. If the extraordinary growth rate of 14% is expected to continue for a longer duration, the stock's value would increase. Choice A is false because given that the first stage is longer (11 years instead of 8), the terminal value is being calculated at a later point in time. So, its present value would be smaller. Moreover, the first stage has more years and contributes more to the total value. Overall, the proportion contributed by the second stage would be smaller. Choice C is false because the intrinsic value of the stock would be higher and the appropriate conclusion would be that the stock would be undervalued to a greater extent based on the first approach.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 23,
+    "question_text": "Which of the following statements made by Thomas is correct?\nA. Statement 1\nB. Statement 2\nC. Statement 3[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. A dividend discount model is especially useful when dividend policy bears an understandable and consistent relationship to the company's profitability. The relatively consistent dividend payout ratio suggests Company JZY would be a suitable candidate for a dividend discount model.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 24,
+    "question_text": "Assuming the incumbent government retains office in Canada, Peters and her team estimate that the current value of Company ABC stock would be closest to:\nA. C$22.18.\nB. C$23.60.\nC. C$25.30.[cite: 6]",
+    "correct_answer": "B[cite: 6]",
+    "explanation": "B is correct. The value of ABC stock can be computed as follows: Given: Dividend $(D_{0})=C\\$0.65$ Return $(r)=7.35\\%$ Short-term growth $(g_{S})=12\\%$ for 4 years, Long-term growth $(g_{L})=3.5\\%$ thereafter. Then: $D_{1}=D_{0}(1+g_{S})^{1}=0.65(1.12)=CS0.7280$ $D_{2}=D_{0}(1+g_{S})^{2}=0.65(1.12)^{2}=CS0.8154$ $D_{3}=D_{0}(1+g_{s})^{3}=0.65(1.12)^{3}=CS0.9132$ $D_{4}=D_{0}(1+g_{S})^{4}=0.65(1.12)^{4}=CS1.0228$ $P_{4}=[D_{4}(1+g_{L})]/(r-g_{L})=[D_{4}(1.035)](0.0735-0.035)=CS27.4960.$ $V_{0}=D_{1}/(1+r)^{1}+....+D_{4}/(1+r)^{4}+P_{4}/(1+r)^{4}.$ $V_{0}=[0.7280/(1.0735)^{1}]+[0.8154/(1.0735)^{2}]+[0.9132/(1.0735)^{3}]+[1.0228/$ ( $1.0735)^{4}]+[27.4960/(1.0735)^{4}]$ = C$23.5984 (rounded to C$23.60).[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 25,
+    "question_text": "Assuming a new government takes office in Canada, Peters and her team estimate that the current intrinsic value of Company ABC would be closest to:\nA. C$9.15.\nB. C$16.88.\nC. C$17.47.[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. The value of ABC would be calculated using the Gordon growth model as follows: $V_{0}=[D_{0}(1+g)]/(r-g)=[0.65(1.035)]/(0.0735-0.035)=CS17.47$[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 26,
+    "question_text": "Assume that a new government takes office in Canada. If Peters and her team use the Gordon growth model and assume that Company ABC stock is fairly valued, then which of the following would most likely be true?\nA. The total return of ABC stock will be 10.85%.\nB. The dividend yield of ABC stock will be 3.85%.\nC. The stock price of ABC will grow at 7.35% annually.[cite: 6]",
+    "correct_answer": "B[cite: 6]",
+    "explanation": "B is correct. In the Gordon growth model, Total return = Dividend yield + Capital gains yield (i.e., constant growth rate). When a stock is fairly valued, the expected total return will equal the required return or discount rate (i.e., 7.35%). In the case of ABC, the total return is 7.35% and the capital gains yield is 3.5%. Therefore, the dividend yield is $7.35\\%-3.5\\%=3.85\\%$[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 27,
+    "question_text": "If the team uses the dividend discount model, the current intrinsic value of Company XYZ stock would be closest to:\nA. US$19.58.\nB. US$20.36.\nC. US$21.54.[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. The current value of XYZ stock would be calculated as follows: $V_{0}=[P_{3}/(1+r)^{3}]$, where $P_{3}=D_{4}/(r-g)$. Given $D_{4}=1.72$, $r=10\\%$ and $g=4\\%$ $V_{0}=[1.72/(0.10-0.04)]/(1.10)^{3}=USS21.54.$[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 28,
+    "question_text": "The dividend growth rate implied in the stock price of Company XYZ suggests that XYZ's stock price is most likely:\nA. undervalued.\nB. fairly valued.\nC. overvalued.[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. The dividend growth rate implied in the stock price of XYZ (i.e., 6%) is greater than the growth rate assumed by the analyst (i.e., 4%), suggesting that XYZ is overvalued.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 29,
+    "question_text": "Based on the relationship between the implied growth rate and the sustainable growth rate, Peters' team should conclude that Company JZY's stock price is most likely:\nA. undervalued.\nB. fairly valued.\nC. overvalued.[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. The sustainable growth rate of JZY stock = g = Retention ratio x $ROE=0.60\\times0.0817=4.9\\%$. JZY stock's implied growth rate of 5.3% is higher than the sustainable growth rate of 4.9%. Consequently, the stock is overvalued-that is, the intrinsic value of the stock will be less than its current market price. The current intrinsic value of JZY stock is as follows: $V_{0}=[D_{0}(1+g)]/(r-g)$ [0.84 (1.0490)]/(0.08 -0.0490) $=USS28.42<USS32.76$[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 30,
+    "question_text": "Based on Exhibit 1, the stock with the largest present value of growth opportunities (PVGO) is:\nA. ABTD.\nB. BKKQ.\nC. CPMN.[cite: 6]",
+    "correct_answer": "B[cite: 6]",
+    "explanation": "B is correct. BKKQ has the largest PVGO, calculated as follows: $PVGO(ABTD)=P_{0}-E_{1}/r=80.00-[7.30/0.105]=CS10.48$ $GO(BKKQ)=P_{0}-E_{1}/r=39.00-[2.12/0.08]=CS12.50$ $VGO(CPMN)=P_{0}-E_{1}/r=27.39-[1.90/0.12]=CS11.56$ where $P_{0}$ is the current price per share, $E_{1}$ is the forecasted earnings per share, and r is the required rate of return.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 31,
+    "question_text": "Based on Exhibit 1, the growth component of the leading $P/E$ is largest for:\nA. ABTD.\nB. BKKQ.\nC. CPMN.[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. The leading $P/E$ is calculated as follows: $P_{0}/E_{1}=[1/r]+[PVGO/E_{1}],$ where $1/r$ captures the no-growth component of $P/E$ and $PVGO/E_{1}$ captures the growth component of the $P/E$ PVGO is computed as follows: $PVGO(ABTD)=P_{0}-E_{1}/r=80.00-[7.30/0.105]=CS10.48$ $PVGO(BKKQ)=P_{0}-E_{1}/r=39.00-[2.12/0.08]=CS12.50$ $PVGO(CPMN)=P_{0}-E_{1}/r=27.39-[1.90/0.12]=CS11.56$ where $P_{0}$ is the current price per share, $E_{1}$ is the forecasted earnings per share, and r is the required rate of return. The growth component of the $P/E$ for each stock $[PVGO/E_{1}]$ is as follows: ABTD: $10.48/7.30=1.44\\times$ BKKQ: 12.50/2.12 $12=5.90\\times$ CPMN: 11.56/1.906.08×[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 32,
+    "question_text": "Which of the following is closest to Rae's estimate of the stock's value?\nA. $10.08.\nB. $10.54.\nC. $10.62.[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. Using the Gordon growth model, $V_{0}=\\frac{D_{1}}{r-g}=\\frac{0.59(1+0.0530)}{0.1115-0.0530}=\\$10.62$ .[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 33,
+    "question_text": "What is the stock's justified trailing $P/E$ based on the stock's value estimated by Rae?\nA. 5.01.\nB. 5.24.\nC. 5.27.[cite: 6]",
+    "correct_answer": "A[cite: 6]",
+    "explanation": "A is correct. The justified trailing $P/E$ or $P_{0}/E_{0}$ is $V_{0}/E_{0},$ where $V_{0}$ is the fair value based on the stock's fundamentals. The fair value $V_{0}$ computed earlier is $10.62 and $E_{0}$ is $2.12. So, the justified trailing $P/E$ is $10.62/2.12=5.01$.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 34,
+    "question_text": "Rae considers a security trading within a band of ±10% of his estimate of intrinsic value to be within a \"fair value range.\" By that criterion, the stock of Tasty Foods is:\nA. undervalued.\nB. fairly valued.\nC. overvalued.[cite: 6]",
+    "correct_answer": "A[cite: 6]",
+    "explanation": "A is correct. Rae's estimate of the intrinsic value is $10.62. So, the band Rae is looking at is $\\$10.62\\pm0.10(\\$10.62)$, which runs from $\\$10.62+\\$1.06=\\$11.68$ on the upside to $\\$10.62-\\$1.06=\\$9.56$ on the downside. Because $8.42 is less than $9.56, Rae would consider Tasty Foods to be undervalued.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 35,
+    "question_text": "The beta of Tasty Foods stock of 1.10 that Rae used in computing the required return on equity was based on monthly returns for the last 10 years. If Rae uses daily returns for the last five years, the beta estimate is 1.25. If a beta of 1.25 is used, what would be Rae's estimate of the value of Tasty Foods stock?\nA. $8.64.\nB. $9.10.\nC. $20.13.[cite: 6]",
+    "correct_answer": "B[cite: 6]",
+    "explanation": "B is correct. Using a beta of 1.25, Rae's estimate for the required return on equity for Tasty Foods is $0.04+1.25(0.065)=0.1213,$ or 12.13%. The estimated value of the stock is $V_{0}=\\frac{D_{1}}{r-g}=\\frac{0.59\\times(1+0.0530)}{0.1213-0.0530}=\\$9.10.$[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 36,
+    "question_text": "Renteria has suggested that the market price of Tasty Foods stock is its fair value. What is the implied growth rate of dividends given the stock's market price? Use the required return on equity based on a beta of 1.10.\nΑ. 3.87%.\nB. 5.30%.\nC. 12.1%.[cite: 6]",
+    "correct_answer": "A[cite: 6]",
+    "explanation": "A is correct. The price of the stock is $8.42. If this price is also the fair value of the stock, $V_{0}=8.42=\\frac{D_{1}}{r-g}=\\frac{0.59\\times(1+g)}{0.1115-g}$ $0.9388-8.42g=0.59+0.59g$ $9.01g=0.3488$ $g=0.0387$ or 3.87percent[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 37,
+    "question_text": "If Renteria is correct that the current price of Tasty Foods stock is its fair value, what is the expected capital gains yield on the stock?\nΑ. 3.87%.\nB. 4.25%.\nC. 5.30%.[cite: 6]",
+    "correct_answer": "A[cite: 6]",
+    "explanation": "A is correct. If the stock is fairly priced in the market as per the Gordon growth model, the stock price is expected to increase at g, the expected growth rate in dividends. The implied growth rate in dividends, if price is the fair value, is 3.87%. Therefore, the expected capital gains yield is 3.87%.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 38,
+    "question_text": "Based on the Gordon growth model, the justified leading P/E for ABC stock is closest to:\nA. 17.1.\nB. 17.7.\nC. 20.0.[cite: 6]",
+    "correct_answer": "A[cite: 6]",
+    "explanation": "A is correct. The justified leading $P/E$ is calculated as $\\frac{P_{0}}{E_{1}}=\\frac{(1-b)}{(r-g)}$ ' where b is the retention ratio, 1-b is the dividend payout ratio, r is the discount rate, and g is the long-term growth rate. ABC's dividend payout rate, $1-b$, is given as 0.60. For Company ABC, the justified leading $P/E$ is $\\frac{P_{0}}{E_{1}}=\\frac{(1-b)}{(r-g)}=\\frac{(0.60)}{(0.07-0.035)}\\approx17.1.$[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 39,
+    "question_text": "Based on its justified leading P/E and the Gordon growth model, XYZ stock is:\nA. undervalued.\nB. fairly valued.\nC. overvalued.[cite: 6]",
+    "correct_answer": "B[cite: 6]",
+    "explanation": "B is correct. The justified leading P/E is calculated as $\\frac{P_{0}}{E_{1}}=\\frac{(1-b)}{(r-g)},$ where b is the retention ratio, $1-b$ is the dividend payout ratio, r is the discount rate, and g is the long-term growth rate. The justified leading $P/E$ is $\\frac{P_{0}}{E_{1}}=\\frac{0.8}{(0.07-0.03)}=20$ . XYZ's actual leading $P/E$ is $\\frac{P_{0}}{E_{1}}=\\frac{\\$10}{\\$0.50}=20.$ Because the justified leading P/E equals the actual leading P/E, the stock is fairly valued.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 40,
+    "question_text": "Which sector report best describes a situation in which the Gordon growth model could be used to value utility stocks?\nA. Report 1\nB. Report 2\nC. Report 3[cite: 6]",
+    "correct_answer": "B[cite: 6]",
+    "explanation": "B is correct because the Gordon growth model can accurately value companies that are repurchasing shares when the analyst can appropriately adjust the dividend growth rate for the impact of share repurchases.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 41,
+    "question_text": "Based on Khan's estimate of the capitalization rate, Main Company's preferred stock is:\nA. undervalued.\nB. fairly valued.\nC. overvalued.[cite: 6]",
+    "correct_answer": "A[cite: 6]",
+    "explanation": "A is correct. The value of a share of Main Company's preferred stock is $V_{0}=\\frac{D}{r}=\\frac{\\$50\\times0.055}{0.06}=\\frac{\\$2.75}{0.06}=S45.83$ . The current price of a share of Main Company's preferred stock is $42, so the stock is currently undervalued.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 42,
+    "question_text": "The capitalization rate of the preferred stock of Standard Company is closest to:\nA. 2.75%.\nB. 4.96%.\nC. 5.54%.[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. The value of non-callable fixed-rate perpetual preferred stock is calculated as $V_{0}=\\frac{D}{r}\\rightarrow r=\\frac{D}{V_{0}},$ where D is the constant dividend per share and is the discount rate. The discount rate of a perpetuity is often called the capitalization rate. For Standard Company, the dividend is $D=2.75\\%\\times\\$100=\\$2.75$. Therefore, $r=\\frac{\\$2.75}{\\$49.60}=5.54\\%.$[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 43,
+    "question_text": "Based on Exhibit 2, which stock can most appropriately be valued using a three-stage DDM with the second and third stages being treated as an H-model?\nA. BIOK\nB. CCAX\nC. HLTV[cite: 6]",
+    "correct_answer": "A[cite: 6]",
+    "explanation": "A is correct because the dividend growth is declining linearly during the second stage of a three-stage DDM used to value BIOK. As noted in the text, a three-stage valuation clearly has an H-model process in the second and third stages. In contrast, abrupt-rather than linearly declining-dividend growth rates are implied for CCAX and HLTV.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 44,
+    "question_text": "Which of the following models is most appropriate for valuing HLTV?\nA. H-model\nB. Three-stage DDM\nC. Gordon growth model[cite: 6]",
+    "correct_answer": "B[cite: 6]",
+    "explanation": "B is correct because HLTV is forecast to have three growth stages: the growth phase (2 years at 27%), the transition phase (10 years at 12%), and the mature phase. Because the earnings growth has three stages and the dividend payout ratio is stable, a three-stage DDM is appropriate.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 45,
+    "question_text": "Based on Exhibit 1, when Withers applies the first valuation approach to Ukon Corporation, the estimated value of the stock at the end of the first stage represents the:\nA. present value of the dividends beyond year 2023.\nB. present value of the dividends for years 2020 through 2023.\nC. sum of the present value of the dividends for 2020 through 2023 and the present value of dividends beyond year 2023.[cite: 6]",
+    "correct_answer": "A[cite: 6]",
+    "explanation": "A is correct because the estimated value of the stock at the end of the first stage of a basic two-stage DDM (terminal value) is the present value of all dividends beyond the first stage. The first stage is 2020 through 2023, and the second stage begins in 2024, so the terminal value (that is, the value of the stock at the end of 2023) is the present value of future dividends beyond 2023.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 46,
+    "question_text": "Using her first valuation approach and Exhibit 1, Withers's forecast of the per share stock value of Ukon Corporation at the end of 2019 should be closest to:\nA. EUR48.\nB. EUR50.\nC. EUR51.[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct based on Withers's assumptions applied to the dividend valuation model. The stock value as of the end of 2019 equals the present value of all future dividends in 2020 through 2022 plus the present value of the terminal value at the end of 2022. The forecasted stock value equals EUR51.254: ... The terminal value at the end of 2023 is calculated using the dividend in the first year beyond the first stage, divided by the difference between the required rate of return and the growth rate in the second stage. Terminal value at end of 2023 2.815 (1.03) (0.08-0.03) = 57.980[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 47,
+    "question_text": "Using Withers's assumptions for the H-model and the basic two-stage dividend discount model, the forecasted Ukon stock price at the end of the year 2023 for the H-model should be:\nA. lower than the basic two-stage model.\nB. the same as the basic two-stage model.\nC. higher than the basic two-stage model.[cite: 6]",
+    "correct_answer": "A[cite: 6]",
+    "explanation": "A is correct. During the first stage, the basic two-stage model has higher (i.e., 5%) growth than the H-model, in which growth is declining linearly from 5.0% to 3.5%. Higher growth rates result in higher forecasted dividends and stock prices at the beginning of the sustained growth phase. Because the long-term dividend growth rates are the same for both models, the difference in forecasted stock price arises from growth rate differences in the first stage. Therefore, the dividend at the end of the first stage will be lower for the H-model than for the basic two-stage DDM, and the terminal value will be lower in the H-model than in the two-stage model. Specifically, the 2023 dividends will be 2.734 (i.e. $,2.315\\times1.05\\times1.045\\times1.04\\times1.035)$ for the H-model versus 2.815 [i.e., $2.315\\times(1.05)^{4}]$ for the basic two-stage DDM.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 48,
+    "question_text": "Under her Scenario 1 and based on Exhibit 2, the required rate of return that Withers used for Venus Company stock valuation is closest to:\nA. 8.0%.\nB. 9.6%.\nC. 10.0%.[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct, based on Exhibit 2 and the H-model. Estimate the required rate of return using Equation 21: $r=\\frac{D_{0}}{P_{0}}[(1+g_{L})+H({g_{S}}-g_{L})]+g_{L}$ Substitute the following: $D_{0}=3.15$ $g_{S}=8\\%$ $g_{L}=4\\%$ $H=4\\div2=2$ The model thus produces $r=\\frac{3.15}{58.79}[(1+0.04)+2(0.08-0.04)]+0.04$ $=(0.053581\\times1.12)+0.04$ $=0.060010+0.04=0.10001\\approx10\\%.$[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 49,
+    "question_text": "Under Scenario 2 and based on Exhibit 2, Withers estimates that the value of the Venus Company stock to be closest to:\nA. USD69.73.\nB. USD71.03.\nC. USD72.98.[cite: 6]",
+    "correct_answer": "B[cite: 6]",
+    "explanation": "B is correct based on the present value of forecasted dividends. The dividend at the end of 2019, based on case material, is USD3.15 per share... Terminal value at the end of 2023 = 3.902 (1.03) = 80.381 (0.08-0.03)[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 50,
+    "question_text": "Using the data in Exhibit 3, Withers can estimate the sustainable growth of the Wakuni Corporation as being closest to:\nA. 10.66%.\nB. 11.04%.\nC. 14.05%.[cite: 6]",
+    "correct_answer": "A[cite: 6]",
+    "explanation": "A is correct, based on the use of average total assets and beginning-of-year shareholders' equity. g= X Net income Dividends Net income Sales X Sales Total assets Net income To calculate sustainable growth, $g=\\frac{43,923-1,518}{43,923}\\times\\frac{43,923}{423,474}\\times\\frac{423,474}{486,203}\\times\\frac{486,203}{397,925}$ $=96.544\\%\\times10.372\\%\\times87.100\\%\\times1200\\%$ $=10.658\\%$ X Total assets Shareholders' equity[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 51,
+    "question_text": "Withers's sensitivity analysis of Wakuni Corporation should produce a range of sustainable growth estimates between:\nA. 0.0% and 1.2%.\nB. 7.2% and 12.0%.\nC. 8.0% and 13.3%.[cite: 6]",
+    "correct_answer": "B[cite: 6]",
+    "explanation": "B is correct because the sustainable growth is the product of the return on equity and the retention ratio. If the payout ratio ranges from 0% to 10%, the percentage of earnings retained by the firm ranges from 100% to 90%...[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 52,
+    "question_text": "Based on Exhibit 4 and Intern 1's analysis, Xavier Corporation's sustainable dividend payout ratio is closest to:\nA. 43.4%.\nB. 44.6%.\nC. 56.6%.[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct because it is based on the sustainable growth rate and the required rate of return: Sustainable growth rate = (b in mature phase) (Return on equity) 0.036 (1-Dividend payout) (Return on equity) (1-Dividend payout) × 0.083 Solving for the dividend payout ratio, the dividend payout $=56.627\\%\\approx56.6\\%$[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 53,
+    "question_text": "Based on Exhibit 4, Intern 2 should conclude that the Xavier stock is:\nA. underpriced.\nB. fairly priced.\nC. overpriced.[cite: 6]",
+    "correct_answer": "A[cite: 6]",
+    "explanation": "A is correct. Intern 2 values Xavier stock at USD56.372 per share, which is higher than the current price of USD52. $D_{1}=2.000\\times(1.048)^{1}=2.096$ $D_{2}=2.000\\times(1.048)^{2}=2.197$ $D_{3}=2.000\\times(1.048)^{3}=2.302$ $D_{4}=2.000\\times(1.048)^{4}=2.413$ $D_{5}=2.000\\times(1.048)^{4}\\times1.04=2.510$ Value per share $=\\frac{2.096}{(1+0.078)^{1}}+\\frac{2.197}{(1+0.078)^{2}}+\\frac{2.302}{(1+0.078)^{3}}+\\frac{2.413+\\frac{2.510}{(0.078-0.04)}}{(1+0.078)^{4}}$ $=USD56.372$[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 2[cite: 6]",
+    "question_id": 54,
+    "question_text": "Based on Exhibit 4 and Intern 1's estimate of the required rate of return and the dividend growth rate for the first four years, the growth rate beyond the first four years consistent with the current price of USD52 is closest to:\nA. 3.80%.\nB. 4.17%.\nC. 4.23%.[cite: 6]",
+    "correct_answer": "B[cite: 6]",
+    "explanation": "B is correct. The candidate can arrive at the answer one of two ways. The first way is to use Equation 19 and solve for $g_{L}$ $P_{0}=[\\sum_{r=1}^{n}\\frac{D_{0}(1+g_{S})}{(1+r)^{r}}]+[\\frac{D_{0}(1+g_{S})^{n}(1+g_{L})}{(1+r)^{n}(r-g_{L})}]$ Insert the known values: $USD52=\\sum_{l=1}^{4}\\frac{2(1+0.05)^{l}}{(1+0.083)^{l}}+\\frac{2(1+0.05)^{4}(1+g_{L})}{(1+0.083)^{4}(0.083-g_{L})}$ $=7.4089+\\frac{2.431(1+g_{L})}{1.37567(0.083-g_{L})}$ Solve for $g_{L}:$ $g_{L}=4.172\\%$...[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 55,
+    "question_text": "What is the total value of Shimotsuke Co's equity using the FCFF valuation approach?[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "The firm value is the present value of FCFF discounted at the WACC, or $Firm~valuc=\\frac{FCFF_{1}}{WACC-g}=\\frac{FCFF_{0}(1+g)}{WACC-g}=\\frac{1.7(1.07)}{0.11-0.07}$ 1.819 0.04 JPY45.475 billion. The market value of equity is the value of the firm minus the value of debt: Equity 45.475-15JPY30.475 billion.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 56,
+    "question_text": "What is the total value of Shimotsuke Co's equity using the FCFE valuation approach?[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "Using the FCFE valuation approach, we find the present value of FCFE discounted at the required rate of return on equity to be $PV=\\frac{FCFE_{1}}{r-g}=\\frac{FCFE_{0}(1+g)}{r-g}=\\frac{1.3(1.075)}{0.13-0.075}=\\frac{1.3975}{0.055}$ =JPY25.409 billion. The value of equity using this approach is JPY25.409 billion.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 57,
+    "question_text": "Using Kuznetsova's information, calculate the following: WACC.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "The required return on equity is $r=E(R_{i})=R_{F}+\\beta_{i}[E(R_{M})-R_{F}]=5.5\\%_{0}+0.90(5.5\\%)=10.45\\%$ The weighted-average cost of capital is $WACC=0.25(7.0\\%)(1-0.40)+0.75(10.45\\%)=8.89\\%.$[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 58,
+    "question_text": "Using Kuznetsova's information, calculate the following: Value of the firm.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "Firm value FCFF(1+g) WACC-g Firm value 1.1559 (1.04) 0.0889-0.04 $24.583.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 59,
+    "question_text": "Using Kuznetsova's information, calculate the following: Total market value of equity.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "Equity value = Firm value - Market value of debt. Equity value $=24.583-3.192=\\$21.391$ billion.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 60,
+    "question_text": "Using Kuznetsova's information, calculate the following: Value per share.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "Value per share = Equity value/Number of shares. Value per share = $21.391 billion/1.852 billion = $11.55.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 61,
+    "question_text": "Based on Company A's key characteristics, which discounted cash flow model would most likely be used by the investment team to value Company A's shares?\nA. DDM\nB. FCFE\nC. FCFF[cite: 6]",
+    "correct_answer": "B[cite: 6]",
+    "explanation": "B is correct. Company A has a history of paying modest dividends relative to FCFE. An FCFF or FCFE model provides a better estimate of value over a DDM model when dividends paid differ significantly from the company's capacity to pay dividends. Also, Company A has a controlling investor; with control comes discretion over the uses of free cash flow. Therefore, there is the possibility that the controlling shareholder could change the dividend policy. Finally, Company A has a stable capital structure; using FCFE is a more direct and simpler method to value a company's equity than using FCFF when a company's capital structure is stable.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 62,
+    "question_text": "Which noncash transaction should be subtracted from net income in arriving at Company A's FCFE?\nA. Transaction 1\nB. Transaction 2\nC. Transaction 3[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. The applicable noncash adjustments to net income in arriving at FCFE are as follows: ... Transaction 3 (reversal of a restructuring charge) would increase net income and thus must be subtracted in arriving at FCFE.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 63,
+    "question_text": "Based on Exhibit 1, Company A's FCFE for the most recent year is closest to:\nA. $5,318 million.\nB. $6,126 million.\nC. $7,126 million.[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. FCFE for Company A for the most recent year is calculated as follows: Net income $4,844 Plus: Net noncash charges 1,500 Less: Investment in working capital 122 Plus: Proceeds from sale of fixed capital 2,379 Less: Net borrowing repayment 1,475 FCFE (millions) $7,126[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 64,
+    "question_text": "Based on Exhibit 1, using net income as a proxy for Company B's FCFE would result in an intrinsic value that is:\nA. lower than the intrinsic value if actual FCFE were used.\nB. equal to the intrinsic value if actual FCFE were used.\nC. higher than the intrinsic value if actual FCFE were used.[cite: 6]",
+    "correct_answer": "A[cite: 6]",
+    "explanation": "A is correct. FCFE is significantly higher than net income for Company B: Net income $=\\$1.212$ million. FCFE for Company B is calculated as follows: Net income $1,212 Plus: Net noncash charges 288 Less: Investment in WC 236 Less: Investment in fixed assets 1,000 Plus: Net borrowing 2,000 FCFE (millions) $2,264 ... Therefore, using net income of $1,212 million as a proxy for FCFE ($2,264 million) for Company B would result in a much lower valuation estimate than if actual FCFE were used.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 65,
+    "question_text": "Based on Exhibit 1, using the proposed sales-based methodology to forecast FCFE would produce an inaccurate FCFE projection for which company?\nA. Company A\nB. Company B\nC. Company C[cite: 6]",
+    "correct_answer": "A[cite: 6]",
+    "explanation": "A is correct. In addition to significant noncash charges other than depreciation in the most recent year, the annual report indicates that Company A expects to recognize additional noncash charges related to restructuring over the next few years. The given equation for forecasting assumes that the only noncash charge is depreciation. When the company being analyzed has significant noncash charges other than depreciation expense, this sales-based methodology will result in a less accurate estimate of FCFE than one obtained by forecasting all the individual components of FCFE.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 66,
+    "question_text": "Based on Exhibit 1 and Exhibit 2 and the proposed two-stage FCFE model, the intrinsic value of Company B's equity is closest to:\nA. $70,602 million.\nB. $73,588 million.\nC. $79,596 million.[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. FCFE for the most recent year for Company B is calculated as follows: Net income $1,212 Plus: Net noncash charges 288 Less: Investment in WC 236 Less: Investment in fixed assets 1,000 Plus: Net borrowing 2,000 FCFE (millions) $2,264 The required rate of return on equity for Company B is $r=E(R_{i})=R_{F}+\\beta_{i}[E(R_{M})-R_{F}]=3\\%_{0}+0.90(7\\%)=9.3\\%$ The most recent FCFE grows for the next four years at annual growth rates of 10%, 9%, 8%, and 7%, respectively, and then 6% thereafter: ... So, the estimated total market value of the equity is $8,993.94+70,601.58=$ $79,595.52\\approx S79,596$ million.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 67,
+    "question_text": "Based on Exhibit 1 and Exhibit 2 and the proposed single-stage FCFF model, the intrinsic value of Company C's equity is closest to:\nA. $277,907 million.\nB. $295,876 million.\nC. $306,595 million.[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. Company C's firm value is calculated as follows: The required rate of return on equity for Company C is $r=E(R_{i})=R_{F}+\\beta_{i}[E(R_{M})-R_{F}]=3\\%_{0}+1.1(7\\%)=10.7\\%$ WACC = MV (Debt) MV (Equity) MV (Debt) + MV (Equity) d(1-Tax rate) + MV (Debt) + MV (Equity) e $WACC=0.40(6\\%)(1-0.30)+0.60(10.7\\%)=1.68\\%+6.42\\%=8.10\\%)=1.68\\%+6.42\\%=8.10\\%.$ FCFF for the most recent year for Company C is calculated as follows: ... FCFF (in millions) $15,086.40 ... Firm value = FCFF WACC-g FCFF(1+g) WACC-g 15.086.4(1.05) 0.081-0.05 $510,990.97 million. The value of equity is the value of the firm minus the value of debt. The value of debt is found by multiplying the target debt ratio by the total firm value: Debt value $=0.40(\\$510,990.97)=\\$204,396.39$. Therefore, equity value = $510,990.97 - $204,396.39 = $306,594.58 million.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 68,
+    "question_text": "Compare these two definitions for free cash flow with the technically correct definition of FCFF used in our coverage of the topic. 14. FCF = Net income + Depreciation and amortization - Cash dividends - Capital expenditures.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "14. FCF = Net income + Depreciation and amortization - Cash dividends - Capital expenditures. This definition of free cash flow is sometimes used to determine how much \"discretionary\" cash flow the management has at its disposal. Management discretion concerning dividends is limited by investor expectations that dividends will be maintained. Comparing this definition with Equation 7, FCFF $=NI+NCC+Int(1-Tax~rate)-FCInv-WCInv;$ we find that FCFF includes a reduction for investments in working capital and the addition of after-tax interest expense. Common stock dividends are not subtracted from FCFF because dividends represent a distribution of the cash available to investors. (If a company pays preferred dividends and they were previously taken out when net income available to common shareholders was calculated, they are added back in Equation 7 to include them in FCFF.)[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 69,
+    "question_text": "Compare these two definitions for free cash flow with the technically correct definition of FCFF used in our coverage of the topic. 15. FCF = Cash flow from operations (from the statement of cash flows) - Capital expenditures.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "15. FCF = Cash flow from operations (from the statement of cash flows) - Capital expenditures. Comparing this definition of free cash flow with Equation 8, FCFF $=CFO+Int(1-Tax~rate)-FCInv,$ highlights the relationship of CFO to FCFF: The primary point is that when Equation 8 is used, after-tax interest is added back to CFO to arrive at the cash flow to all investors. Then FCInv is subtracted to arrive at the amount of that cash flow that is \"free\" in the sense of available for distribution to those investors after taking care of capital investment needs. If preferred dividends were subtracted to obtain net income (in CFO), they would also have to be added back in. This definition is commonly used to approximate FCFF, but it generally understates the actual FCFF by the amount of after-tax interest expense.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 70,
+    "question_text": "Using information from the company's financial statements given here, show the adjustments to net income that would be required to find: 16. FCFF.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "16. Free cash flow to the firm, found with Equation 7, is FCFF NI + NCC + Int(1 Tax rate) FCInv - WCInv. $FCFF=285+180+130(1-0.40)-349-(39+44-22-23)$ . $FCFF=285+180+78-349-38=\\$156$ million.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 71,
+    "question_text": "Using information from the company's financial statements given here, show the adjustments to net income that would be required to find: 17. FCFE.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "17. Free cash flow to equity, found with Equation 10, is FCFE NI+NCC-FCInv- WFCInv + Net borrowing. FCFE 285+180-349-(39-44-22-23)+(10+40). FCFE 285 180-349-38-50 $128 million.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 72,
+    "question_text": "Using information from the company's financial statements given here, show the adjustments to net income that would be required to find: 18. In addition, show the adjustments to FCFF that would result in FCFE.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "18. To find FCFE from FCFF, one uses the relationship in Equation 9: FCFE = FCFF-Int(1-Tax rate) + Net borrowing. $FCFE=156-130(1-0.40)+(10+40)$ . FCFE 156 7850 $128 million.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 73,
+    "question_text": "Using the FCFF valuation approach, estimate the total value of the firm, the total market value of equity, and the per-share value of equity.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "19. The FCFF is (in euros) FCFF = NI+NCC + Int (1 Tax rate) FCInvWCInv. $FCFF=250+90+150(1-0.30)-170-40$ FCFF 250+90+105-170-40 235 million. The weighted-average cost of capital is WACC9%(10.30) (0.40)+13% (0.60) 10.32%. The value of the firm (in euros) is = Firm value $c=\\frac{FCFF_{1}}{WACC-g}=\\frac{FCFF_{0}(1+g)}{WACC-g}=\\frac{235(1.06)}{0.1032-0.06}$ 249.1 0.0432 = 5,766.20 million. The total value of equity is the total firm value minus the value of debt: Equity = € $5,766.20~million-E1,800~million=E3,966.20$ million. Dividing by the number of shares gives the per-share estimate of Vo = €3,966.20 million/10 million = €396.62 per share.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 74,
+    "question_text": "Using the FCFE valuation approach, estimate the total market value of equity and the per-share value of equity.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "20. The free cash flow to equity is FCFE = NI+NCC-FCInv WCInv + Net borrowing. $FCFE=250+90-170-40+0.40(170-90+40)$ . FCFE 250+90-170-4048 €178 million. Because the company is borrowing 40% of the increase in net capital expenditures (170-90) and working capital (40), net borrowing is €48 million. The total value of equity is the FCFE discounted at the required rate of return of equity: Equity value 190.46 $=\\frac{FCFE_{1}}{r-g}=\\frac{FCFE_{0}(1+g)}{r-g}=\\frac{178(1.07)}{0.13-0.07}$ €3, 174.33 million. 0.06 The value per share is Vo = €3,174.33 million/10 million = €317.43 per share.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 75,
+    "question_text": "For LaForge Systems, whose financial statements are given in Problem 2, show the adjustments from the current levels of CFO (which is $427 million), EBIT ($605 million), and EBITDA ($785 million) to find: 21. FCFF.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "21. To find FCFF from CFO, EBIT, or EBITDA, the analyst can use Equations 8, 12, and 13. To find FCFF from CFO: FCFF = CFO+Int(1-Tax rate) FCInv. $FCFF=427+130(1-0.40)-349=427+78-349=S156$ million. To find FCFF from EBIT: FCFF = EBIT (1-Tax rate) + Dep-FCInv - WCInv. FCFF 605(10.40)+180-349-38. FCFF 363+180-349-38 $156 million. Finally, to obtain FCFF from EBITDA: FCFF = EBITDA (1-Tax rate) + Dep (Tax rate) - FCInv WCInv. FCFF 785(1-0.40)+180 (0.40)-349-38. $FCFF=471+72-349-38=\\$156$ million.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 76,
+    "question_text": "For LaForge Systems, whose financial statements are given in Problem 2, show the adjustments from the current levels of CFO (which is $427 million), EBIT ($605 million), and EBITDA ($785 million) to find: 22. FCFE.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "22. The simplest approach is to calculate FCFF from CFO, EBIT, or EBITDA as was done in Part A and then to find FCFE by making the appropriate adjustments to FCFF: FCFE = FCFF-Int(1-Tax rate) + Net borrowing. FCFE 156130(1-0.40) +50 156-78+50 $128 million. The analyst can also find FCFE by using CFO, EBIT, or EBITDA directly. Starting with CFO and using Equation 11, FCFE is found to be FCFE = CFO-FCInv + Net borrowing. FCFE 427-349+50 $128 million. Starting with EBIT, on the basis of Equations 9 and 12, FCFE is FCFE = EBIT (1-Tax rate) + Dep Int(1Tax rate) - FCInv - WCInv + Net borrowing. FCFE 605 (1-0.40)+180-130(1-0.40)-349-3850. FCFE 363-180-78-349-3850 $128 million. Finally, starting with EBITDA, on the basis of Equations 9 and 13, FCFE is FCFE = EBITDA (1- Tax rate) + Dep (Tax rate) -Int(1-Tax rate) FCInv WCInv + Net borrowing. FCFE 785 (1-0.40)+180 (0.40)130(1-0.40)-349-38+50. $FCFE=471+72-78-349-38+50=\\$128$ million.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 77,
+    "question_text": "Which of the following long-term FCFE growth rates is most consistent with the facts and stated policies of Emerald?\nA. 5% or lower\nB. 2% or higher\nC. 8% or higher[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. The sustainable growth rate is return on equity (ROE) multiplied by the retention ratio. ROE is 10%, and the retention ratio is 1 - Payout ratio, or 1.0 $-0.2=0.8$. The sustainable growth rate is $0.8\\times10\\%=8\\%$. FCFE growth should be at least 8% per year in the long term.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 78,
+    "question_text": "Do the reasons provided by Leigh support his use of the FCFE model to value Holt's common stock instead of using a DDM?\nA. Yes\nB. No, because Holt's dividend situation argues in favor of using the DDM\nC. No, because FCFE is not appropriate for investors taking a control perspective[cite: 6]",
+    "correct_answer": "A[cite: 6]",
+    "explanation": "A is correct. Justifications for choosing the FCFE model over the DDM include the following: The company pays dividends, but its dividends differ significantly from the company's capacity to pay dividends (the first reason given by Leigh). The investor takes a control perspective (the second reason given by Leigh).[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 79,
+    "question_text": "Holt's FCFF (in millions) for 2020 is closest to:\nA. $308.\nB. $370.\nC. $422.[cite: 6]",
+    "correct_answer": "A[cite: 6]",
+    "explanation": "A is correct. FCFF = NI + NCC + Interest expense (1- Tax rate) - FCInv - WCInv. In this case: ... = 485+270+132.652357307.6, or $308 million[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 80,
+    "question_text": "Holt's FCFE (in millions) for 2020 is closest to:\nA. $175.\nB. $250.\nC. $364.[cite: 6]",
+    "correct_answer": "B[cite: 6]",
+    "explanation": "B is correct. FCFE = NI + NCC - FCInv - WCInv + Net borrowing. In this case: ... $FCFE=485+270-523-57+75=\\$250~n$ million. An alternative calculation is $FCFE=FCFF-Int(1-Tax~rate)+Net~borrowing$ $FCFE=307.6-195(1-0.32)+(15+60)=S250$ million.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 81,
+    "question_text": "Leigh's comment about not considering decreases in inventory to be a source of long-term growth in free cash flow for Holt is:\nA. inconsistent with a forecasting perspective.\nB. mistaken because decreases in inventory are a use rather than a source of cash.\nC. consistent with a forecasting perspective because inventory reduction has a limit, particularly for a growing firm.[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. Inventory cannot be reduced below zero. Furthermore, sales growth tends to increase inventory.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 82,
+    "question_text": "Smith's recommendation to use an FCFF model to value Holt is:\nA. logical, given the prospect of Holt changing capital structure.\nB. not logical because an FCFF model is used only to value the total firm.\nC. not logical because FCFE represents a more direct approach to free cash flow valuation.[cite: 6]",
+    "correct_answer": "A[cite: 6]",
+    "explanation": "A is correct. The FCFF model is often selected when the capital structure is expected to change because FCFF estimation may be easier than FCFE estimation in the presence of changing financial leverage.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 83,
+    "question_text": "Indicate the effect on this period's FCFF and FCFE of a change in each of the items listed here. Assume a $100 increase in each case and a 40% tax rate. A. Net income.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "Change in FCFF: +100, Change in FCFE: +100[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 84,
+    "question_text": "Indicate the effect on this period's FCFF and FCFE of a change in each of the items listed here. Assume a $100 increase in each case and a 40% tax rate. B. Cash operating expenses.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "Change in FCFF: -60, Change in FCFE: -60[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 85,
+    "question_text": "Indicate the effect on this period's FCFF and FCFE of a change in each of the items listed here. Assume a $100 increase in each case and a 40% tax rate. C. Depreciation.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "Change in FCFF: +40, Change in FCFE: +40[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 86,
+    "question_text": "Indicate the effect on this period's FCFF and FCFE of a change in each of the items listed here. Assume a $100 increase in each case and a 40% tax rate. D. Interest expense.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "Change in FCFF: 0, Change in FCFE: -60[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 87,
+    "question_text": "Indicate the effect on this period's FCFF and FCFE of a change in each of the items listed here. Assume a $100 increase in each case and a 40% tax rate. E. EBIT.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "Change in FCFF: +60, Change in FCFE: +60[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 88,
+    "question_text": "Indicate the effect on this period's FCFF and FCFE of a change in each of the items listed here. Assume a $100 increase in each case and a 40% tax rate. F. Accounts receivable.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "Change in FCFF: -100, Change in FCFE: -100[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 89,
+    "question_text": "Indicate the effect on this period's FCFF and FCFE of a change in each of the items listed here. Assume a $100 increase in each case and a 40% tax rate. G. Accounts payable.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "Change in FCFF: +100, Change in FCFE: +100[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 90,
+    "question_text": "Indicate the effect on this period's FCFF and FCFE of a change in each of the items listed here. Assume a $100 increase in each case and a 40% tax rate. H. Property, plant, and equipment.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "Change in FCFF: -100, Change in FCFE: -100[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 91,
+    "question_text": "Indicate the effect on this period's FCFF and FCFE of a change in each of the items listed here. Assume a $100 increase in each case and a 40% tax rate. 1. Notes payable.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "Change in FCFF: 0, Change in FCFE: +100[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 92,
+    "question_text": "Indicate the effect on this period's FCFF and FCFE of a change in each of the items listed here. Assume a $100 increase in each case and a 40% tax rate. J. Cash dividends paid.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "Change in FCFF: 0, Change in FCFE: 0[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 93,
+    "question_text": "Indicate the effect on this period's FCFF and FCFE of a change in each of the items listed here. Assume a $100 increase in each case and a 40% tax rate. K. Proceeds from issuing new common shares.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "Change in FCFF: 0, Change in FCFE: 0[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 94,
+    "question_text": "Indicate the effect on this period's FCFF and FCFE of a change in each of the items listed here. Assume a $100 increase in each case and a 40% tax rate. L. Common shares repurchased.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "Change in FCFF: 0, Change in FCFE: 0[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 95,
+    "question_text": "Calculate the amount of FCFE per share for 2020 by using the data from Exhibit 1.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "FCFE is defined as the cash flow remaining after the company meets all financial obligations, including debt payment, and covers all capital expenditure and working capital needs. Sundanci's FCFE for the year 2020 is calculated as follows: Net income = $80 Plus: Depreciation expense = 23 Less: Capital expenditures = 38 Less: Investment in WC = 41 Equals: FCFE = $24 million Thus, FCFE per share equals ($24 million)/(84 million shares) = $0.286.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 96,
+    "question_text": "Calculate the current value of a share of Sundanci stock based on the two-stage FCFE model.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "The FCFE model requires forecasts of FCFE for the high-growth years (2021 and 2022) plus a forecast for the first year of stable growth (2023) to allow for an estimate of the terminal value in 2022 based on constant perpetual growth. Because all of the components of FCFE are expected to grow at the same rate, the values can be obtained by projecting the FCFE at the common rate... Current value per share = Discounted value 2021 + Discounted value 2022. = $40.7859[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 97,
+    "question_text": "Describe limitations that the two-stage DDM and FCFE models have in common.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "Both two-stage valuation models allow for two distinct phases of growth-an initial finite period when the growth is abnormal followed by a stable growth period that is expected to last forever. These two-stage models share the same limitations with respect to the growth assumptions: First, the analyst must confront the difficulty of defining the duration of the extraordinary growth period... Second, the analyst must realize that assuming a sudden shift from high growth to lower, stable growth is unrealistic... Third, because value is quite sensitive to the steady-state growth assumption, overestimating or underestimating this rate can lead to large errors in value. The two models also share other limitations-notably, difficulties in accurately estimating required rates of return.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 98,
+    "question_text": "Based on Exhibit 1 and Exhibit 2, Sienna's FCFF in 2019 is:\nA. €680 million.\nB. €1,200 million.\nC. €3,080 million.[cite: 6]",
+    "correct_answer": "A[cite: 6]",
+    "explanation": "A is correct. Sienna's FCFF in 2019 is calculated as FCFF = EBIT(1-Tax rate) + Dep - FCInv WCInv... $FCFF=3,200(1-0.35)+800-1,000-1,200$. FCFF = €680 million. FCFF can also be computed from CFO: FCFF = CFO + Int(1- Tax rate) - FCInv. $FCFF=1,394+440(1-0.35)-1,000.$ FCFF = €680 million.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 99,
+    "question_text": "Based on Exhibit 1 and Exhibit 2, Sienna's FCFE in 2019 is:\nA. €894 million.\nB. €1,466 million.\nC. €2,894 million.[cite: 6]",
+    "correct_answer": "A[cite: 6]",
+    "explanation": "A is correct. Sienna's FCFE in 2019 is calculated as FCFE = CFO - FCInv + Net borrowing $=1.394-1.000+500$ = €894 million. Alternatively, FCFE may be calculated as FCFE = FCFF-Int(1- Tax rate) + Net borrowing. $=680-440(1-0.35)+500$ = €894 million.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 100,
+    "question_text": "Which of Ho's statements regarding free cash flow is (are) correct?\nA. Statement 1 only\nB. Statement 2 only\nC. Neither Statement 1 nor Statement 2[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. Transactions between the company and its shareholders (through cash dividends, share repurchases, and share issuances) do not affect free cash flow. However, leverage changes, such as the use of more debt financing, have some impact on free cash flow because they increase the interest tax shield (reduce corporate taxes because of the tax deductibility of interest) and reduce the cash flow available to equity.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 101,
+    "question_text": "Based on Exhibit 3, Ho's FCFF sensitivity analysis should conclude that Colanari's value is most sensitive to the:\nA. FCFF growth rate.\nB. before-tax cost of debt.\nC. required rate of return for equity.[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. Colanari's valuation is most sensitive to the cost of equity $(r_{e})$ because the range of estimated values is larger than the valuation ranges estimated from the sensitivity analysis of both the FCFF growth rate (GFCFF) and the before-tax cost of debt $(r_{d})$... Therefore, the range in valuation estimates from using the highest and lowest estimates of the cost of equity is €1,284.80 million.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 102,
+    "question_text": "Based on Exhibit 4, Bern's firm value under Scenario 1 is closest to:\nΑ. €100,951.3 million.\nΒ. €105,349.1 million.\nC. €105,399.1 million.[cite: 6]",
+    "correct_answer": "C[cite: 6]",
+    "explanation": "C is correct. Based on Scenario 1, where Bern receives regulatory approval for its new drugs, the growth rate in FCFF for Bern will be constant at 4.5%... Value of operating assets $=3,226~million(1+0.045)/(0.0770-0.045)$ $=\\epsilon105.349.06$ million. Total value of the company = Value of operating assets + Value of non-operating assets. Total value of the company $=105.349.06$ million + 50 million $=\\in105,399.06$ million.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 103,
+    "question_text": "Based on Exhibit 4, Singh and Ho should conclude that under Scenario 2, shares of Bern are:\nA. undervalued.\nB. fairly valued.\nC. overvalued.[cite: 6]",
+    "correct_answer": "A[cite: 6]",
+    "explanation": "A is correct. The total market value of the firm is the sum of the debt, preferred stock, and common stock market values: $5,400+4,000+18,100=37,500$ million... Value of Bern's common stock = Value of operating assets + Value of non-operating assets Market value of debt - Preferred stock 47,751.27+50.00-15,400-4,000 = €28,401.27 million. Since the current market value of Bern's common stock (€18,100 million) is less than the estimated value (€28,401.27 million), the shares are undervalued.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 104,
+    "question_text": "What is PHB's estimated value per share? Is PHB's stock underpriced?[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "39. The WACC for PHB Company is $WACC=0.30(7.0\\%)$ $(1-0.35)+0.15(6.8\\%)+0.55(11.0\\%)=8.435\\%$. The firm value is Firm value 29.12 0.04435 = £656.60 million. The value of equity is the firm value minus the value of debt minus the value of preferred stock: Equity $=656.60-145-65=\\underline{E}446.60$ million. Dividing this amount by the number of shares gives the estimated value per share of £446.60 million/8 million shares $=\\$55.82$ The estimated value for the stock is greater than the market price of £32.50, so the stock appears to be undervalued.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 105,
+    "question_text": "Provide your client with an alternative estimate of NewMarket's value per share based on a two-stage FCFE valuation approach. Use the following assumptions: ...[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "40. Using the CAPM, the required rate of return for NewMarket is $r=E(R_{i})=R_{F}+\\beta_{j}[E(R_{M})-R_{F}]=7\\%_{0}+1.3(4\\%)=12.2\\%$ To estimate FCFE, we use Equation 15: FCFE = Net income (1-DR) (FCInv - Depreciation) (1-DR) (WCInv)... The total value of equity, the present value of the first three years' FCFE plus the present value of $V_{3},$ is $15,648.36 million. Dividing this amount by the number of outstanding shares (318 million) gives a value per share of $49.21...[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 106,
+    "question_text": "Criticize the valuation approach that the aggressive financial planner used.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "41. The planner's estimate of the share value of $70.98 is much higher than the FCFE model estimate of $49.21 for several reasons. First, taxes and interest expenses have a prior claim to the company's cash flow and should be taken out of the cash flows used in estimating the value of equity because these amounts are not available to equity holders... Second, EBITDA does not account for the company's reinvestments in operating assets... Third, EBITDA does not account for the company's capital structure... Finally, dividing EBITDA by the bond rate is a major error. The risk-free bond rate is an inappropriate discount rate for risky equity cash flows; the proper measure is the required rate of return on the company's equity...[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 107,
+    "question_text": "Calculate the value of a share of Mackinac's common stock by using the two-stage DDM.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "42. When a two-stage DDM is used, the value of a share of Mackinac, dividends per share (DPS), is calculated as follows: DPS Cash dividends/Shares outstanding $=\\$22,470/13,000$ = $1.7285. $DPS_{1}=DPS_{0}\\times1.17=\\$2.0223$ . $DPS_{2}=DPS_{0}\\times1.17^{2}=\\$2.3661.$ $DPS_{3}=DPS_{0}\\times1.17^{3}=\\$2.7683$. $DPS_{4}=DPS_{0}\\times1.17^{3}\\times1.09=\\$3.0175.$ When the CAPM is used, the required return on equity, r, is $r=$ Government bond rate + (Beta Equity risk premium) $=0.06+(1.25\\times0.05)=0.1225.$ or 12.25%. Value per share = DPS₁/(1+r)+DPS2/(1+r)2+DPS3/(1+ ) 3 $+[DPS_{4}/(r-g_{stable})]/(1+r)^{3}$ Value per share $=\\$2.0223/1.1225+\\$2.3661/1.1225^{2}$ +$2.7683/1.12253 +[$3.0175/(0.1225-0.09)]/1.12253 $1.8016+$1.8778+$1.9573 + $65.6450 = $71.28.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 108,
+    "question_text": "Calculate the value of a share of Mackinac's common stock by using the two-stage FCFE model.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "43. When the two-stage FCFE model is used, the value of a share of Mackinac is calculated as follows (in $ thousands except per-share data): ... Value per share $=FCFE_{1}/(1+r)+FCFE_{2}/(1+r)^{2}+FCFE_{3}/(1+r)^{3}$ $+[FCFE_{4}/(r-g_{stable})]/(1+r)^{3}$. Value per share $=\\$2.8305/1.1225+\\$3.3117/1.1225^{2}$ +$3.8747/1.12253 +[$4.2234/(0.1225-0.09)]/1.1225^{3}$ $=\\$2.5216+\\$2.6283+\\$2.7395+\\$91.8798$ = $99.77.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 109,
+    "question_text": "Jones is discussing with a corporate client the possibility of that client acquiring a 70% interest in Mackinac. Discuss whether the DDM or FCFE model is more appropriate for this client's valuation purposes.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "44. The FCFE model is best for valuing companies for takeovers or in situations that have a reasonable chance of a change in corporate control. Because controlling stockholders can change the dividend policy, they are interested in estimating the maximum residual cash flow after meeting all financial obligations and investment needs. The DDM is based on the premise that the only cash flows received by stockholders are dividends. FCFE uses a more expansive definition to measure what a company can afford to pay out as dividends.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 110,
+    "question_text": "Use the base-case values to estimate the current value of McInish Corporation.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "45. The required rate of return for McInish found with the CAPM is $r=E(R_{i})=R_{F}+\\beta_{j}[E(R_{M})-R_{F}]=5.08\\%+0.70(5.50\\%)=8.93\\%.$ The value per share is Vo FCFE (1+g) r-g 0.88 (1.064) 0.0893-0.064 $37.01.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 111,
+    "question_text": "Calculate the range of stock prices that would occur if the base-case value for $FCFE_{0}$ were replaced by the low estimate and the high estimate for $FCFE_{0}$. Similarly, using the base-case values for all other variables, calculate the range of stock prices caused by using the low and high values for beta, the risk-free rate, the equity risk premium, and the growth rate. Based on these ranges, rank the sensitivity of the stock price to each of the five variables.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "46. The following table shows the calculated price for McInish based on the base-case values for all values except the variable being changed from the base-case value. ... As the table shows, the value of McInish is most sensitive to the changes in the FCFE growth rate, with the price moving over a wide range. McInish's stock price is least sensitive to alternative values of the risk-free rate. Alternative values of beta, the equity risk premium, or the initial FCFE value also have a large impact on the value of the stock, although the effects of these variables are smaller than the effect of the growth rate.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 112,
+    "question_text": "What is the real required rate of return for KMobile Telecom?[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "47. The real required rate of return for KMobile is Country return (real) 6.50% Industry adjustment +0.60% Size adjustment -0.10% Leverage adjustment +0.25% Required rate of return 7.25%[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 113,
+    "question_text": "Using the single-stage FCFE valuation model and real values for the discount rate and FCFE growth rate, estimate the value of one share of KMobile.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "48. The real growth rate of FCFE is expected to be the same as the country rate of 3.5%. The value of one share is $V_{0}=\\frac{FCFE_{0}(1+g_{real})}{r_{real}-g_{real}}=\\frac{1,300(1.035)}{0.0725-0.035}=KRW35,880.$[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 114,
+    "question_text": "What is the value of one ordinary share of NYL Manufacturing Company?[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "49. The required rate of return found with the CAPM is $r=E(R_{i})=R_{F}+\\beta_{i}[E(R_{M})-R_{F}]=6.4\\%_{0}+2.1(5.0\\%)=16.9\\%$. The following table shows the values of sales, net income, capital expenditures less depreciation, and investments in working capital... The terminal stock value is 18.0 times the earnings in 2025, or $18\\times4.724=$ €85.03 billion. The present value of the terminal value (€38.95 billion) plus the present value of the first five years' FCFE (€1.82 billion) is €40.77 billion. Because NYL Manufacturing has 17 billion outstanding shares, the value per ordinary share is €2.398.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 115,
+    "question_text": "Estimate the value of a Bron share using a two-stage FCFE valuation approach.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "50. The following table develops the information to calculate FCFE per share (amounts are in US dollars)... The present value of this stream is $\\$87.483/(1.12)^{5}=\\$49.640$. The value per share is the present value of the first five FCFEs (2020-2024) plus the present value of the FCFE after 2024, or $\\$4.944+\\$49.640=\\$54.58$[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 116,
+    "question_text": "Given Park's assumptions and approach, estimate the value of a share of QuickChange.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "51. The required return for QuickChange, found by using the CAPM, is $r=E(R_{i})=$ $R_{F}+\\beta_{i}[E(R_{M})-R_{F}]=4.5\\%+2.0(5.0\\%)=14.5\\%.$ The estimated future values of FCFE per share are given in the following exhibit (amounts in US dollars): ... Finally, the total value of the stock, $15.32, is the sum of the present values of the first four years' FCFE per share plus the present value of the terminal value per share.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 3[cite: 6]",
+    "question_id": 117,
+    "question_text": "What is the value per share of Gothenburg Extrusion stock?[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "52. The total value of non-operating assets is SEK60 million short-term securities SEK45 million market value of noncurrent assets SEK40 million pension fund surplus SEK145 million non-operating assets The total value of the firm is the value of the operating assets plus the value of the non-operating assets, or SEK720 million plus SEK145 million = SEK865 million. The equity value is the value of the firm minus the value of debt, or SEK865 million - SEK215 million = SEK650 million. The value per share is SEK650 million/100 million shares = SEK6.50 per share.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 4[cite: 6]",
+    "question_id": 118,
+    "question_text": "Define normalized EPS.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "1. Normalized EPS is the level of earnings per share that the company could currently achieve under mid-cyclical conditions.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 4[cite: 6]",
+    "question_id": 119,
+    "question_text": "Calculate a normalized EPS for Jonash based on the method of historical average EPS, and then calculate the $P/E$ based on normalized EPS.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "2. Averaging EPS over the 2015-18 period, we find that $(\\$2.55+\\$2.13+\\$0.23+$ $\\$1.45)/4=\\$1.59$. According to the method of historical average EPS, Jonash's normalized EPS is $1.59. The $P/E$ based on this estimate is $\\$57.98/\\$1.59=36.5$.[cite: 6]"
+  },
+  {
+    "module": "Equity Investments - Learning Module 4[cite: 6]",
+    "question_id": 120,
+    "question_text": "Calculate a normalized EPS for Jonash based on the method of average ROE and the $P/E$ based on normalized EPS.[cite: 6]",
+    "correct_answer": "Constructed Response[cite: 6]",
+    "explanation": "3. Averaging ROE over the 2015-18 period, we find that $(0.218+0.163+0.016$ $+0.089)/4=0.1215.$ For current BV per share, you would use the estimated value of $19.20 for year end 2019. According to the method of average ROE, $0.1215\\times\\$19.20=\\$2.33$ is the normalized EPS. The $P/E$ based on this estimate is $\\$57.98/\\$2.33=24.9$[cite: 6]"
+  }
+]

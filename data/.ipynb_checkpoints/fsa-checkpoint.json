@@ -1,0 +1,1045 @@
+[
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 1,
+    "question_text": "The balance sheet carrying value of Confabulated's investment portfolio (in € thousands) at 31 December 2018 is closest to:\nA. 112,000.\nB. 115,000.\nC. 118,000.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Under IFRS 9, FVPL and FVOCI securities are carried at market value, whereas amortized cost securities are carried at historical cost. €28,000 + $7,000+50,000=\\in115,000$[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 2,
+    "question_text": "The balance sheet carrying value of Confabulated's investment portfolio at 31 December 2018 would have been higher if which of the securities had been reclassified as FVPL security?\nA. Bugle.\nB. Cathay.\nC. Dumas.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. If Dumas had been classified as a FVPL security, its carrying value would have been the €55,000 fair value rather than the €50,000 historical cost.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 3,
+    "question_text": "Compared to Confabulated's reported interest income in 2018, if Dumas had been classified as FVPL, the interest income would have been:\nA. lower.\nB. the same.\nC. higher.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. The coupon payment is recorded as interest income whether securities are amortized cost or FVPL. No adjustment is required for amortization since the bonds were bought at par.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 4,
+    "question_text": "Compared to Confabulated's reported earnings before taxes in 2018, if Dumas had been classified as a FVPL security, the earnings before taxes (in € thousands) would have been:\nA. the same.\nB. €1,000 lower.\nC. €1,000 higher.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. Unrealized gains and losses are included in income when securities are classified as FVPL. During 2018 there was an unrealized gain of €1,000.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 5,
+    "question_text": "Confabulated's reported interest income would be lower if the cost was the same but the par value (in € thousands) of:\nA. Bugle was €28,000.\nB. Cathay was €37,000.\nC. Dumas was €55,000.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. The difference between historical cost and par value must be amortized under the effective interest method. If the par value is less than the initial cost (stated interest rate is greater than the effective rate), the interest income would be lower than the interest received because of amortization of the premium.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 6,
+    "question_text": "Confabulated's special purpose entity is most likely to be:\nA. held off-balance sheet.\nB. consolidated on Confabulated's financial statements.\nC. consolidated on Confabulated's financial statements only if it is a \"qualifying SPE.\"[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Under IFRS, SPEs must be consolidated if they are conducted for the benefit of the sponsoring entity. Further, under IFRS, SPEs cannot be classified as qualifying. Under US GAAP, qualifying SPEs (a classification which has been eliminated) do not have to be consolidated.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 7,
+    "question_text": "In 2018, if Cinnamon is deemed to have control over Cambridge, it will most likely account for its investment in Cambridge using:\nA. the equity method.\nB. the acquisition method.\nC. proportionate consolidation.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. If Cinnamon is deemed to have control over Cambridge, it would use the acquisition method to account for Cambridge and prepare consolidated financial statements. Proportionate consolidation is used for joint ventures; the equity method is used for some joint ventures and when there is significant influence but not control.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 8,
+    "question_text": "At 31 December 2018, Cinnamon's total shareholders' equity on its balance sheet would most likely be:\nA. highest if Cinnamon is deemed to have control of Cambridge.\nB. independent of the accounting method used for the investment in Cambridge.\nC. highest if Cinnamon is deemed to have significant influence over Cambridge.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. If Cinnamon is deemed to have control over Cambridge, consolidated financial statements would be prepared and Cinnamon's total shareholders' equity would increase and include the amount of the noncontrolling interest. If Cinnamon is deemed to have significant influence, the equity method would be used and there would be no change in the total shareholders' equity of Cinnamon.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 9,
+    "question_text": "In 2018, Cinnamon's net profit margin would be highest if:\nA. it is deemed to have control of Cambridge.\nB. it had not increased its stake in Cambridge.\nC. it is deemed to have significant influence over Cambridge.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. If Cinnamon is deemed to have significant influence, it would report half of Cambridge's net income as a line item on its income statement, but no additional revenue is shown. Its profit margin is thus higher than if it consolidated Cambridge's results, which would impact revenue and income, or if it only reported 19 percent of Cambridge's dividends (no change in ownership).[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 10,
+    "question_text": "At 31 December 2018, assuming control and recognition of goodwill, Cinnamon's reported debt to equity ratio will most likely be highest if it accounts for its investment in Cambridge using the:\nA. equity method.\nB. full goodwill method.\nC. partial goodwill method.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. The full and partial goodwill method will have the same amount of debt; however, shareholders' equity will be higher under full goodwill (and the debt to equity ratio will be lower). Therefore, the debt to equity will be higher under partial goodwill. If control is assumed, Cinnamon cannot use the equity method.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 11,
+    "question_text": "Compared to Cinnamon's operating margin in 2017, if it is deemed to have control of Cambridge, its operating margin in 2018 will most likely be:\nA. lower.\nB. higher.\nC. the same.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Cambridge has a lower operating margin $(88/1,100=8.0\\%)$ than Cinnamon $(142/1,575=9.0\\%)$. If Cambridge's results are consolidated with Cinnamon's, the consolidated operating margin will reflect that of the combined company, or 230/ $.675=8.6\\%$.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 12,
+    "question_text": "At 31 December 2018, Zimt's total assets balance would most likely be:\nA. highest if Zimt is deemed to have control of Oxbow.\nB. highest if Zimt is deemed to have significant influence over Oxbow.\nC. unaffected by the accounting method used for the investment in Oxbow.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. When a company is deemed to have control of another entity, it records all of the other entity's assets on its own consolidated balance sheet.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 13,
+    "question_text": "Based on Gelblum's estimates, if Zimt is deemed to have significant influence over Oxbow, its 2018 net income (in € millions) would be closest to:\nΑ. €75.\nΒ. €109.\nC. €143.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. If Zimt is deemed to have significant influence, it would use the equity method to record its ownership. Under the equity method, Zimt's share of Oxbow's net income would be recorded as a single line item. Net income of Zimt $=75+0.5(68)=109$[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 14,
+    "question_text": "Based on Gelblum's estimates, if Zimt is deemed to have joint control of Oxbow, and Zimt uses the proportionate consolidation method, its 31 December 2018 total liabilities (in € millions) will most likely be closest to:\nΑ. €686.\nΒ. €975.\nC. €1,263.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Under the proportionate consolidation method, Zimt's balance sheet would show its own total liabilities of € $1,421-735=\\epsilon686$ plus half of Oxbow's liabilities of $f\\in1,283-706=E577.E686+(0.5\\times577)=E974.$.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 15,
+    "question_text": "Based on Gelblum's estimates, if Zimt is deemed to have control over Oxbow, its 2018 consolidated sales (in € millions) will be closest to:\nΑ. €1,700.\nΒ. €2,375.\nC. €3,050.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. Under the assumption of control, Zimt would record its own sales plus 100 percent of Oxbow's. $\\epsilon1,700+1,350=\\epsilon3,050$[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 16,
+    "question_text": "Based on Gelblum's estimates, and holding the size of Zimt's ownership stake in Oxbow constant, Zimt's net income in 2018 will most likely be:\nA. highest if Zimt is deemed to have control of Oxbow.\nB. highest if Zimt is deemed to have significant influence over Oxbow.\nC. independent of the accounting method used for the investment in Oxbow.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. Net income is not affected by the accounting method used to account for active investments in other companies. \"One-line consolidation\" and consolidation result in the same impact on net income; it is the disclosure that differs.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 17,
+    "question_text": "Based on Ohalin's estimates, the amount of joint venture revenue (in $ millions) included on BetterCare's consolidated 2018 financial statements should be closest to:\nA. $0.\nB. $715.\nC. $1,430.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Under the equity method, BetterCare would record its interest in the joint venture's net profit as a single line item, but would show no line-by-line contribution to revenues or expenses.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 18,
+    "question_text": "Based on Ohalin's estimates, the amount of joint venture net income included on the consolidated financial statements of each venturer will most likely be:\nA. higher for BetterCare.\nB. higher for Supreme Healthcare.\nC. the same for both BetterCare and Supreme Healthcare.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. Net income will be the same under the equity method and proportional consolidation. However, sales, cost of sales, and expenses are different because under the equity method the net effect of sales, cost of sales, and expenses is reflected in a single line.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 19,
+    "question_text": "Based on Ohalin's estimates, the amount of the joint venture's 31 December 2018 total assets (in $ millions) that will be included on Supreme Healthcare's consolidated financial statements will be closest to:\nA. $0.\nB. $750.\nC. $1,500.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Under the proportionate consolidation method, Supreme Healthcare's consolidated financial statements will include its 50 percent share of the joint venture's total assets.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 20,
+    "question_text": "Based on Ohalin's estimates, the amount of joint venture shareholders' equity at 31 December 2018 included on the consolidated financial statements of each venturer will most likely be:\nA. higher for BetterCare.\nB. higher for Supreme Healthcare.\nC. the same for both BetterCare and Supreme Healthcare.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. The choice of equity method or proportionate consolidation does not affect reported shareholders' equity.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 21,
+    "question_text": "If Supreme Healthcare sells its receivables to the SPE, its consolidated financial results will least likely show:\nA. a higher revenue for 2018.\nB. the same cash balance at 31 December 2018.\nC. the same accounts receivable balance at 31 December 2018.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Revenue will not be higher for 2018 because Supreme Healthcare controls the SPE and thus eliminates intra-entity transactions and balances in consolidation. Consolidated revenue will thus present the results as if this transaction did not occur.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 22,
+    "question_text": "The carrying value of Topmaker's investment in Blanca's debt securities reported on the balance sheet at 31 December 2016 is:\nA. $10.94 million.\nB. $11.00 million.\nC. $12.00 million.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Since the investment is designated as held-to-maturity, it is reported at amortized cost at 31 December 2016 using the effective interest method where the amortization is calculated as the difference between the amount received and the interest income... So, the initial fair value of $11 million is reduced by the amortization amount of $60,000, resulting in an amortized cost of $10.94 million at 31 December 2016.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 23,
+    "question_text": "Based on Exhibit 1 and Blanca's plans to borrow against its financial receivables, the new consolidated balance sheet will show total assets of:\nA. $50 million.\nB. $140 million.\nC. $150 million.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. The SPE balance sheet will show accounts receivable of $50 million, long-term debt of $40 million and equity of $10 million. When the balance sheets of Blanca and the SPE are consolidated, Blanca's cash will increase by $40 million due to the sale of the receivables to the SPE (net of its $10 million cash investment in the SPE). Long-term debt (non-current liabilities) will also increase by $40 million. So, the consolidated balance sheet will show total assets of $140 million and will look the same as if Blanca borrowed directly against the receivables.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 24,
+    "question_text": "Based on Exhibit 2, Topmaker's investment in Rainer resulted in goodwill of:\nA. $21 million.\nB. $60 million.\nC. $99 million.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. The goodwill in Topmaker's $300 million purchase of Rainer's common shares using the equity method is $60 million, calculated as: Purchase price $300 Less: 15% of book value of Rainer: $(15\\%\\times\\$1,340)$ 201 Excess purchase price 99 Attributable to net assets Plant and equipment $(15\\%\\times(\\$3,160-\\$2,900))$ 39 Goodwill (residual) 60[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 25,
+    "question_text": "Topmaker's influence on Rainer's business activities can be best described as:\nA. significant.\nB. controlling.\nC. shared control.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Topmaker's representation on the Rainer board of directors and participation in Rainer's policymaking process indicate significant influence. Significant influence is generally assumed when the percentage of ownership interest is between 20% and 50%. Topmaker's representation on the board of directors and participation in the policymaking process, however, demonstrate significant influence despite its 15% equity interest.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 26,
+    "question_text": "Using only the information from Exhibit 2, the carrying value of Topmaker's investment in Rainer at the end of 2018 is closest to:\nA. $282 million.\nB. $317 million.\nC. $321 million.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. The carrying value of Topmaker's investment in Rainer using the equity method is $317 million and is calculated as: Purchase price $300 Plus: Topmaker's share of Rainer's net income $(15\\%\\times\\$360)$ 54 Less: Dividends received $(15\\%\\times\\$220)$ 33 Less: Amortization of excess purchase price attributable to plant and equipment $(15\\%\\times(\\$3,160-\\$2,900))/10$ years 3.9 Investment in associate (Rainer) at the end of 2018 $317.1[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 27,
+    "question_text": "Based on Exhibit 3, Topmaker's impairment loss under IFRS is:\nA. $120 million.\nB. $300 million.\nC. $400 million.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. The goodwill impairment loss under IFRS is $300 million, calculated as the difference between the recoverable amount of a cash-generating unit and the carrying value of the cash-generating unit. Topmaker's recoverable amount of the cash-generating unit is $14,900 million, which is less than the carrying value of the cash-generating unit of $15,200 million. This results in an impairment loss of $300 million ($14,900-$15,200).[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 28,
+    "question_text": "Based on Thronen's value estimates on the acquisition date of 1 January 2018, the estimated value of the minority interest related to Rainer will be:\nA. $300 million.\nB. $400 million.\nC. $500 million.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. According to IFRS, under the partial goodwill method, the value of the minority interest is equal to the non-controlling interest's proportionate share of the subsidiary's identifiable net assets. Rainer's proportionate share is 20% and the value of its identifiable assets on the acquisition date is $1.5 billion. The value of the minority interest is $300 million $(20\\%\\times\\$1.5$ billion).[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 29,
+    "question_text": "NinMount's current ratio on 31 December 2018 most likely will be highest if the results of the acquisition are reported using:\nA. the equity method.\nB. consolidation with full goodwill.\nC. consolidation with partial goodwill.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. The current ratio using the equity method of accounting is Current assets/Current liabilities $=\\mathcal{E}250/\\pm110=2.27$ Using consolidation (either full or partial goodwill), the current ratio $=\\mathcal{E}390/f200=1.95$ Therefore, the current ratio is highest using the equity method.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 30,
+    "question_text": "NinMount's long-term debt to equity ratio on 31 December 2018 most likely will be lowest if the results of the acquisition are reported using:\nA. the equity method.\nB. consolidation with full goodwill.\nC. consolidation with partial goodwill.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Using the equity method, long-term debt to equity = £600/£1,430 $=0.42$. Using the consolidation method, long-term debt to equity = long-term $debt/equity=E1,000/E1,750=0.57$. Equity includes the £320 noncontrolling interest under either consolidation. It does not matter if the full or partial goodwill method is used since there is no goodwill.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 31,
+    "question_text": "Based on Byron's forecast, if NinMount deems it has acquired control of Boswell, NinMount's consolidated 2019 depreciation and amortization expense (in millions) will be closest to:\nA. 102.\nB. 148.\nC. 204.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. The projected depreciation and amortization expense will include NinMount's reported depreciation and amortization (£102), Boswell's reported depreciation and amortization (£92), and amortization of Boswell's licenses (£10 million)... Therefore, Projected depreciation and amortization $=f102+f92+f10=f204$ million.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 32,
+    "question_text": "Based on Byron's forecast, NinMount's net profit margin for 2019 most likely will be highest if the results of the acquisition are reported using:\nA. the equity method.\nB. consolidation with full goodwill.\nC. consolidation with partial goodwill.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Net income attributable to shareholders of the parent is the same using any of the methods but under the equity method, net sales are only £950; Boswell's sales are not included in the net sales figure. Therefore, net profit margin is highest using the equity method.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 33,
+    "question_text": "Based on Byron's forecast, NinMount's 2019 return on beginning equity most likely will be the same under:\nA. either of the consolidations, but different under the equity method.\nB. the equity method, consolidation with full goodwill, and consolidation with partial goodwill.\nC. none of the equity method, consolidation with full goodwill, or consolidation with partial goodwill.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Net income attributable to shareholders of the parent is the same using any of the choices. Beginning equity under the equity method is £1,430. Under either of the consolidations, beginning equity is £1,750 since it includes the £320 noncontrolling interest. Return on beginning equity is highest under the equity method.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 1[cite: 4]",
+    "question_id": 34,
+    "question_text": "Based on Byron's forecast, NinMount's 2019 total asset turnover ratio on beginning assets under the equity method is most likely:\nA. lower than if the results are reported using consolidation.\nB. the same as if the results are reported using consolidation.\nC. higher than if the results are reported using consolidation.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Using the equity method, Total asset turnover = Net sales/Beginning total assets $=\\mathcal{E950/\\mathcal{E}2,140=0.444$. Total asset turnover on beginning assets using consolidation = £1,460/£ $950=0.495.$ Under consolidation, Assets $=\\mathcal{E}2,140$ $-320+1,070+60=\\underline{E2,950}$. Therefore, total asset turnover is lowest using the equity method.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 35,
+    "question_text": "At 31 December 20X1, GBP 28,879 million represents:\nA. the funded status of the plan.\nB. the DB obligation.\nC. the fair value of the plan's assets.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. GBP 28,879 million is the present value of future benefits as at 31 December 20X1. This is the \"gross\" liability, before netting the fair value of plan assets to calculate the funded status.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 36,
+    "question_text": "The GBP 1,284 million difference in interest expense reported on the income statement and the interest cost on the benefit obligation in 20X1 is a result of:\nA. interest income on plan assets.\nB. the actual return on plan assets.\nC. different assumed discount rates.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. The interest expense reported on the income statement is a \"net\" interest expense/income amount computed as the product of the funded status and discount rate at the beginning of the year. Equivalently, it is the (discount rate x benefit obligation) - (discount rate x fair value of plan assets).[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 37,
+    "question_text": "The amount recognized by Kensington as an operating expense on the income statement for the year ended 31 December 20X1 is closest to:\nA. 210.\nB. 228.\nC. 483.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Service cost is an operating expense, representing the increase in the benefit obligation from current and past service. Net interest expense/income is financing expense/income recognized below the operating income line. Remeasurements are recognized in OCI, not in earnings.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 38,
+    "question_text": "The cash outflow recognized by Kensington in cash flows from operating activities for the year ended 31 December 20X1 is closest to:\nA. 228.\nB. 693.\nC. 1,322.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Employers' plan contributions are cash outflows in operating activities.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 39,
+    "question_text": "The amount recognized on the balance sheet decreased from 31 December 20X0 to 31 December 20X1 because:\nA. The sum of service cost and interest cost exceeded benefits paid.\nB. the discount rate used in estimating the pension obligation exceeded the actual rate of return of plan assets for the year.\nC. the sum of the actual return on plan assets and employer contributions exceeded the sum of service and interest cost on the benefit obligation.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. The net pension liability recognized on Kensington's balance sheet decreased because the fair value of plan assets increased by more than the benefit obligation.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 40,
+    "question_text": "An analyst preparing a discounted cash flow model on 14 January 20X2 to value Kensington's equity should deduct which of the following from the estimate of enterprise value to arrive at equity value?\nA. 4,774\nB. 4,984\nC. 28,879[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. The analyst should deduct the net pension liability as of 31 December 20X1 from the estimate of enterprise value to arrive at equity value, as if it were debt.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 41,
+    "question_text": "A 100 basis point decrease in investment grade corporate bond yields may affect Kensington's plan funded status by less than the increase in the benefit obligation because:\nA. remeasurements from changes in assumptions are recognized in OCI, not in earnings.\nB. a decrease in service cost will partially offset the increase.\nC. the fair value of plan assets may simultaneously increase.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. A decrease in interest rates may result in an increase in the fair value of plan assets that offsets the increase in the benefit obligation from a lower discount rate, especially plan assets invested in longer-duration fixed-income securities.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 42,
+    "question_text": "The amount recognized by XYZ as operating expense on the income statement related to its DB plan for fiscal year 2024 is closest to:\nA. 200.\nB. 320.\nC. 1,000.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Service cost, comprising current and past service costs of 200 and 120, respectively, is recognized on the income statement as an operating expense.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 43,
+    "question_text": "If XYZ prepared its financial statements under US GAAP, the total amount recognized by XYZ on the income statement related to its DB plan for fiscal year 2024 (assuming the company chooses not to immediately recognize the actuarial loss and assuming there is no amortization of past service costs or actuarial gains and losses) would be closest to:\nA. 20.\nB. 59.\nC. 530.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Under US GAAP-assuming the company chooses not to immediately recognize the actuarial loss and assuming there is no amortization of past service costs or actuarial gains and losses-the components of periodic pension cost that would be reported in P&L include the current service cost of 200, the interest expense on the pension obligation at the beginning of the period of 2,940 $[=7.0\\%\\times(42,000+120)]$ and the expected return on plan assets, which is a reduction of the cost of $3,120(=8.0\\%\\times39,000)$. Summing these three components gives 28.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 44,
+    "question_text": "An analyst is building a financial statement model for XYZ SA. The analyst assumes that service cost and the discount rate in FY2025 will be the same as in the previous year. The analyst's estimate of pension cost recognized on the income statement in FY2025 is closest to:\nΑ. 320.\nB. 404.\nC. 531.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. Pension costs recognized on the income statement comprise service cost and net interest expense/income. The analyst assumes service cost remains the same as in the previous year, or $(200+120)=320$ Net interest expense/income is the product of the discount rate and the net pension liability/asset at the beginning of FY2025, or the end of FY2024, [ $[(41,270-38,700)\\times0.07]=211$. Summing these two components gives 531.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 45,
+    "question_text": "If XYZ had used the same volatility assumption for its FY2024 option grants that it had used in FY2023, its FY2024 net income would have been:\nA. lower.\nB. higher.\nC. the same.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. In FY2024, XYZ used a lower volatility assumption than it did in FY2023. Lower volatility reduces the fair value of an option and thus the reported expense as the award vests. Using the FY2023 volatility estimate would have resulted in higher expense and thus lower net income.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 46,
+    "question_text": "If XYZ SA also granted RSUs to employees in fiscal 2024, the decrease in XYZ SA's share price volatility assumption would:\nA. increase the grant-date fair value of the RSUs.\nB. decrease the grant-date fair value of the RSUs.\nC. not affect the grant-date fair value of the RSUs.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. The grant-date fair value of an RSU is the share price, which may be adjusted for expected dividends. The volatility assumption is not relevant to the valuation of RSUs.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 47,
+    "question_text": "The amount recognized as operating expense on SKI's income statement related to its Equity Incentive Plan for the year ended 31 December 20X2 is closest to:\nA. SGD 51.4 million.\nB. SGD 64.1 million.\nC. SGD 123.1 million.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. The amount recognized as operating expense is the share-based compensation expense, which the product of 3,332,063 RSUs vested with a per-share grant-date fair value of SGD 19.25 less forfeitures of 442,181 with a per-share grant-date fair value of SGD 28.74. $(3,332,063~x~19.25)-(442,181~x$ $28.74)=51,433,931.$[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 48,
+    "question_text": "The increase in SKI's basic shares outstanding in the year ended 31 December 20X2 from its Equity Incentive Plan is closest to:\nΑ. 2,889,882.\nB. 3,332,063.\nC. 5,034,735.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Settlement of RSUs increases basic shares outstanding. The number of RSUs settled (converted to common shares) in 20X2 is 3,332,063. Forfeit RSUS are not deducted, as these are RSUs, not common shares.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 49,
+    "question_text": "The average market price for SKI shares at the time of settlement for the RSUS that vested in 20X2 was SGD 71.50. Assuming a statutory tax rate of 17%, the impact to SKI's income tax expense for 20X2 related to share-based compensation is closest to:\nA. a SGD 29.6 million increase in income tax expense.\nB. a SGD 29.6 million reduction in income tax expense.\nC. a SGD174.1 million reduction in income tax expense.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. The excess tax benefit or windfall in 20X2 is equal to the statutory tax rate multiplied by the amount that the tax deduction associated with the settlement of the share-based award exceeds the share-based compensation expense recognized on the income statement: statutory tax rate x (tax deduction share-based compensation expense). This is equal to $0.17\\times[(71.50\\times3,332,063)$ $(19.25\\times3,332,063)]=29,597,050.$[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 50,
+    "question_text": "If SKI reported under IFRS instead of US GAAP, its effective tax rate would likely be:\nA. lower.\nB. higher.\nC. the same.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Excess tax benefits or tax windfalls related to share-based compensation are recognized as gains directly in equity under IFRS, not as reductions in income tax expense on the P&L under US GAAP.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 51,
+    "question_text": "SKI reported basic shares outstanding of 270,400,000 and positive net income on its income statement for the year ended 31 December 20X2. Besides unvested RSUS, SKI had no other potentially dilutive securities outstanding. Assuming an average share price of SGD 71.50 for the year, diluted shares outstanding for the year ended 31 December 20X2 is closest to:\nΑ. 273,284,585.\nB. 275,695,075.\nC. 279,341,928.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Diluted shares outstanding is computed using the treasury stock method, where unvested RSUs are added to basic shares outstanding, net of assumed repurchases which is based on the average unrecognized share-based compensation expense and average prevailing market price for the shares... Diluted shares outstanding: 275,695,075[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 52,
+    "question_text": "If the weighted average share price during 20X2 was lower than SGD 71.50, but the average unrecognized share-based compensation expense was the same, diluted shares outstanding would be the amount calculated in the previous question.\nA. Lower than\nB. Higher than\nC. The same as[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. A lower weighted average share price in 20X2 would result in a greater number of shares assumed to be repurchased, thus fewer shares added to basic shares outstanding in the calculation of diluted shares outstanding.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 53,
+    "question_text": "An analyst is building a financial statement model for SKI and projects share-based compensation expense to be 10% of revenues next fiscal year. Based on the following assumptions, the analyst's estimated basic share count for SKI will increase by how many shares next fiscal year?\nA. 1.1 million\nB. 1.3 million\nC. 10.9 million[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Share-based compensation expense is estimated to be SGD 506 million x 0.10 = SGD 50.6 million. The expense is recognized upon vesting (which for RSUs is coincident with settlement). The number of shares issued and therefore increasing basic shares outstanding is SGD 50.6 million / SGD 46.36 = 1.1 million shares.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 54,
+    "question_text": "Compared to the 20X3 reported financial statements, if Terra Mercado had used the same expected long-term rate of return on plan assets assumption in 20X3 as it used in 20X1, its year-end 20X3 pension obligation would most likely have been:\nA. lower.\nB. higher.\nC. the same.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. The assumed long-term rate of return on plan assets is not a component used in calculating the pension obligation, so there would be no change. However, the long-term rate of return can affect the pension expense under US GAAP.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 55,
+    "question_text": "Compared to the reported 20X3 financial statements, if Terra Mercado had used the same discount rate it used in 20X1, it would have most likely reported lower:\nA. net income.\nB. total liabilities.\nC. cash flow from operating activities.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. A higher discount rate (5.38% instead of 4.85%) will reduce the present value of the pension obligation (liability). In most cases, a higher discount rate will decrease the interest cost component of the net periodic cost because the decrease in the obligation will more than offset the increase in the discount rate (except if the pension obligation is of short duration). Therefore, periodic pension cost would have been lower and reported net income higher. Cash flow from operating activities should not be affected by the change.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 56,
+    "question_text": "Compared to the assumptions Terra Mercado used to compute its periodic pension cost in 20X1, earnings in 20X3 were most favorably affected by the change in the:\nA. discount rate.\nB. estimated future salary increases.\nC. expected long-term rate of return on plan assets.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. In 20X3, the three relevant assumptions were lower than in 20X1. Lower expected salary increases reduce the service cost component of the periodic pension cost. A lower discount rate will increase the DB obligation and increase the interest cost component of the periodic pension cost (the increase in the obligation will, in most cases, more than offset the decrease in the discount rate). Reducing the expected return on plan assets typically increases the periodic pension cost.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 57,
+    "question_text": "Compared to the pension assumptions Terra Mercado used in 20X2, which of the following pairs of assumptions used in 20X3 is mostlikely internally inconsistent?\nA. Estimated future salary increases, inflation\nB. Discount rate, estimated future salary increases\nC. Expected long-term rate of return on plan assets, discount rate[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. The company's inflation estimate rose from 20X2 to 20X3. However, it lowered its estimate of future salary increases. Normally, salary increases are positively related to inflation.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 58,
+    "question_text": "Compared to the reported 20X3 financial statements, if Terra Mercado had used the 20X1 volatility assumption to value its employee stock option grants, it would have most likely reported higher:\nA. net income.\nB. operating expense.\nC. accrued compensation liability.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. A higher volatility assumption increases the value of the stock option and thus the compensation expense, which, in turn, reduces net income. There is no associated liability for equity-settled stock options.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 59,
+    "question_text": "Compared to the assumptions Terra Mercado used to value stock options in 20X2, earnings in 20X3 were most favorably affected by the change in the:\nA. expected life.\nB. risk-free rate.\nC. dividend yield.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. A higher dividend yield reduces the value of the option and thus option expense. The lower expense results in higher earnings. Higher risk-free rates and expected lives result in higher call option values.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 60,
+    "question_text": "Your colleague's discounted cash flow model expenses service cost and net interest expense in free cash flow and deducts the company's net pension liability from enterprise value to arrive at an estimate of equity value. You most likely recommend that your colleague:\nA. make no changes.\nB. remove service cost from free cash flow because it is a non-cash expense.\nC. remove net interest expense from free cash flow because the net pension, at present value, is already deducted from enterprise value.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. Net interest expense for a DB plan represents the unwinding of the discount with the passage of time. The discounted cash flow model values a company at the present time. Service cost is correctly expensed in the model as it represents increases in the pension obligation unrelated to the time value of money.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 61,
+    "question_text": "Your colleague's balance sheet is imbalanced, with assets exceeding total liabilities and equity by the same amount as share-based compensation expense, even though share-based compensation is correctly added back in the reconciliation of net income to cash flow from operating activities on the statement of cash flow. Your colleague has most likely forgotten to:\nA. add share-based compensation expense to equity.\nB. subtract share-based compensation expense from equity.\nC. subtract the fair value of share-based award settlements from equity.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. The offsetting entry to share-based compensation expense is to share-based compensation reserve, an account in equity. Ignoring this results in an expense which decreases retained earnings without a decrease in an asset or increase in a liability, thus causing an imbalance.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 62,
+    "question_text": "The subject company reported a net loss on its income statement in the most recent fiscal period but reported positive free cash flow. Your colleague should add anti-dilutive securities to diluted shares outstanding in their discounted cash flow valuation model to account for:\nA. forfeited share-based awards.\nB. unvested share-based awards.\nC. RSUs that settled in the most recent fiscal period.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. All unvested share-based awards, regardless of the spread between their grant-date fair value and current market price, are anti-dilutive for a company that reported a net loss.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 63,
+    "question_text": "As an alternative to expensing stock-based compensation in free cash flow in the discounted cash flow valuation model, your colleague could account for the expected dilution by:\nA. increasing shares outstanding.\nB. reducing operating expenses because the company could compensate its employees in cash rather than shares.\nC. increasing net cash because share-based compensation expense is a non-cash expense.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Dilution from share-based compensation can be accounted for by expensing share-based compensation in free cash flow or by increasing the share count for expected dilution.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 2[cite: 4]",
+    "question_id": 64,
+    "question_text": "The subject company's management has provided guidance for the next fiscal year, which includes an effective tax rate that is substantially below its statutory tax rate, largely due to tax windfalls from share-based compensation. Using this effective tax rate for all future years in the model would likely:\nA. overstate income tax expense.\nB. overstate free cash flow to the firm.\nC. understate estimated enterprise value.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. A lower effective tax would increase free cash flow to the firm (After-tax EBIT + D&A - Capex +/- Change in working capital). Tax windfalls or excess tax benefits decrease the effective tax rate versus the statutory rate because they are deductible for tax purposes, but not expensed on the income statement.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 65,
+    "question_text": "Which transaction would generate foreign currency transaction exposure for Ambleu?\nA. Transaction 1\nB. Transaction 2\nC. Transaction 3[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. In Transaction 3, the payment for the inventory is due in Bindiar francs, a different currency from the Norvoltian krone, which is Ambleu's presentation currency. Because the import purchase (account payable) is under 45-day credit terms, Ambleu has foreign currency transaction exposure. The payment is subject to fluctuations in the FB/NVK exchange rate during the 45-day period between the sale and payment dates...[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 66,
+    "question_text": "Yu's determination regarding Transaction 2 should be based on the currency of the:\nA. loan.\nB. bank.\nC. borrower.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. The currency of Ngcorp as the borrowing foreign subsidiary, relative to that of Ambleu, determines Ambleu's choice of translation method for Transaction 2. Because Ngcorp's functional currency is the Bindiar franc and Ambleu's presentation currency is the Norvoltian krone, the current rate method rather than the temporal method should be used...[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 67,
+    "question_text": "Based on Exhibit 1, what is the foreign exchange gain resulting from Transaction 3 on the 31 December 2016 financial statements?\nA. NVK1.70 per ton\nB. NVK90.75 per ton\nC. NVK248.54 per ton[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. On Ambleu's balance sheet, the cost included in the inventory account is the translation of FB27,000/ton into Norvoltian krone on the purchase date... = NVK6,462.58/ton. The cash outflow is the amount exchanged from the Norvoltian krone to the Bindiar franc to pay the FB27,000/ton owed for the inventory 45 days after the transaction date... = NVK6,460.88/ton. Foreign exchange gain = Inventory cost Cash payment = NVK6,462.58 NVK6,460.88 =NVK1.70/ton.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 68,
+    "question_text": "What is the best response to Question 1?\nA. Yes\nB. No, because it would reduce organic sales growth\nC. No, because it would reduce net price realization and mix[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Net sales growth equals organic sales growth plus or minus the effects of acquisitions, divestitures, and foreign exchange. A foreign currency translation loss would reduce net sales growth. Thus the answer to Question 1 is yes.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 69,
+    "question_text": "Based on Exhibit 1, the best response to Question 2 is that Ambleu should disclose:\nA. a restatement for local inflation.\nB. that assets carried at historical cost are translated at historical rates.\nC. the amount of foreign exchange differences included in net income.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. IFRS requires that Ambleu disclose \"the amount of exchange differences recognized in profit or loss\" when determining net income for the period. Because companies may present foreign currency transaction gains and losses in various places on the income statement, it is useful for companies to disclose both the amount of transaction gain or loss that is included in income as well as the presentation alternative used.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 70,
+    "question_text": "Based on Exhibit 1 and Note 1 in Exhibit 2, the amount that Ambleu should include in its 31 December 2017 revenue from Cendaró is closest to:\nA. NVK10.60 million.\nB. NVK13.25 million.\nC. NVK19.73 million.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Crenland experienced hyperinflation from 31 December 2015 to 31 December 2017, as shown by the General Price Index, with cumulative inflation of 128.2% during this period. According to IFRS, Cendaró's financial statements must be restated for local inflation, then translated into Norvoltian kroner using the current exchange rate... CRG153.48 million/14.4810 NVK10.60 million[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 71,
+    "question_text": "Based on Exhibit 2 and Note 2, the change in Ambleu's consolidated income tax rate from 2016 to 2017 most likely resulted from a:\nA. decrease in Ambleu's domestic tax rate.\nB. more profitable business mix in its subsidiaries.\nC. stronger Norvoltian krone relative to the currencies of its subsidiaries.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. The consolidated income tax rate is calculated as income tax expense divided by profit before tax. Note 2 shows that Ambleu's consolidated income tax rate decreases by 2.29%, from 34.94% $(=94/269)$ in 2016 to 32.65% $(=96/294)$ in 2017... The decrease in 2017 could indicate that Ambleu's business mix shifted to countries with lower marginal tax rates, resulting in a lower consolidated income tax rate and more profit.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 72,
+    "question_text": "Based on Exhibit 1 and Note 3 in Exhibit 2, the cumulative translation loss recognized by Ambleu related to the patent purchase on the 31 December 2017 financial statements is closest to:\nA. NVK0.39 million.\nB. NVK1.58 million\nC. NVK9.12 million.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. IAS 29 indicates that a cumulative inflation rate approaching or exceeding 100% over three years would be an indicator of hyperinflation. Because the cumulative inflation rate for 2016 and 2017 in Crenland was 128.2%, Cendaró's accounts must first be restated for local inflation... Using this approach, the cumulative translation loss on 31 December 2017 for the CRG85.17 million patent purchase is -NVK1.58 million...[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 73,
+    "question_text": "Based on Exhibit 1 and Note 4 in Exhibit 2, the total intangible assets on Ngcorp's balance sheet as of 31 December 2016 are closest to:\nA. FB12.54 million.\nB. FB12.71 million.\nC. FB13.04 million.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Because Ngcorp has a functional currency that is different from Ambleu's presentation currency, the intangible assets are translated into Norvoltian kroner using the current rate method. The current FB/NVK exchange rate is 4.2374 as of 31 December 2016. Thus, the intangible assets on Ngcorp's 2016 balance sheet are NVK3 million FB4.2374/NVK = FB12.71 million.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 74,
+    "question_text": "Based on Exhibits 1 and 2 and Janssen's translation method, total assets for Triofind-B translated into Triofind's presentation currency as of 31 December 2016 are closest to:\nA. NER1,375,000.\nB. NER1,380,252.\nC. NER1,434,783.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Using the temporal method, monetary assets (i.e., cash) are translated using the current exchange rate (as of 31 December 2016) of BRD1.20/NER (or NER0.8333/BRD), and non-monetary assets are translated using the historical exchange rate when acquired. Inventory is translated at its 2016 weighted-average rate of BRD1.19/NER (or NER0.8403/BRD)... Total 1,380,252.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 75,
+    "question_text": "Based on Exhibits 1 and 2, the translation adjustment for Triofind-B's liabilities into Triofind's presentation currency for the six months ended 31 December 2016 is:\nA. negative.\nB. zero.\nC. positive.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. The monetary balance sheet items for Triofind-B are translated at the current exchange rate, which reflects that the Borliand dollar weakened during the period relative to the Norvolt euro... Thus, the translation adjustment for liabilities is positive.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 76,
+    "question_text": "Based on Exhibits 1 and 2 and Janssen's translation method, retained earnings for Triofind-B translated into Triofind's presentation currency as of 30 June 2017 are closest to:\nA. NER150,225.\nB. NER170,940.\nC. NER172,414.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Triofind uses the temporal method to translate the financial statements of Triofind-B. The temporal method uses the current exchange rate for translating monetary assets and liabilities and the historical exchange rate (based on the date when the assets were acquired) for non-monetary assets and liabilities... The difference required to maintain equality between (a) total assets and (b) total liabilities and shareholder's equity is then recorded as retained earnings... Retained earnings = 150,225.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 77,
+    "question_text": "The functional currency for Triofind-A's sale of mobile phones to a customer in Certait is the:\nA. Certait real.\nB. Norvolt euro.\nC. Abuelio peso.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. The functional currency is the currency of the primary economic environment in which an entity operates. Abuelio is Triofind-A's primary economic environment, and its currency is the Abuelio peso (ABP)... The fact that Triofind-A prices its goods in Abuelio pesos supports the case for the ABP to be the functional currency.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 78,
+    "question_text": "Based on Exhibit 3, the value of the new warehouse in Abuelio on Triofind's balance sheet as of 31 July 2017 is closest to:\nA. NER31,452.\nB. NER47,964.\nC. NER50,000.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Triofind complies with IFRS, and Abuelio can be considered a highly inflationary economy because its cumulative inflation rate exceeded 100% from 2015 to 2017. Thus, Triofind-A's financials must be restated to include local inflation rates and then translated using the current exchange rate into Norvolt euros... The value of the new warehouse in Abuelio as of 31 July 2017 is NER47,964...[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 79,
+    "question_text": "Relative to its domestic tax rate, Triofind's effective tax rate is most likely:\nA. lower.\nB. the same.\nC. higher.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Norvolt exempts the non-domestic income of multinationals from taxation. Because Norvolt has a corporate tax rate of 34%, the 0% tax rate in Borliand and the fact that 25% of Triofind's net income comes from Borliand should result in a lower effective tax rate on Triofind's consolidated financial statements compared with Triofind's domestic tax rate...[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 80,
+    "question_text": "Based on Exhibit 4, the country with the highest sustainable sales growth is:\nA. Norvolt.\nB. Abuelio.\nC. Borliand.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Although Borliand shows the highest growth in Norvolt euro terms, this result is partially because of currency fluctuations, which cannot be controlled. Abuelio had the highest change in sales resulting from price and volume at 13% (excluding foreign currency exchange). This growth is more sustainable than net sales growth, which includes currency fluctuations...[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 81,
+    "question_text": "If Ukraine's economy becomes highly inflationary, Eurexim will most likely translate inventory by:\nA. restating for inflation and using the temporal method.\nB. restating for inflation and using the current exchange rate.\nC. using the temporal method with no restatement for inflation.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. IAS 21 requires that the financial statements of the foreign entity first be restated for local inflation using the procedures outlined in IAS 29... Then, the inflation-restated foreign currency financial statements are translated into the parent's presentation currency using the current exchange rate.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 82,
+    "question_text": "Given Ruiz's belief about the direction of exchange rates, Eurexim's gross profit margin would be highest if it accounts for the Ukraine subsidiary's inventory using:\nA. FIFO and the temporal method.\nB. FIFO and the current rate method.\nC. weighted-average cost and the temporal method.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Ruiz expects the EUR to appreciate against the UAH and expects some inflation in the Ukraine. In an inflationary environment, FIFO will generate a higher gross profit than weighted-average cost. For either inventory choice, the current rate method will give higher gross profit to the parent company if the subsidiary's currency is depreciating...[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 83,
+    "question_text": "If the euro is chosen as the Ukraine subsidiary's functional currency, Eurexim will translate its fixed assets using the:\nA. average rate for the reporting period.\nB. rate in effect when the assets were purchased.\nC. rate in effect at the end of the reporting period.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. If the parent's currency is chosen as the functional currency, the temporal method must be used. Under the temporal method, fixed assets are translated using the rate in effect at the time the assets were acquired.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 84,
+    "question_text": "If the euro is chosen as the Ukraine subsidiary's functional currency, Eurexim will translate its accounts receivable using the:\nA. rate in effect at the transaction date.\nB. average rate for the reporting period.\nC. rate in effect at the end of the reporting period.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. Monetary assets and liabilities such as accounts receivable are translated at current (end-of-period) rates regardless of whether the temporal or current rate method is used.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 85,
+    "question_text": "If the hryvnia is chosen as the Ukraine subsidiary's functional currency, Eurexim will translate its inventory using the:\nA. average rate for the reporting period.\nB. rate in effect at the end of the reporting period.\nC. rate in effect at the time the inventory was purchased.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. When the foreign currency is chosen as the functional currency, the current rate method is used. All assets and liabilities are translated at the current (end-of-period) rate.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 86,
+    "question_text": "Based on the information available and Ruiz's expectations regarding exchange rates, if the hryvnia is chosen as the Ukraine subsidiary's functional currency, Eurexim will most likely report:\nA. an addition to the cumulative translation adjustment.\nB. a translation gain or loss as a component of net income.\nC. a subtraction from the cumulative translation adjustment.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. When the foreign currency is chosen as the functional currency, the current rate method must be used and all gains or losses from translation are reported as a cumulative translation adjustment to shareholder equity. When the foreign currency decreases in value (weakens), the current rate method results in a negative translation adjustment in stockholders' equity.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 87,
+    "question_text": "After translating Consol-Can's inventory and long-term debt into the parent company's currency (US$), the amounts reported on Consolidated Motor's financial statements on 31 December 20X2 would be closest to (in millions):\nA. $71 for inventory and $161 for long-term debt.\nB. $71 for inventory and $166 for long-term debt.\nC. $73 for inventory and $166 for long-term debt.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. When the parent company's currency is used as the functional currency, the temporal method must be used to translate the subsidiary's accounts... Because beginning inventory was sold first and sales and purchases were evenly acquired, the average rate is most appropriate for translating inventory and C$77 million $\\times0.92=\\$71$ million. Long-term debt is translated at the year-end rate of 0.95. C$175 million $\\times0.95=\\$166$ million.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 88,
+    "question_text": "After translating Consol-Can's 31 December 20X2 balance sheet into the parent company's currency (US$), the translated value of retained earnings will be closest to:\nA. $41 million.\nB. $44 million.\nC. $46 million.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Translating the 20X2 balance sheet using the temporal method, as is required in this instance, results in assets of US$369 million. The translated liabilities and common stock are equal to US$325 million, meaning that the value for 20X2 retained earnings is US$369 million - US$325 million = US$44 million.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 89,
+    "question_text": "In response to the board's first question, Templeton would most likely reply that such a change would be justified if:\nA. the inflation rate in the United States became hyperinflationary.\nB. management wanted to flow more of the gains through net income.\nC. Consol-Can were making autonomous decisions about operations, investing, and financing.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. The Canadian dollar would be the appropriate reporting currency when substantially all operating, financing, and investing decisions are based on the local currency. The parent country's inflation rate is never relevant. Earnings manipulation is not justified, and at any rate changing the functional currency would take the gains off of the income statement.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 90,
+    "question_text": "In response to the board's second question, Templeton should reply that if the change is made, the consolidated financial statements for Consolidated Motors would begin to recognize:\nA. realized gains and losses on monetary assets and liabilities.\nB. realized gains and losses on non-monetary assets and liabilities.\nC. unrealized gains and losses on non-monetary assets and liabilities.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. If the functional currency were changed from the parent currency (US dollar) to the local currency (Canadian dollar), the current rate method would replace the temporal method. The temporal method ignores unrealized gains and losses on non-monetary assets and liabilities, but the current rate method does not.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 91,
+    "question_text": "In response to the board's third question, Templeton should note that the change will most likely affect:\nA. the cash ratio.\nB. fixed asset turnover.\nC. receivables turnover.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. If the Canadian dollar is chosen as the functional currency, the current rate method will be used and the current exchange rate will be the rate used to translate all assets and liabilities... Fixed assets are translated using the historical rate under the temporal method but would switch to current rates under the current rate method. Therefore, there will most likely be an effect on sales/fixed assets...[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 92,
+    "question_text": "In response to the board's fourth question, the balance sheet exposure (in C$ millions) would be closest to:\nA. -19.\nB. 148.\nC. 400.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. If the functional currency were changed, then Consol-Can would use the current rate method and the balance sheet exposure would be equal to net assets (total assets - total liabilities). In this case, 400-77-175 = 148.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 93,
+    "question_text": "Based on the translation method being used for Julius, the subsidiary is most likely:\nA. a sales outlet for Romulus's products.\nB. a self-contained, independent operating entity.\nC. using the US dollar as its functional currency.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Julius is using the current rate method, which is most appropriate when it is operating with a high degree of autonomy.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 94,
+    "question_text": "To account for its foreign operations, Romulus has most likely designated the euro as the functional currency for:\nA. Julius only.\nB. Augustus only.\nC. both Julius and Augustus.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. If the current rate method is being used (as it is for Julius), the local currency (euro) is the functional currency. When the temporal method is being used (as it is for Augustus), the parent company's currency (US dollar) is the functional currency.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 95,
+    "question_text": "When Romulus consolidates the results of Julius, any unrealized exchange rate holding gains on monetary assets should be:\nA. reported as part of operating income.\nB. reported as a non-operating item on the income statement.\nC. reported directly to equity as part of the cumulative translation adjustment.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. When the current rate method is being used, all currency gains and losses are recorded as a cumulative translation adjustment to shareholder equity.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 96,
+    "question_text": "When Marks translates his forecasted balance sheet for Julius into US dollars, total assets as of 31 December 20X2 (dollars in millions) will be closest to:\nA. $1,429.\nB. $2,392.\nC. $3,703.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. Under the current rate method, all assets are translated using the year-end 20X2 (current) rate of $1.61/€1.00. $\\epsilon2,300\\times1.61=\\$3,703$.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 97,
+    "question_text": "When Marks converts his forecasted income statement data for Julius into US dollars, the 20X2 gross profit margin will be closest to:\nA. 39.1%.\nB. 40.9%.\nC. 44.6%.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Under the current rate method, both sales and cost of goods sold would be translated at the 20X2 average exchange rate. The ratio would be the same as reported under the euro. €2,300 - €1,400 = €900, €900/€2,300 = 39.1%. Or, $3,542 $2,156 $1,386, $1,386/$3,542 = 39.1%.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 98,
+    "question_text": "Relative to the gross margins the subsidiaries report in local currency, Romulus's consolidated gross margin most likely:\nA. will not be distorted by currency translations.\nB. would be distorted if Augustus were using the same translation method as Julius.\nC. will be distorted because of the translation and inventory accounting methods Augustus is using.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. Augustus is using the temporal method in conjunction with FIFO inventory accounting. If FIFO is used, ending inventory is assumed to be composed of the most recently acquired items, and thus inventory will be translated at relatively recent exchange rates. To the extent that the average weight used to translate sales differs from the historical rate used to translate inventories, the gross margin will be distorted when translated into US dollars.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 99,
+    "question_text": "Compared with using the Singapore dollar as Acceletron's functional currency for 2007, if the US dollar were the functional currency, it is most likely that Redline's consolidated:\nA. inventories will be higher.\nB. receivable turnover will be lower.\nC. fixed asset turnover will be higher.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. If the US dollar is the functional currency, the temporal method must be used. Revenues and receivables (monetary asset) would be the same under either accounting method. Inventory and fixed assets were purchased when the US dollar was stronger, so at historical rates (temporal method), translated they would be lower. Identical revenues/lower fixed assets would result in higher fixed-asset turnover.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 100,
+    "question_text": "If the US dollar were chosen as the functional currency for Acceletron in 2007, Redline could reduce its balance sheet exposure to exchange rates by:\nA. selling SGD30 million of fixed assets for cash.\nB. issuing SGD30 million of long-term debt to buy fixed assets.\nC. issuing SGD30 million in short-term debt to purchase marketable securities.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. If the US dollar is the functional currency, the temporal method must be used, and the balance sheet exposure will be the net monetary assets of $125+230-185-200=-30$, or a net monetary liability of SGD30 million. This net monetary liability would be eliminated if fixed assets (non-monetary) were sold to increase cash...[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 101,
+    "question_text": "Redline's consolidated gross profit margin for 2007 would be highest if Acceletron accounted for inventory using:\nA. FIFO, and its functional currency were the US dollar.\nB. LIFO, and its functional currency were the US dollar.\nC. FIFO, and its functional currency were the Singapore dollar.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Because the US dollar has been consistently weakening against the Singapore dollar, cost of sales will be lower and gross profit higher when an earlier exchange rate is used to translate inventory, compared with using current exchange rates. If the Singapore dollar is the functional currency, current rates would be used. Therefore, the combination of the US dollar (temporal method) and FIFO will result in the highest gross profit margin.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 102,
+    "question_text": "If the current rate method is used to translate Acceletron's financial statements into US dollars, Redline's consolidated financial statements will most likely include Acceletron's:\nA. USD3,178 million in revenues.\nB. USD118 million in long-term debt.\nC. negative translation adjustment to shareholder equity.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Under the current rate method, revenue is translated at the average rate for the year, $GD4,800\\times0.662=USD3,178$ million. Debt should be translated at the current rate, SGD200 0.671 = USD134 million. Under the current rate method, Acceletron would have a net asset balance sheet exposure. Because the Singapore dollar has been strengthening against the US dollar, the translation adjustment would be positive rather than negative.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 103,
+    "question_text": "If Acceletron's financial statements are translated into US dollars using the temporal method, Redline's consolidated financial statements will most likely include Acceletron's:\nA. USD336 million in inventory.\nB. USD956 million in fixed assets.\nC. USD152 million in accounts receivable.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Under the temporal method, inventory and fixed assets would be translated using historical rates. Accounts receivable is a monetary asset and would be translated at year-end (current) rates. Fixed assets are found as (1,000 × $0.568)+(640\\times0.606)=USD$ 956 million.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 3[cite: 4]",
+    "question_id": 104,
+    "question_text": "When translating Acceletron's financial statements into US dollars, Redline is least likely to use an exchange rate of USD per SGD:\nΑ. 0.671.\nB. 0.588.\nC. 0.654.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. USD0.671/SGD is the current exchange rate. That rate would be used regardless of whether Acceletron uses the current rate or temporal method. USD0.654 was the weighted-average rate when inventory was acquired. That rate would be used if the company translated its statements under the temporal method but not the current rate method. USD0.588/SGD was the exchange rate in effect when long-term debt was issued. As a monetary liability, long-term debt is always translated using current exchange rates. Consequently, that rate is not applicable regardless of how Acceletron translates its financial statements.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 4[cite: 4]",
+    "question_id": 105,
+    "question_text": "Which of Smith's statements regarding banks is correct?\nA. Only Statement 1\nB. Only Statement 2\nC. Both Statement 1 and Statement 2[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Banks are more likely to be systemically important than non-financial companies because, as intermediaries, they create financial linkages across all types of entities, including households, banks, corporates, and governments... The assets of banks are predominantly financial assets, such as loans and securities (not deposits, which represent most of a bank's liabilities).[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 4[cite: 4]",
+    "question_id": 106,
+    "question_text": "The aspect of the Basel III framework that Johansson describes to Smith relates to minimum:\nA. capital requirements.\nB. liquidity requirements.\nC. amounts of stable funding requirements.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Basel III specifies the minimum percentage of its risk-weighted assets that a bank must fund with equity capital. This minimum funding requirement prevents a bank from assuming so much financial leverage that it is unable to withstand loan losses or asset write-downs.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 4[cite: 4]",
+    "question_id": 107,
+    "question_text": "One limitation of the approach used by Johansson to evaluate banks is that it fails to address a bank's:\nA. sensitivity to market risk.\nB. management capabilities.\nC. competitive environment.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. The approach used by Johansson to evaluate banks, the CAMELS approach, has six components: (1) capital adequacy, (2) asset quality, (3) management capabilities, (4) earnings sufficiency, (5) liquidity position, and (6) sensitivity to market risk... One such attribute is a bank's competitive environment. A bank's competitive position relative to its peers may affect how it allocates capital and assesses risks.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 4[cite: 4]",
+    "question_id": 108,
+    "question_text": "The best indicator of the operations of a P&C insurance company emphasized by Johansson when evaluating P&C insurance companies is the:\nA. combined ratio.\nB. underwriting loss ratio.\nC. underwriting expense ratio.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. The underwriting expense ratio is an indicator of the efficiency of money spent on obtaining new premiums. The underwriting loss ratio is an indicator of the quality of a company's underwriting activities-the degree of success an underwriter has achieved in estimating the risks insured. The combined ratio, a measure of the overall underwriting profitability and efficiency of an underwriting operation, is the sum of these two ratios.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 4[cite: 4]",
+    "question_id": 109,
+    "question_text": "Which of the differences between P&C insurers and L&H insurers noted by Smith is incorrect?\nA. Difference 1\nB. Difference 2\nC. Difference 3[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. The products of the two types of insurance companies, P&C and L&H, differ in contract duration and claim variability... The relative predictability of L&H insurers' claims generally allows these companies to have lower capital requirements and to seek higher returns than P&C insurers.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 4[cite: 4]",
+    "question_id": 110,
+    "question_text": "Based on Exhibit 1, Smith should conclude that the insurer with the most efficient underwriting operation is:\nA. Insurer A.\nB. Insurer B.\nC. Insurer C.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. The combined ratio, which is the sum of the underwriting expense ratio and the loss and loss adjustment expense ratio, is a measure of the efficiency of an underwriting operation. A combined ratio of less than 100% is considered efficient... Insurer C is the only insurer that has a combined ratio less than 100%.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 4[cite: 4]",
+    "question_id": 111,
+    "question_text": "Based on Exhibit 2, Smith and Johansson should conclude that over the past three years, ABC Bank's:\nA. liquidity position has declined.\nB. capital adequacy has improved.\nC. sensitivity to market risk has improved.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. Over the past three years, there has been a downward trend in the two VaR measures... This trend indicates an improvement in ABC Bank's sensitivity, or a reduction in its exposure, to market risk... Trends in the three capital adequacy measures... indicate a decline in ABC Bank's capital adequacy...[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 4[cite: 4]",
+    "question_id": 112,
+    "question_text": "Which of the following industries most likely has the highest level of global systemic risk?\nA. Industry A\nB. Industry B\nC. Industry C[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. Industry C, representing global commercial banks, most likely has the highest level of global systemic risk because global commercial banks have the highest proportion of cross-border business...[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 4[cite: 4]",
+    "question_id": 113,
+    "question_text": "Based on Exhibit 1, Company XYZ's capital adequacy over the last three years, as measured by the three key capital ratios, signals conditions that are:\nA. mixed.\nB. declining.\nC. improving.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Company XYZ's key capital adequacy ratios show mixed conditions... The common equity Tier 1 capital ratio and the Tier 1 capital ratio both strengthened from 2015 to 2017, but the total capital ratio weakened during that same period, signaling mixed conditions.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 4[cite: 4]",
+    "question_id": 114,
+    "question_text": "Based only on Exhibit 2, asset composition from 2015 to 2017 indicates:\nA. declining liquidity.\nB. increasing risk based on the proportion of total loans to total assets.\nC. decreasing risk based on the proportion of investments to total assets.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Company XYZ's liquid assets as a percentage of total assets declined each year since 2015, indicating declining liquidity.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 4[cite: 4]",
+    "question_id": 115,
+    "question_text": "Based on Exhibit 3, the trend in impairment allowances is reflective of the changes in:\nA. impaired assets.\nB. strong credit quality assets.\nC. past due but not impaired assets.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. Impairment allowances have increased proportionately to the increases in the amount of past due but not impaired assets, which may be in anticipation of these past due assets becoming impaired. Impaired assets have decreased each year while strong credit quality assets have increased each year, which suggests lowering impairment allowances as a result of improving credit quality of these financial instruments.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 4[cite: 4]",
+    "question_id": 116,
+    "question_text": "Based on Exhibit 4, a loan loss analysis for the last three years indicates that:\nA. Company XYZ has become less conservative in its provisioning for consumer loans.\nB. the provision for commercial loan losses has trailed the actual net charge-off experience.\nC. the cushion between the allowance and the net commercial loan charge-offs has declined.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. The allowance for loan losses to net commercial loan charge-offs has been declining during the last three years, which indicates that the cushion between the allowance and the net commercial loan charge-offs has deteriorated.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 4[cite: 4]",
+    "question_id": 117,
+    "question_text": "Which of the following supplemental factors is consistent with a favorable assessment of Company XYZ's financial outlook?\nA. Competitive environment\nB. Net benefit plan obligation\nC. Equity-based compensation policy[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. The net benefit plan obligation has steadily decreased during the last three years, which indicates a lower degree of risk posed by the benefit plan.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 4[cite: 4]",
+    "question_id": 118,
+    "question_text": "Paulinic's analysis of the two insurance companies most likely indicates that:\nA. Cobalt has more-predictable claims than Vermillion.\nB. Cobalt has a higher capital requirement than Vermillion.\nC. Vermillion's calculated risk-based capital is more sensitive than Cobalt's to interest rate risk.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Claims associated with life and health insurance companies (Cobalt) are more predicable than those for property and casualty insurance companies (Vermillion)...[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 4[cite: 4]",
+    "question_id": 119,
+    "question_text": "Based only on the information in Exhibit 1, in 2017 Vermillion most likely:\nA. experienced a decrease in overall efficiency.\nB. improved its ability to estimate insured risks.\nC. was more efficient in obtaining new premiums.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. The loss and loss adjustment expense ratio decreased from 61.3% to 59.1% between 2016 and 2017... The loss and loss adjustment expense ratio indicates the degree of success an underwriter has achieved in estimating the risks insured. A lower ratio indicates greater success in estimating insured risks.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 4[cite: 4]",
+    "question_id": 120,
+    "question_text": "Based only on Exhibit 2, which of the following statements is correct?\nA. The quality of earnings for R-bank was the highest in 2009.\nB. Relative to the other banks, N-bank has the highest quality of earnings in 2017.\nC. Trading represented a sustainable revenue source for T-bank between 2005 and 2013.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. The quality of earnings is directly related to the level of sustainable sources of income. Trading income tends to be volatile and not necessarily sustainable. Higher-quality income would be net interest income and fee-based service income. Because N-bank's 2017 trading revenue contribution is the lowest relative to other banks, its quality of earnings would be considered the best of the three banks.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 4[cite: 4]",
+    "question_id": 121,
+    "question_text": "Based only on Exhibit 3, Paulinic should conclude that:\nA. trading activities are riskier at T-bank than N-bank.\nB. trading revenue per unit of risk has improved more at N-bank than T-bank.\nC. compared with duration, the metric used is a better measure of interest rate risk.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Trading revenue per unit of risk can be represented by the ratio of annual trading revenue to average daily trading value at risk (VaR) and represents a measure of reward-to-risk. The trading revenue per unit of risk improved at N-bank (from 134x to 160x) between 2016 and 2017, and there was no change at T-bank (80x). VaR can be used for gauging trends in intra-company risk taking.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 4[cite: 4]",
+    "question_id": 122,
+    "question_text": "Based only on Exhibit 4, R-bank's use of credit derivatives since 2007 most likely:\nA. increased posted collateral.\nB. decreased the volatility of earnings from trading activities.\nC. indicates consistent correlations among the relevant risks taken.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Exhibit 4 indicates that exposure to free-standing credit derivatives dramatically declined from a peak during the global financial crisis in 2008. If a derivatives contract is classified as freestanding, changes in its fair value are reported as income or expense in the income statement at each reporting period... As a result, earnings volatility from the use of credit derivatives most likely decreased.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 4[cite: 4]",
+    "question_id": 123,
+    "question_text": "Based on Statement 1, the net interest margin for the three banks' most likely will:\nA. decrease.\nB. remain unchanged.\nC. increase.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. A bank's net interest revenue represents the difference between interest earned on loans and other interest-bearing assets and the level of interest paid on deposits and other interest-bearing liabilities... If the yield curve unexpectedly inverts, the short-term funding costs will increase and the net interest margin will most likely decrease (not remain unchanged or increase).[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 4[cite: 4]",
+    "question_id": 124,
+    "question_text": "Based on Statement 2, the financial ratio most directly affected is the:\nA. Tier 2 capital ratio.\nB. net stable funding ratio.\nC. liquidity coverage ratio.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. Reverse repurchase agreements represent collateralized loans between a bank and a borrower. A reverse repo with a 30-day maturity is a highly liquid asset and thus would directly affect the liquidity coverage ratio (LCR). LCR evaluates short-term liquidity and represents the percentage of a bank's expected cash outflows in relation to highly liquid assets.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 5[cite: 4]",
+    "question_id": 125,
+    "question_text": "Which of Pereira's statements describes an accounting warning sign of potential overstatement or non-sustainability of operating and/or net income?\nA. Statement 1\nB. Statement 2\nC. Statement 3[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Higher growth in revenue than that of industry peers is an accounting warning sign of potential overstatement or non-sustainability of operating income. Shortening the depreciable lives of capital assets is a conservative change and not a warning sign. An increase (not a decrease) in discounts and returns would be a warning sign.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 5[cite: 4]",
+    "question_id": 126,
+    "question_text": "Which of Pereira's statements about Miland Communications is most likely a warning sign of potential earnings manipulation?\nA. The trend in inventory turnover\nB. The trend in receivables turnover\nC. The amount of net income relative to cash flow from operations[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. Net income being greater than cash flow from operations is a warning sign that the firm may be using aggressive accrual accounting policies that shift current expenses to future periods. Decreasing, not increasing, inventory turnover could suggest inventory obsolescence problems that should be recognized. Decreasing, not increasing, receivables turnover could suggest that some revenues are fictitious or recorded prematurely or that the allowance for doubtful accounts is insufficient.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 5[cite: 4]",
+    "question_id": 127,
+    "question_text": "Based on the regression model used by Pereira, earnings persistence for Miland would be highest if:\nA. $\\beta_{1}$ is less than 0.\nB. $\\beta_{1}$ is greater than $\\beta_{2}$.\nC. $\\beta_{2}$ is greater than $\\beta_{1}$.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. When earnings are decomposed into a cash component and an accruals component, research has shown that the cash component is more persistent. A beta coefficient $(\\beta_{1})$ on the cash flow variable that is larger than the beta coefficient $(\\beta_{2})$ on the accruals variable indicates that the cash flow component of earnings is more persistent than the accruals component. This result provides evidence of earnings persistence.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 5[cite: 4]",
+    "question_id": 128,
+    "question_text": "Which of Pereira's statements regarding the use of quantitative models to assess the likelihood of misreporting is correct?\nA. Only Statement 4\nB. Only Statement 5\nC. Both Statement 4 and Statement 5[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Earnings manipulators have learned to test the detectability of earnings manipulation tactics by using the model to anticipate analysts' perceptions. They can reduce their likelihood of detection; therefore, Statement 5 is correct... An additional limitation of using quantitative models is that they cannot determine cause and effect between model variables... therefore, Statement 4 is incorrect.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 5[cite: 4]",
+    "question_id": 129,
+    "question_text": "Based on Pereira's determination of recurring and non-recurring expenses for Miland, the company's recurring or core pre-tax earnings last year is closest to:\nA. $4.3 billion.\nB. $4.8 billion.\nC. $7.1 billion.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. Recurring or core pre-tax earnings would be $7.1 billion, which is the company's reported pre-tax income of $5.4 billion plus the $1.2 billion of non-recurring (i.e., one-time) acquisitions and divestiture expenses plus the $0.5 billion of non-recurring restructuring expenses.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 5[cite: 4]",
+    "question_id": 130,
+    "question_text": "After adjusting the Globales, Inc. income statement for the two possible misstatements, the decline in net income is closest to:\nA. EUR37.5 million.\nB. EUR112.5 million.\nC. EUR150.0 million.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. The correction of the revenue misstatement would result in lower revenue by EUR50 million, and the correction of the cost of revenue misstatement would result in higher cost of revenue by EUR100 million. The result is a reduction in pre-tax income of EUR150 million. Applying a tax rate of 25%, the reduction in net income would be $150\\times(1-0.25)=EUR112.5)$ million.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 5[cite: 4]",
+    "question_id": 131,
+    "question_text": "Pereira should forecast that the ROE for Globales is likely to decline:\nA. more slowly than that of the industry competitor.\nB. at the same rate as the industry competitor.\nC. more rapidly than that of the industry competitor.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Based on the principle of mean reversion, the high ROE for both firms should revert towards the mean. Globales has a higher cash flow component to its return than the peer firm, however, so its high return on common equity should persist longer than that of the peer firm. The peer firm has a higher accruals component, so it is likely to revert more quickly.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 5[cite: 4]",
+    "question_id": 132,
+    "question_text": "Which of Webster's notes about BIG Industrial provides an accounting warning sign of a potential reporting problem?\nA. Only Note 1\nB. Only Note 2\nC. Both Note 1 and Note 2[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Only Note 2 provides a warning sign. The combination of increases in accounts payable with substantial decreases in accounts receivable and inventory are an accounting warning sign that management may be overstating cash flow from operations. Note 1 does not necessarily provide a warning sign. Operating income being greater than operating cash flow is a warning sign of a potential reporting problem. In this case, however, BIG Industrial's operating income is lower than its operating cash flow.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 5[cite: 4]",
+    "question_id": 133,
+    "question_text": "Do either of Webster's Notes 4 or 5 about Construction Supply describe an accounting warning sign of potential overstatement or non-sustainability of operating income?\nA. No\nB. Yes, Note 4 provides a warning sign\nC. Yes, Note 5 provides a warning sign[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Neither Note 4 nor Note 5 provides an accounting warning sign of potential overstatement or non-sustainability of operating income...[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 5[cite: 4]",
+    "question_id": 134,
+    "question_text": "Based on Webster's research notes, which company would most likely be described as having high-quality cash flow?\nA. BIG Industrial\nB. Construction Supply\nC. Dynamic Production[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. High-quality OCF means the performance is of high reporting quality and also of high results quality... Construction Supply reported positive OCF during each of the last three years. The OCF appears to be derived from sustainable sources, because it compares closely with reported net income. Finally, OCF was adequate to cover capital expenditures, dividends, and debt repayments...[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 5[cite: 4]",
+    "question_id": 135,
+    "question_text": "Based on the Beneish model results for 2017 in Exhibit 1, which company has the highest probability of being an earnings manipulator?\nA. BIG Industrial\nB. Construction Supply\nC. Dynamic Production[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Higher M-scores indicate an increased probability of earnings manipulation. The company with the highest M-score in 2017 is BIG Industrial, with an M-score of -1.54. Construction Supply has the lowest M-score at -2.60, and Dynamic Production also has a lower M-score at -1.86. The M-score for BIG Industrial is above the relevant cutoff of -1.78.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 5[cite: 4]",
+    "question_id": 136,
+    "question_text": "Based on the information related to its restatement, Dynamic Production reported poor operating cash flow quality in 2016 by understating:\nA. inventories.\nB. net income.\nC. trade receivables.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. The items primarily affected by improper revenue recognition include net income, receivables, and inventories. When revenues are overstated, net income and receivables will be overstated and inventories will be understated.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 5[cite: 4]",
+    "question_id": 137,
+    "question_text": "Webster's concern about BIG Industrial's inventory suggests poor reporting quality, most likely resulting from a lack of:\nA. completeness.\nB. clear presentation.\nC. unbiased measurement.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. Webster is concerned that innovations have made some of BIG Industrial's inventory obsolete. This scenario suggests impairment charges for inventory may be understated and that the inventory balance does not reflect unbiased measurement.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 5[cite: 4]",
+    "question_id": 138,
+    "question_text": "In response to Dodd's request, Webster's recalculated return on sales will most likely:\nA. decrease.\nB. remain the same.\nC. increase.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. The use of unconsolidated joint ventures or equity-method investees may reflect an overstated return on sales ratio, because the parent company's consolidated financial statements include its share of the investee's profits but not its share of the investee's sales. An analyst can adjust the reported amounts to better reflect the combined amounts of sales. Reported net income divided by the combined amount of sales will result in a decrease in the net profit margin.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 5[cite: 4]",
+    "question_id": 139,
+    "question_text": "Based on Martinez's conclusions, Stellar's financial statements are best categorized as:\nA. non-GAAP compliant.\nB. GAAP compliant, but with earnings management.\nC. GAAP compliant and decision useful, with sustainable and adequate returns.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Stellar's financial statements are GAAP compliant (Conclusion 1) but cannot be relied upon to assess earnings quality. There is evidence of earnings management: understating and overstating earnings depending upon the results of the period (Conclusion 1), understated amortizable intangibles (Conclusion 2), and a high accruals component in the company's earnings (Conclusion 3).[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 5[cite: 4]",
+    "question_id": 140,
+    "question_text": "Based on Conclusion 2, after the acquisition of Solar, Stellar's earnings are most likely:\nA. understated.\nB. fairly stated.\nC. overstated.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. Martinez believes that Stellar most likely understated the value of amortizable intangibles when recording the acquisition of a rival company last year. Impairment charges have not been taken since the acquisition (Conclusion 2). Consequently, the company's earnings are likely to be overstated because amortization expense is understated. This understatement has not been offset by an impairment charge.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 5[cite: 4]",
+    "question_id": 141,
+    "question_text": "In his follow-up analysis relating to Conclusion 3, Martinez should focus on Stellar's:\nA. total accruals.\nB. discretionary accruals.\nC. non-discretionary accruals.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Martinez concluded that the accruals component of Stellar's earnings was large relative to the cash component (Conclusion 3). Earnings with a larger component of accruals are typically less persistent and of lower quality... Thus, Martinez is primarily focused on discretionary accruals, particularly outlier discretionary accruals (referred to as abnormal accruals).[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 5[cite: 4]",
+    "question_id": 142,
+    "question_text": "What will be the impact on Stellar in the current year if Martinez's belief in Conclusion 4 is correct? Compared with the previous year, Stellar's:\nA. current ratio will increase.\nB. days sales outstanding (DSO) will decrease.\nC. accounts receivable turnover will decrease.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Because accounts receivable will be lower than reported in the past, Stellar's DSO [Accounts receivable/(Revenues/365)] will decrease. Stellar's accounts receivable turnover (365/days' sales outstanding) will increase with the lower DSO, giving the false impression of a faster turnover. The company's current ratio will decrease (current assets will decrease with no change in current liabilities).[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 6[cite: 4]",
+    "question_id": 143,
+    "question_text": "Over the three-year period presented in Exhibit 1, Bickchip's return on equity is best described as:\nA. stable.\nB. trending lower.\nC. trending higher.[cite: 4]",
+    "correct_answer": "C[cite: 4]",
+    "explanation": "C is correct. The ROE has been trending higher. ROE can be calculated by multiplying (net profit margin) x (asset turnover) x (financial leverage)... Using the same method, ROE was 12.9 percent in 2019 and 13.6 percent in 2020.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 6[cite: 4]",
+    "question_id": 144,
+    "question_text": "Based on the DuPont analysis, Abay's belief regarding ROE is most likely based on:\nA. leverage.\nB. profit margins.\nC. asset turnover.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. The DuPont analysis shows that profit margins and asset turnover have both increased over the last three years, but leverage has declined. The reduction in leverage offsets a portion of the improvement in profitability and turnover. Thus, ROE would have been higher if leverage had not decreased.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 6[cite: 4]",
+    "question_id": 145,
+    "question_text": "Based on Abay's criteria, the business segment best suited for divestiture is:\nA. medical equipment.\nB. power and industrial.\nC. automation equipment.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. The Power and Industrial segment has the lowest EBIT margins but uses about 31 percent of the capital employed. Further, Power and Industrial's proportion of the capital expenditures has increased from 32 percent to 36 percent over the three years... If Abay is considering divesting segments that do not earn sufficient returns on capital employed, this segment is most suitable.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 6[cite: 4]",
+    "question_id": 146,
+    "question_text": "Bickchip's cash-flow-based accruals ratio in 2020 is closest to:\nA. 9.9%.\nB. 13.4%.\nC. 23.3%.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. The cash-flow-based accruals ratio $=[NI-(CFO+CFI)]/(Averag\\epsilon$ $NOA)=[4,038-(9,822-10,068)]/43,192=9.9\\%$.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 6[cite: 4]",
+    "question_id": 147,
+    "question_text": "The cash-flow-based accruals ratios from 2018 to 2020 indicate:\nA. improving earnings quality.\nB. deteriorating earnings quality.\nC. no change in earnings quality.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. The cash-flow-based accruals ratio falls from 11.0 percent in 2018 to 5.9 percent in 2019, and then rises to 9.9 percent in 2020. However, the change over the three-year period is a net modest decline, indicating a slight improvement in earnings quality.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 6[cite: 4]",
+    "question_id": 148,
+    "question_text": "The ratio of operating cash flow before interest and taxes to operating income for Bickchip for 2020 is closest to:\nA. 1.6.\nB. 1.9.\nC. 2.1.[cite: 4]",
+    "correct_answer": "B[cite: 4]",
+    "explanation": "B is correct. Net cash flow provided by (used in) operating activity has to be adjusted for interest and taxes, as necessary, in order to be comparable to operating income (EBIT). Bickchip, reporting under IFRS, chose to classify interest expense as a financing cash flow so the only necessary adjustment is for taxes. The operating cash flow before interest and taxes $=9,822+1,930=11,752.$ Dividing this by EBIT of 6,270 yields 1.9.[cite: 4]"
+  },
+  {
+    "module": "Financial Statement Analysis - Learning Module 6[cite: 4]",
+    "question_id": 149,
+    "question_text": "Based on the ratios for operating cash flow before interest and taxes to operating income, Abay should conclude that:\nA. Bickchip's earnings are backed by cash flow.\nB. Bickchip's earnings are not backed by cash flow.\nC. Abay can draw no conclusion due to the changes in the ratios over time.[cite: 4]",
+    "correct_answer": "A[cite: 4]",
+    "explanation": "A is correct. Operating cash flow before interest and taxes to operating income rises steadily (not erratically) from 1.2 to 1.3 to 1.9. The ratios over 1.0 and the trend indicate that earnings are supported by cash flow.[cite: 4]"
+  }
+]

@@ -1,0 +1,401 @@
+[
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 1,
+    "question_text": "All else equal, which of the following would mostlikely explain the fall in price of a particular company's shares?\nA. The expected inflation rate falls.\nB. The company's future cash flows are expected to increase.\nC. The yield to maturity on real default-free investments rises.[cite: 9]",
+    "correct_answer": "C[cite: 9]",
+    "explanation": "C is correct. According to the fundamental pricing equation, the market value of an asset is affected by economic factors that influence the asset's expected future cash flows, default-free interest rates, expected inflation rates, or the asset's risk premium... Consequently, a rise in the real risk-free rate (the yield to maturity on a default-free instrument) will lead to a fall in the price of a risky asset, such as stock, by increasing the rate at which its cash flows are discounted.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 2,
+    "question_text": "Holding all else constant, the change in Blake's income will most likely result in:\nA. an increase in his marginal utility of consumption.\nB. an increase in his inter-temporal rate of substitution.\nC. a decrease in his required risk premium for investing in risky assets.[cite: 9]",
+    "correct_answer": "C[cite: 9]",
+    "explanation": "C is correct. The additional annuity payment substantially increases Blake's income and wealth, which decreases his marginal utility of consumption. As a result, the average loss of marginal utility from any risk taking decreases as his wealth increases. Thus, he requires a lower risk premium and is willing to buy more risky assets.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 3,
+    "question_text": "The implied premium for inflation uncertainty for the one-year government zero-coupon bond proposed by Carlisle is closest to:\nA. 0.23%.\nB. 0.37%.\nC. 1.10%.[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. The pricing equation for a default-free nominal coupon-paying bond is... For a one-year bond, the pricing formula reduces to... Thus, the implied premium for inflation uncertainty for the one-year government zero-coupon bond is calculated as $\\pi_{t,1}=\\frac{CF_{t+1}}{P_{t}}-(1+l_{l,1}+\\theta_{l,1})$ $=\\frac{100}{96.37}-(1+0.0115+0.0225)$ $=1.0377-1.0340$ $=0.0037,$ or 0.37%.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 4,
+    "question_text": "Based on the data in Exhibit 1, current real short-term interest rates would most likely be highest in:\nA. Country #1.\nB. Country #2.\nC. Country #3.[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. Real short-term interest rates are positively related to both real GDP growth and the volatility of real GDP growth. Country 1 and Country 2 have the highest real GDP growth, as estimated by the difference between nominal GDP growth and average inflation $(6.5\\%-4.0\\%=2.5\\%$ and $5.0\\%-2.5\\%=2.5\\%$, respectively)... Country 2 has high real GDP growth volatility... Therefore, Country 2 would most likely have the highest real short-term interest rates.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 5,
+    "question_text": "The recent change in Country #3's break-even inflation rate suggests that the expected rate of inflation over the next three years is:\nA. less than 2.0%.\nB. equal to 2.0%.\nC. greater than 2.0%.[cite: 9]",
+    "correct_answer": "A[cite: 9]",
+    "explanation": "A is correct. The difference, or spread, between the yields on the country's three-year default-free nominal bond and on the default-free real zero-coupon bond is 2.0%. This spread is known as the break-even rate of inflation (BEI), which is composed of the expected rate of inflation plus a risk premium for the uncertainty of future inflation. Because this risk premium component is most likely positive... the expected rate of inflation component would be less than 2.0%.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 6,
+    "question_text": "Which of the following changes in market conditions best supports Carlisle's comment regarding the equilibrium $P/E$ for Country #3?\nA. An increase in the equity risk premium\nB. A decrease in uncertainty about future inflation\nC. A decrease in expectation of future real earnings growth[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. Stock prices are a function of expected cash flows discounted by inflation expectations, the uncertainty of future inflation, and the equity risk premium, among other factors. Holding all else equal, a decline in the uncertainty of future inflation would result in lower discount rates and higher valuations. This result would support a higher equilibrium $P/E$, thus justifying Country 3's current trailing P/E being higher than its historical average.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 7,
+    "question_text": "If Carlisle's prediction about the economy of Country #3 is realized, the yield curve in Country #3 will most likely:\nA. remain flat.\nB. become upward sloping.\nC. become downward sloping.[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. The yield curve in Country 3 is currently flat (Exhibit 1), and Carlisle predicts a recession. During a recession, short-term rates tend to be lower because central banks tend to lower their policy rate in these times. However, the impact of monetary policy on longer-term rates will not be as strong because the central bank will usually be expected to bring short-term rates back to normal as the recession recedes. Thus, the slope of the yield curve will likely become upward sloping during the recession.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 8,
+    "question_text": "Based on Exhibit 2, if Carlisle's prediction for Country #3 is realized, then over the next 12 months:\nA. Bond A would be expected to outperform Bond C.\nB. Bond B would be expected to outperform Bond A.\nC. Bond C would be expected to outperform Bond B.[cite: 9]",
+    "correct_answer": "A[cite: 9]",
+    "explanation": "A is correct. If Country 3 experiences a recession over the next 12 months, the credit spreads for corporate bonds would be expected to widen as investors sell the low-quality debt of issuers with high default risk and trade up to the higher-quality debt of issuers with low default risk. The issuers with a good credit rating (such as Aaa rated Bond A) tend to outperform those with lower ratings (such as B3 rated Bond C) as the spread between low- and higher-quality issuers widens. As a result, Bond A would be expected to outperform Bond C over the next 12 months.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 9,
+    "question_text": "The covariance between a risk-averse investor's inter-temporal rate of substitution and the expected future price of a risky asset is typically:\nA. negative.\nB. zero.\nC. positive.[cite: 9]",
+    "correct_answer": "A[cite: 9]",
+    "explanation": "A is correct. For risk-averse investors, when the expected future price of the investment is high (low), the marginal utility of future consumption relative to that of current consumption is low (high). Hence, the covariance of the inter-temporal rate of substitution with asset price is expected to be negative for risk-averse investors.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 10,
+    "question_text": "The prices of one-period, real default-free government bonds are likely to be most sensitive to changes in:\nA. investors' inflation expectations.\nB. the expected volatility of economic growth.\nC. the covariance between investors' inter-temporal rates of substitution and the expected future prices of the bonds.[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. Only changes in default-free real interest rates will affect the price of real, default-free bonds. The average level of default-free real interest rates is positively related to the volatility of economic growth in the economy; thus, changes in the expected volatility of economic growth would likely lead to changes in default-free real interest rates, which in turn would affect the prices of real, default-free government bonds.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 11,
+    "question_text": "Default-free real interest rates tend to be relatively high in countries with high expected economic growth because investors:\nA. increase current borrowing.\nB. have high inter-temporal rates of substitution.\nC. have high uncertainty about levels of future consumption.[cite: 9]",
+    "correct_answer": "A[cite: 9]",
+    "explanation": "A is correct. The average level of default-free real interest rates is positively related to the expected rate of growth of the underlying economy and also to the volatility of economic growth in the economy. During periods of high expected economic growth, investors are less worried about the future and their consumption abilities in the future; that is, their inter-temporal rate of substitution is low, so they borrow more today and save less. Other things being equal, this means that the average level of default-free real interest rates... should be higher in an economy with high growth and lower in an economy with lower, more stable growth.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 12,
+    "question_text": "Positive output gaps are usually associated with:\nA. deflation.\nB. high unemployment.\nC. economic growth beyond sustainable capacity.[cite: 9]",
+    "correct_answer": "C[cite: 9]",
+    "explanation": "C is correct. An economy operating with a positive output gap-that is, where the level of actual GDP exceeds potential GDP-is producing beyond its sustainable capacity. Positive output gaps are usually associated with high and/or rising inflation, while high levels of unemployment usually accompany negative output gaps.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 13,
+    "question_text": "All else equal, an investor expects future inflation to increase, but the uncertainty of future inflation to fall. For such an investor the break-even inflation rate:\nA. is uncertain.\nB. is expected to fall.\nC. is expected to rise.[cite: 9]",
+    "correct_answer": "A[cite: 9]",
+    "explanation": "A is correct. The break-even inflation rate is the difference between the yield on a zero-coupon, default-free nominal bond and on a zero-coupon, default-free real bond of the same maturity. The rate incorporates changing expectations about inflation and changing perceptions about the uncertainty of the future inflation environment. Consequently, if inflation is expected to rise while the uncertainty about future inflation falls (in Equation 10, $\\theta_{t,5}$ rises but $\\pi_{t,s}$ falls), it is unclear in which direction break-even inflation rates will move.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 14,
+    "question_text": "The difference between the yield on a zero-coupon, default-free nominal bond and the yield on a zero-coupon, default-free real bond of the same maturity reflects:\nA. investors' expectations about future inflation only.\nB. a premium for the uncertainty of future inflation only.\nC. both, investors' expectations about future inflation and a premium for the uncertainty of future inflation.[cite: 9]",
+    "correct_answer": "C[cite: 9]",
+    "explanation": "C is correct. The difference between the yield on a zero-coupon, default-free nominal bond and the yield on a zero-coupon, default-free real bond of the same maturity is known as the break-even inflation rate. This break-even inflation rate will incorporate the inflation expectations of investors over the investment horizon of the two bonds, plus a risk premium to compensate investors for uncertainty about future inflation...[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 15,
+    "question_text": "During a recession, the slope of the yield curve for default-free government bonds is most likely to:\nA. flatten.\nB. steepen.\nC. become inverted.[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. During a recession, short rates are often lower because central banks tend to lower their policy rate in these times because the output gap is likely to be negative. However, the impact of such monetary policy on longer-term rates will not be as strong, so long rates may not fall by as much as short rates. The central bank will usually be expected to bring short-term rates back to normal as the recession recedes, and the risk-free rates will increase as economic growth recovers. Thus, the slope of the yield curve will typically steepen during a recession.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 16,
+    "question_text": "One interpretation of an upward sloping yield curve is that the returns to short-dated bonds are:\nA. uncorrelated with bad times.\nB. more positively correlated with bad times than are returns to long-dated bonds.\nC. more negatively correlated with bad times than are returns to long-dated bonds.[cite: 9]",
+    "correct_answer": "C[cite: 9]",
+    "explanation": "C is correct. One interpretation of an upward-sloping yield curve is that returns to short-dated bonds are more negatively correlated with bad times than are returns to long-dated bonds. This interpretation is based on the notion that investors are willing to pay a premium and accept a lower return for short-dated bonds if they believe that long-dated bonds are not a good hedge against economic \"bad times.\"[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 17,
+    "question_text": "An analyst, who measures yield as a combination of interest rates and premiums, observes an upward-sloping, default-free government bond nominal yield curve. Which of the following statements is correct?\nA. Interest rates must be expected to rise in the future.\nB. Bond risk premiums must be expected to rise in the future.\nC. Expectations relating to the future direction of interest rates are indeterminate.[cite: 9]",
+    "correct_answer": "C[cite: 9]",
+    "explanation": "C is correct. An upward-sloping yield curve may be caused by a combination of expected rate increases and positive bond risk premiums. It may also be a combination of expectations that interest rates will be unchanged in the future coupled with positive bond risk premiums. Lastly, an upward-sloping yield curve may actually be a reflection of expected rate cuts that are more than offset by the existence of positive bond risk premiums. So, expectations relating to the future direction of interest rates are indeterminate.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 18,
+    "question_text": "A corporate bond has a remaining maturity of 1 year, has a face value of EUR100, and is currently priced at EUR90.90. The real risk-free rate is 3.25%. Inflation is expected to be 2.0% next year, and the premium required by investors for inflation uncertainty is 0.25%. The implied credit risk premium embedded in the bond's price is best described as:\nA. equal to (100/90.90) 1 = 10%.\nB. 10% reduced by the real risk-free rate and expected inflation.\nC. 10% reduced by the real risk-free rate, expected inflation, and the premium for inflation uncertainty.[cite: 9]",
+    "correct_answer": "C[cite: 9]",
+    "explanation": "C is correct. The implied credit risk premium embedded in the bond's price is the yield (10%) less the default-risk-free nominal interest rate, which includes a premium for inflation uncertainty... The credit risk premium can be calculated as 4.51% in this case: $\\gamma_{t,5}^{i}=\\frac{100}{90.90}-(1+0.0325+0.02+0.0025).$ γές = 4.51%.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 19,
+    "question_text": "A decrease in the prices of AAA-rated corporate bonds during a recession would mostlikely be the result of:\nA. expectations of higher inflation.\nB. increases in credit risk premiums.\nC. increases in short-term, default-free interest rates.[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. During recessions, the risk premium that investors demand on financial assets, particularly those that are not default-free, such as corporate bonds, may rise because investors in general may be less willing and able to take on heightened default risk during such periods. Specifically, the credit risk premium demanded by investors tends to rise in times of economic weakness, when the probability of a corporate default and bankruptcy is highest.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 20,
+    "question_text": "During an economic period when spreads between corporate and government bonds are narrowing, and spreads between higher- and lower-rated corporate bond categories are also narrowing, it can be expected that:\nA. government bonds will outperform corporate bonds.\nB. lower-rated corporate bonds will outperform higher-rated corporate bonds.\nC. higher-rated corporate bonds will outperform lower-rated corporate bonds.[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. When spreads are narrowing, investors seem to be less discerning between issues with weak versus strong credit, and the rate of improvement will tend to be greater for those bonds issued by entities with a relatively weaker ability to pay. Thus, during times when corporate bond spreads are narrowing relative to government bonds and the spreads between higher- and lower-rated bond categories are also narrowing, corporate bonds will generally outperform government bonds and lower-rated corporate bonds will tend to outperform higher-rated corporate bonds.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 21,
+    "question_text": "The sensitivity of a corporate bond's spread to changes in the business cycle is most likely to be:\nA. uncorrelated with the level of cyclicality in the company's business.\nB. positively correlated with the level of cyclicality in the company's business.\nC. negatively correlated with the level of cyclicality of the company's business.[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. The sensitivity of a corporate bond's spread to changes in the business cycle and the level of cyclicality tend to be positively correlated. The greater the level of cyclicality, the greater the sensitivity of the bond's spread to changes in the business cycle.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 22,
+    "question_text": "The category of bonds whose spreads can be expected to widen the most during an economic downturn are bonds from the:\nA. cyclical sector with low credit ratings.\nB. cyclical sector with high credit ratings.\nC. non-cyclical sector with low credit ratings.[cite: 9]",
+    "correct_answer": "A[cite: 9]",
+    "explanation": "A is correct. During an economic downturn, the spreads of corporate bonds can be expected to widen, because the risk premium that investors demand on risky financial assets will increase. When spreads widen, the spreads on bonds issued by corporations with a low credit rating and that are part of the cyclical sector will tend to widen the most.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 23,
+    "question_text": "With regard to the credit risk of the sovereign debt issued by country governments, which of the following statements is correct? The credit risk premium on such debt is:\nA. zero because governments can print money to settle their debt.\nB. negligibly small because no country has defaulted on sovereign debt.\nC. a non-zero and positive quantity that varies depending on a country's creditworthiness.[cite: 9]",
+    "correct_answer": "C[cite: 9]",
+    "explanation": "C is correct. Credit premiums have been an important component of the expected return on bonds issued by countries (sovereign debt). The credit premium varies from country to country depending on how creditworthy investors consider it to be. The fact that countries have both printed money to pay back debt and defaulted on it gives rise to a non-zero credit risk premium.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 24,
+    "question_text": "Risk-averse investors demanding a large equity risk premium are most likely expecting their future consumption outcomes and equity returns to be:\nA. uncorrelated.\nB. positively correlated.\nC. negatively correlated.[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. If investors demand high equity risk premiums, they are likely expecting their future consumption and equity returns to be positively correlated. The positive correlation indicates that equities will exhibit poor hedging properties, because equity returns will be high (i.e., pay off) during \"good times\" and will be low (i.e., not pay off) during \"bad times.\"...[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 25,
+    "question_text": "Which of the following financial assets is likely to offer the most effective hedge against bad consumption outcomes?\nA. Equities.\nB. Short-dated, default-free government bonds.\nC. Long-dated, default-free government bonds.[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. The relative certainty about the real payoff from short-dated, default-free government bonds and, therefore, the relative certainty about the amount of consumption that the investor will be able to undertake with the payoff indicate that an investment in such bonds would be a good hedge against bad consumption outcomes.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 26,
+    "question_text": "When assessing investment opportunities in equities, investors should:\nA. assign higher equity risk premiums to non-cyclical companies, relative to cyclical companies.\nB. forecast lower volatility in the growth rate of earnings for cyclical companies, relative to non-cyclical companies.\nC. forecast higher growth rates in earnings for cyclical companies coming out of a recession, relative to non-cyclical companies.[cite: 9]",
+    "correct_answer": "C[cite: 9]",
+    "explanation": "C is correct. During recessions, cyclical companies are likely to experience sharp declines in earnings, more so than non-cyclical companies. In contrast, while coming out of a recession, cyclical companies are likely to generate higher earnings growth relative to non-cyclical companies.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 27,
+    "question_text": "Other things equal, equilibrium price-to-earnings ratios $(P/Es)$ will most likely decrease if:\nA. real interest rates decrease.\nB. inflation is expected to increase.\nC. there is less uncertainty about future inflation.[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. Other things being equal, an increase in inflation expectations would result in lower equity prices relative to current earnings. This would result in lower equilibrium $P/Es$.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 1[cite: 9]",
+    "question_id": 28,
+    "question_text": "Which of the following statements relating to commercial real estate is correct?\nA. Rental income from commercial real estate is generally unstable across business cycles.\nB. Commercial real estate investments generally offer a good hedge against bad consumption outcomes.\nC. The key difference in the discount rates applied to the cash flows of equity investments and commercial real estate investments relates to liquidity.[cite: 9]",
+    "correct_answer": "C[cite: 9]",
+    "explanation": "C is correct. To arrive at an appropriate discount rate to be used to discount the cash flows from a commercial real estate investment, a liquidity premium is added to the discount rate applicable to equity investments. The added liquidity premium provides additional compensation for the risk that the real estate investment may be very illiquid in bad economic times.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 29,
+    "question_text": "Wei Liu makes two statements about active portfolio management:\nStatement 1 The \"active return\" of an actively managed portfolio is the difference between the portfolio's return and the return on the benchmark portfolio, and it is equal to the managed portfolio's alpha.\nStatement 2 The active weights are the differences in the managed portfolio's weights and the benchmark's weights.\nAre Liu's statements correct?\nA. Only Statement 1 is correct.\nB. Only Statement 2 is correct.\nC. Both statements are correct.[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. Although the first part of Statement 1 is correct (active return, or value added, equals the difference between the managed portfolio return and the benchmark return), active return is not the same as alpha. In other words, $R_{A}=$ $R_{P}-R_{B},$ while $\\alpha_{P}=R_{P}-\\beta_{P}\\times R_{B}$. Statement 2 correctly defines active weights.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 30,
+    "question_text": "The benchmark weights and returns for each of the five stocks in the Capitol Index are given in the following table. The Tukol Fund uses the Capitol Index as its benchmark, and the fund's portfolio weights are also shown in the table.\nWhat is the value added (active return) for the Tukol Fund?\nA. 0.00%\nB. 0.90%\nC. 1.92%[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. The portfolio active return is equal to the portfolio return minus the benchmark return: $R_{A}=R_{P}-R_{B}$ The portfolio return is is $R_{P}=\\sum_{i=1}^{n}w_{P,i}R_{\\vec{i}}$ $R_{P}=0.30(14\\%)+0.30(15\\%)+0.20(12\\%)+0.10(8\\%)+0.10(8\\%)+0.10(10\\%)=12.9\\%.$ The benchmark return is $R_{B}=\\sum_{i=1}^{n}w_{B,i}R_{j};$ $R_{B}=0.24(14\\%)+0.20(15\\%)+0.20(12\\%)+0.20(12\\%)+0.18(8\\%)+0.18(10\\%)=12.0\\%)=12.0\\%$ Thus, the active return is $R_{A}=R_{P}-R_{B}=12.9\\%-12.0\\%=0.9\\%$[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 31,
+    "question_text": "Consider the following asset class returns for calendar year 20X2:\nWhat is the value added (or active return) for the managed portfolio?\nA. 0.25%\nB. 0.35%\nC. 1.05%[cite: 9]",
+    "correct_answer": "C[cite: 9]",
+    "explanation": "C is correct. The active return is equal to the portfolio return minus the benchmark return: $R_{A}=R_{P}-R_{B}=\\sum_{j=1}^{M}w_{Pj}R_{Pj}-\\sum_{j=1}^{M}w_{B,j}R_{B_{j}j}.$ The portfolio return is is $\\chi_{P}=\\sum_{i=1}^{\\prime\\prime}w_{P,i}R_{i}=0.55(10\\%)+0.20(10\\%)+0.25(5\\%)=$ 8.75%. The benchmark return is $R_{B}=\\sum_{i=1}^{m}w_{B,i}R_{i}=0.40(8\\%)+0.30(9\\%)+0.30(9\\%)+0.30(6\\%)=$ 7.70%. Thus, $R_{A}=R_{P}-R_{B}=8.75\\%-7.70\\%=1.05\\%$[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 32,
+    "question_text": "Which of Frazee's concerns best justifies his decision to reject the proposed benchmark?\nA. Concern 1\nB. Concern 2\nC. Concern 3[cite: 9]",
+    "correct_answer": "A[cite: 9]",
+    "explanation": "A is correct. Because the benchmark does not contain many assets that Frazee wants to invest in, the benchmark may not be representative of his investment approach. Concern 2, as stated, is less important because it does not imply that the cost of replicating the benchmark is a serious concern. Finally, Concern 3 actually states a generally positive feature of the benchmark.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 33,
+    "question_text": "Based on Exhibit 1, the expected active return from asset allocation for Fund X is:\nA. negative.\nB. zero.\nC. positive.[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. Active return from asset allocation is derived from differences between the benchmark weight and the portfolio weight across asset classes... Because Fund X has the same asset weights as the benchmark across the two asset classes (60% global equities, 40% global bonds), the expected active return from asset allocation is zero.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 34,
+    "question_text": "Based on Exhibit 1, which fund is expected to produce the greatest consistency of active return?\nA. Fund X\nB. Fund Y\nC. Fund Z[cite: 9]",
+    "correct_answer": "C[cite: 9]",
+    "explanation": "C is correct. The IR measures the consistency of active return. The IR is calculated for the three funds as follows:... IR for Fund $Z=(13.2-9.4)/15.1=3.8/15.1=0.25.$ Fund Z has the largest IR and thus is expected to produce the greatest consistency of active return.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 35,
+    "question_text": "Based on Exhibit 1, combining Fund W with a fund that replicates the benchmark would produce a Sharpe ratio closest to:\nA. 0.44.\nB. 0.56.\nC. 0.89.[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. Given the IR for Fund W of 0.35 and the benchmark's SR of 0.44, the combination of the benchmark portfolio and Fund W would produce an SR of 0.56, calculated as follows: $SR_{P}^{2}=SR_{B}^{2}+IR^{2};$ $SR_{P}=(0.44^{2}+0.35^{2})^{0.5}=0.56.$[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 36,
+    "question_text": "If Frazee added the assumption he is considering in Fund W's portfolio construction, it would most likely result in:\nA. a decrease in the optimal aggressiveness of the active strategy.\nB. the information ratio becoming invariant to the level of active risk.\nC. an increase in the transfer of active return forecasts into active weights.[cite: 9]",
+    "correct_answer": "A[cite: 9]",
+    "explanation": "A is correct. The new assumption adds constraints to Fund W. The IR for a constrained portfolio generally decreases with the aggressiveness of the strategy because portfolio constraints reduce the transfer of active return forecasts into active weights... So, having maximum over- and underweight constraints on single-country positions decreases the optimal aggressiveness of the active management strategy.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 37,
+    "question_text": "Based on the data presented in Exhibit 2, the candidate with the greatest skill at achieving active returns appears to be:\nA. Candidate A.\nB. Candidate B.\nC. Candidate C.[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. The IR measures the consistency of active return generation. A higher ratio generally indicates better managerial skill at achieving active returns on a risk-adjusted basis. The IR for Candidate B (0.746) is higher than the IR for Candidate A (0.582) and Candidate C (0.723). Thus, Candidate B appears to have the greatest skill, as indicated by the highest IR of 0.746.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 38,
+    "question_text": "Which proposed change to Fund W would most likely decrease Candidate C's information ratio?\nA. Change 1\nB. Change 2\nC. Change 3[cite: 9]",
+    "correct_answer": "C[cite: 9]",
+    "explanation": "C is correct. The IR is calculated as $IR=(TC)(IC)\\sqrt{BR},$ where BR is breadth. Change 3, establishing new constraints of caps on the over- and underweight of sectors, reduces the correlation of optimal active weights with the actual active weights, which results in a decreased TC and thus a decrease in the IR. Change 1 (increasing portfolio size from 36 to 50) and Change 2 (increasing the frequency of rebalancing from annually to semi-annually) would both likely have the effect of increasing the BR of the portfolio, which would increase the IR.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 39,
+    "question_text": "Based on Exhibit 1, the value added to the diversified asset portfolio attributable to the security selection decision in 2019 was closest to:\nΑ. 2.3%.\nB. 3.9%.\nC. 6.1%.[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. Based on the differences in returns for the portfolio and benchmark in Exhibit 1, the value added by each asset class within the portfolio is shown in the following table:... The value added from security selection is calculated as the sum of the actual portfolio weights multiplied by each sub-portfolio's value added measure. Thus, the value added from security selection is calculated as: Value added from security selection $=0.63(5.3\\%)+0.28(0.2\\%)+0.09(5.1\\%)=3.9\\%$.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 40,
+    "question_text": "Based on Exhibit 1, the value added of the diversified asset portfolio attributable to the asset allocation decision in 2019 was closest to:\nA. 2.3%.\nB. 3.9%.\nC. 6.1%.[cite: 9]",
+    "correct_answer": "A[cite: 9]",
+    "explanation": "A is correct. The value added from asset allocation is calculated as the sum of the differences in the weights between the strategic (benchmark) allocation and the actual sub-portfolio allocation multiplied by each sub-portfolio's benchmark return... Value added from asset allocation decision $=0.03(31.6\\%)-0.07(-2.6\\%)+$ 0.04(28.3%) = 2.3%.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 41,
+    "question_text": "Based on data in Exhibit 2 and using the information ratio as the criterion for evaluating performance, which sub-portfolio had the best performance in the period 2000-2019?\nA. The bond sub-portfolio.\nB. The equities sub-portfolio.\nC. The real estate sub-portfolio.[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. The information ratio for a portfolio can be expressed as follows: $IR=(TC)(IC)\\sqrt{BR}$ The information ratios for the three sub-portfolios are calculated as follows:... Based on the information ratio, the equities sub-portfolio outperformed the real estate sub-portfolio. The information ratio for the equities sub-portfolio of 0.38 was higher than the information ratio for the real estate sub-portfolio of 0.35 and the bond sub-portfolio of 0.33.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 42,
+    "question_text": "Which of Singh's statements regarding the information ratio is correct?\nA. Only Statement 1\nB. Only Statement 2\nC. Both Statement 1 and Statement 2[cite: 9]",
+    "correct_answer": "C[cite: 9]",
+    "explanation": "C is correct. The information ratio for a portfolio of risky assets will generally shrink if cash is added to the portfolio. Because the diversified asset portfolio is an unconstrained portfolio, its information ratio would be unaffected by an increase in the aggressiveness of active weights.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 43,
+    "question_text": "Gertrude Fischer mentions two properties of the Sharpe ratio and the information ratio that she says are very useful.\nProperty 1 The Sharpe ratio is unaffected by the addition of cash or leverage in a portfolio.\nProperty 2 The information ratio for an unconstrained portfolio is unaffected by the aggressiveness of the active weights.\nAre Fischer's two properties correct?\nA. Yes.\nB. No. Only Property 1 is correct.\nC. No. Only Property 2 is correct.[cite: 9]",
+    "correct_answer": "A[cite: 9]",
+    "explanation": "A is correct. Both properties are correct. For Property 1, if $w_{P}$ is the weight of an actively managed portfolio and $(1-w_{p})$ is the weight on risk-free cash, changing $w_{P}$ does not change the Sharpe ratio, as can be seen in this equation: $SR_{C}=\\frac{R_{C}-R_{F}}{\\sigma_{C}}=\\frac{w_{P}(R_{P}-R_{F})}{w_{P}\\sigma_{P}}=SR_{P}.$ For Property 2, the information ratio of an unconstrained portfolio is unaffected by multiplying the active security weights, $\\Delta w_{i}$ by a constant.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 44,
+    "question_text": "Which of the following three statements does not justify your belief that the portfolio is a closet index?\ni. The Sharpe ratio of the portfolio is close to the Sharpe ratio of the benchmark.\nii. The information ratio of the portfolio is relatively small.\niii. The active risk of the portfolio is very low.\nA. Statement I\nB. Statement II\nC. Statement III[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. A closet index will have a very low active risk and will also have a Sharpe ratio very close to the benchmark. Therefore, Statements I and III are consistent with a closet index portfolio. A closet index's information ratio can be indeterminate (because the active risk is so low) and is often negative due to management fees.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 45,
+    "question_text": "You have a portfolio 100% allocated to a manager with an ex post, active risk at 8.0%. You choose to allocate a 75% position to the active manager and 25% to the benchmark to bring the portfolio back to your target active risk of 6.0%. If the manager's information ratio is 0.50, what happens to the information ratio of the portfolio after the reallocation?\nA. The information ratio increases because the lower active risk reduces the denominator of the ratio.\nB. The information ratio remains unchanged because allocations between the active portfolio and the benchmark don't affect the information ratio.\nC. The information ratio decreases because allocating some of the portfolio to the benchmark means that the external manager generates less active return.[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. The information ratio is unaffected by rebalancing the active portfolio and the benchmark portfolio. In this case, the active return and active risk are both reduced by 25% and the information ratio will be unchanged.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 46,
+    "question_text": "What is the maximum Sharpe ratio that a manager can achieve by combining the S&P 500 benchmark portfolio and the Indigo Fund?\nA. 0.333\nB. 0.365\nC. 0.448[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. The highest squared Sharpe ratio of an actively managed portfolio is $SR_{P}^{2}=SR_{B}^{2}+IR^{2}=0.333^{2}+0.15^{2}=0.1334$. The highest Sharpe ratio is $SR_{P}=\\sqrt{0.1334}=0.365$.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 47,
+    "question_text": "Which of the following pairs of weights would be used to achieve the highest Sharpe ratio and optimal amount of active risk through combining the Indigo Fund and benchmark portfolio, respectively?\nA. 1.014 on Indigo and -0.014 on the benchmark\nB. 1.450 on Indigo and -0.450 on the benchmark\nC. 1.500 on Indigo and -0.500 on the benchmark[cite: 9]",
+    "correct_answer": "A[cite: 9]",
+    "explanation": "A is correct. The optimal amount of active risk is σ IR SRBOB 0.15 0.333 = 18.0% 8.11%. The weight on the active portfolio (Indigo) would be $8.11\\%/8.0\\%=1.014$ and the weight on the benchmark portfolio would be $1-1.014=-0.014$...[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 48,
+    "question_text": "The benchmark portfolio is the S&P 500. Which of the following three portfolios can be combined with the benchmark portfolio to produce the highest combined Sharpe ratio?\nA. Portfolio A\nB. Portfolio B\nC. Portfolio C[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. The optimal active portfolio is the portfolio with the highest information ratio, the ratio of active return to active risk. The IRs for the three active portfolios are as follows: $IR_{A}=1.0/10.0=0.10$ $IR_{B}=0.5/3.0=0.167$ $IR_{\\overline{C}}=0/2.0=0.00$ Portfolio B has the highest IR and is the best active portfolio; it is therefore the best portfolio to combine with the benchmark.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 49,
+    "question_text": "If you intend to rely on the information ratio to make your decision, which manager should you choose?\nA. Manager A\nB. Manager B\nC. Manager C[cite: 9]",
+    "correct_answer": "A[cite: 9]",
+    "explanation": "A is correct. Manager A has the highest information ratio. The information ratio is defined as . The managers in this example have the following $IR=\\frac{active~return}{active~risk}$ information ratios:... Manager A: $0.7/3.2=0.219$[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 50,
+    "question_text": "Based on the fundamental law of active management, if a portfolio manager has an information ratio of 0.75, an information coefficient of 0.1819, and a transfer coefficient of 1.0, how many securities are in the portfolio manager's fund, making the assumption that the active returns are uncorrelated.\nA. About 2\nB. About 4\nC. About 17[cite: 9]",
+    "correct_answer": "C[cite: 9]",
+    "explanation": "C is correct. Using the equation $IR^{*}=IC\\times\\sqrt{BR}$ and assuming that breadth can be interpreted as number of securities in the portfolio, solving for breadth in the equation yields $(\\frac{0.75}{0.1819})^{2}=17.000$[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 51,
+    "question_text": "Two analysts make the following statements about the transfer coefficient in the expanded fundamental law of active management:\nAnalyst One says, \"The transfer coefficient measures how well the realized returns correlate with the anticipated returns, adjusted for risk.\"\nAnalyst Two says, \"The transfer coefficient measures how well the realized returns correlate with the active weights, adjusted for risk.\"\nWhich, if either, analyst is correct?\nA. Only Analyst One is correct.\nB. Only Analyst Two is correct.\nC. Neither analyst is correct.[cite: 9]",
+    "correct_answer": "C[cite: 9]",
+    "explanation": "C is correct. The transfer coefficient measures how well the anticipated (ex ante), risk-adjusted returns correlate with the risk-adjusted active weights. This is also expressed in the equation for the transfer coefficient: $TC=\\rho(\\mu_{i}/\\sigma_{i},\\Delta w_{i}\\sigma_{i})$ .[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 52,
+    "question_text": "The expanded fundamental law of active management is stated as follows:\n$E(R_{A})=(TC)(IC)\\sqrt{BR}\\sigma_{A}.$\nWhich component on the righthand side represents the extent to which the portfolio manager's expectations are realized? The\nA. transfer coefficient, TC.\nB. information coefficient, IC.\nC. breadth, BR.[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. The IC measures an investment manager's ability to forecast returns.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 53,
+    "question_text": "Suppose all three managers claim to be good at forecasting returns. According to the expanded fundamental law of active management, which manager is the best at efficiently building portfolios by anticipating future returns?\nA. Manager 1\nB. Manager 2\nC. Manager 3[cite: 9]",
+    "correct_answer": "C[cite: 9]",
+    "explanation": "C is correct. The proper statistic to calculate is the information coefficient, and it is defined as follows: $IC=\\rho(\\frac{R_{Ai}}{\\sigma_{i}},\\frac{\\mu_{i}}{\\sigma_{i}})$ A manager is a good forecaster if his or her ex ante, active return expectations (forecasts) are highly correlated with the realized active returns... Manager 3 has the highest IC.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 54,
+    "question_text": "Suppose all three managers claim to be efficient in portfolio construction. According to the expanded fundamental law of active management, which manager is the best at building portfolios to make full use of their ability to correctly anticipate returns?\nA. Manager 1\nB. Manager 2\nC. Manager 3[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. The proper statistic to calculate is the transfer coefficient, and it is defined as follows: $TC=\\rho(\\mu_{i}/\\sigma_{i},\\Delta w_{i}\\sigma_{i})$ The TC is the cross-sectional correlation between the forecasted active security returns and the actual active weights, adjusted for risk... Manager 2 has the highest TC.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 55,
+    "question_text": "Manager 1 has an information coefficient of 0.15, a transfer coefficient of 1.0, and invests in 50 securities. Manager 2 has a different strategy, investing in more securities; however, he is subject to investment constraints that reduce his transfer coefficient. Manager 2 has an information coefficient of 0.10, a transfer coefficient of 0.8, and invests in 100 securities. The investment selections of each manager are independent decisions. If both managers target an active risk of 5.0%, which manager will have the greater expected active return?\nA. Manager 1\nB. Manager 2\nC. Both managers will have the same active return.[cite: 9]",
+    "correct_answer": "A[cite: 9]",
+    "explanation": "A is correct. Manager 1's $IR=TC\\times IC\\times\\sqrt{BR}=1.0\\times0.15\\times\\sqrt{50}=1.06$. Manager 2's $IR=0.8\\times0.10\\times\\sqrt{100}=0.80$. Manager 1's active return is $1.06(5.0)=5.3\\%$, and Manager 2's expected active return is $0.80(5.0)=4.0\\%$. Manager 1 has the greater expected active return.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 56,
+    "question_text": "If his judgments are correct, are Young's notes about the overstatement of breadth correct?\nA. Only Note 1 is correct.\nB. Only Note 2 is correct.\nC. Both Notes 1 and 2 are correct.[cite: 9]",
+    "correct_answer": "C[cite: 9]",
+    "explanation": "C is correct. If the decisions about each of the 200 stocks are not independent, and if the decisions about a stock from one month to the next are not independent, then Goudon Partners is overstating its estimates of its breadth and its expected active returns.[cite: 9]"
+  },
+  {
+    "module": "Portfolio Management - Learning Module 2[cite: 9]",
+    "question_id": 57,
+    "question_text": "Caramel Associates uses the fundamental law to estimate its expected active returns. Two things have changed. First, Caramel will lower its estimate of the information coefficient because they felt their prior estimates reflected overconfidence. Second, their major clients have relaxed several constraints on their portfolios-including social screens, prohibitions on short selling, and constraints on turnover. Which of these changes will increase the expected active return?\nA. Only the lower information coefficient.\nB. Only the relaxation of several portfolio constraints.\nC. Both the lower information coefficient and the relaxation of portfolio constraints.[cite: 9]",
+    "correct_answer": "B[cite: 9]",
+    "explanation": "B is correct. Although the relaxation of portfolio constraints will increase the transfer coefficient (and expected active returns), the lower information coefficient reduces the information ratio and the expected active return.[cite: 9]"
+  }
+]

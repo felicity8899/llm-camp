@@ -1,0 +1,534 @@
+[
+{
+"module": "Alternative Investments - Learning Module 1",
+"question_id": 1,
+"question_text": "The Apex Fund is most likely to be characterized as:\nA. a hedger.\nB. a speculator.\nC. an arbitrageur.",
+"correct_answer": "C",
+"explanation": "C is correct. Commodity arbitrage involves an ability to inventory physical commodities and the attempt to capitalize on mispricing between the commodity (along with related storage and financing costs) and the futures price. The Apex Fund has access to storage facilities and uses these facilities in the attempt to capitalize on mispricing opportunities."
+},
+{
+"module": "Alternative Investments - Learning Module 1",
+"question_id": 2,
+"question_text": "Which factor would most likely affect the supply or demand of all four sectors of the Apex Fund?\nA. Weather\nB. Spoilage\nC. Government actions",
+"correct_answer": "C",
+"explanation": "C is correct. Government actions can affect the supply or demand of all four sectors of the Apex Fund. With respect to energy, environmental mandates imposed by governments have tightened pollution standards. The supply of livestock is affected by government-permitted use of drugs and growth hormones. Softs can be affected by government actions, such as the attempt to maintain strategic stockpiles. The level of demand and relative value of a precious metal is directly linked to government actions associated with managing to inflation targets."
+},
+{
+"module": "Alternative Investments - Learning Module 1",
+"question_id": 3,
+"question_text": "The most appropriate response to Musicale's question regarding the valuation factor is:\nA. storage costs.\nB. transportation costs.\nC. expected future cash flows.",
+"correct_answer": "C",
+"explanation": "C is correct. Expected future cash flows affect the valuation of financial assets, such as stocks and bonds, but do not affect the valuation of commodities. In contrast, the valuation of a commodity is based on a discounted forecast of a future commodity price, which incorporates storage and transportation costs."
+},
+{
+"module": "Alternative Investments - Learning Module 1",
+"question_id": 4,
+"question_text": "Which futures market in Exhibit 2 is in backwardation?\nA. Gold\nB. Coffee\nC. Gasoline",
+"correct_answer": "C",
+"explanation": "C is correct. When the near-term (i.e., closer to expiration) futures contract price is higher than the longer-term futures contract price, the futures market for the commodity is in backwardation. Because gasoline is the only one of the three futures markets in Exhibit 2 in which the near-term futures contract price ($2.2701) is higher than the longer-term contract price ($2.0307), the gasoline futures market is the only one in backwardation."
+},
+{
+"module": "Alternative Investments - Learning Module 1",
+"question_id": 5,
+"question_text": "Based on the key conclusion from the Menlo Bank coffee market report, the shape of the coffee futures curve in Exhibit 2 is most consistent with the:\nA. insurance theory.\nB. theory of storage.\nC. hedging pressure hypothesis.",
+"correct_answer": "B",
+"explanation": "B is correct. The theory of storage focuses on the level of commodity inventories and the state of supply and demand. A commodity that is regularly stored should have a higher price in the future (contango) to account for those storage costs. Because coffee is a commodity that requires storage, its higher future price is consistent with the theory of storage."
+},
+{
+"module": "Alternative Investments - Learning Module 1",
+"question_id": 6,
+"question_text": "Based on Exhibit 2, which commodity's roll returns will most likely be positive?\nA. Gold\nB. Coffee\nC. Gasoline",
+"correct_answer": "C",
+"explanation": "C is correct. Roll returns are generally positive (negative) when the futures market is in backwardation (contango) and zero when the futures market is flat. Because the gasoline market is in backwardation, its roll returns will most likely be positive."
+},
+{
+"module": "Alternative Investments - Learning Module 1",
+"question_id": 7,
+"question_text": "The Apex Fund's three-month total return on the soybean futures trade is closest to:\nA. 0.85%.\nB. 1.30%.\nC. 2.22%.",
+"correct_answer": "A",
+"explanation": "A is correct. The total return on the trade represents the sum of three components: price return, roll return, and collateral return. Price return = (877.0 - 865.0)/865.0 = 1.387%. Roll return = [(877.0 - 883.0)/877.0] * 100% = -0.684%. Collateral return = [3 months/12 months] * 0.60% = 0.15%. Total return = 1.387% - 0.684% + 0.15% = 0.853%."
+},
+{
+"module": "Alternative Investments - Learning Module 1",
+"question_id": 8,
+"question_text": "Based on Exhibit 3, on the June settlement date, the party that is long the S&P GSCI total return swap will:\nA. owe a payment of $552,042.23.\nB. receive a payment of $1,502,621.33.\nC. receive a payment of $1,971,173.60.",
+"correct_answer": "A",
+"explanation": "A is correct. The return on the reference index for the month of June is [(2,525.21 - 2,582.23)/2,582.23], which is equivalent to -2.2082%. Therefore, the swap buyer (long position) must pay the swap seller a cash settlement for the month of June. The June payment calculation is equal to $25,000,000 x -2.2082%, or -$552,042.23."
+},
+{
+"module": "Alternative Investments - Learning Module 1",
+"question_id": 9,
+"question_text": "With respect to its risk management policy, Farmhouse can be best described as:\nA. a trader.\nB. a hedger.\nC. an arbitrageur.",
+"correct_answer": "B",
+"explanation": "B is correct. Hedgers trade in the futures markets to hedge their exposures related to the commodity, as stated in Farmhouse's risk management policy."
+},
+{
+"module": "Alternative Investments - Learning Module 1",
+"question_id": 10,
+"question_text": "Which of Falk's statements regarding the characteristics of the grains and livestock markets is correct?\nA. Only Statement 1\nB. Only Statement 2\nC. Both Statement 1 and Statement 2",
+"correct_answer": "C",
+"explanation": "C is correct. The life cycle of livestock does vary widely by product. Grains have uniform, well-defined seasons and growth cycles specific to geographic regions. Therefore, both statements are correct."
+},
+{
+"module": "Alternative Investments - Learning Module 1",
+"question_id": 11,
+"question_text": "Which of Falk's conclusions regarding commodity markets is correct?\nA. Conclusion 1\nB. Conclusion 2\nC. Conclusion 3",
+"correct_answer": "C",
+"explanation": "C is correct. Commodity prices are affected by supply and demand, and improvements in freezing technology can improve the firm's ability to store its products for longer periods and manage the volatility of supply and demand."
+},
+{
+"module": "Alternative Investments - Learning Module 1",
+"question_id": 12,
+"question_text": "Which commodity market in Exhibit 1 is currently in a state of contango?\nA. Wheat\nB. Soybeans\nC. Live cattle",
+"correct_answer": "B",
+"explanation": "B is correct. The futures market for soybeans is in a state of contango because the spot price is lower than the futures price."
+},
+{
+"module": "Alternative Investments - Learning Module 1",
+"question_id": 13,
+"question_text": "Based on Exhibit 1 and McNeil's two observations, the futures price of soybeans is most consistent with the:\nA. insurance theory.\nB. theory of storage.\nC. hedging pressure hypothesis.",
+"correct_answer": "C",
+"explanation": "C is correct. In Exhibit 1, the spot price of soybeans is less than the futures price. This observation can be explained only by the hedging pressure hypothesis. According to this hypothesis, hedging pressure occurs when both producers and consumers seek to protect themselves from commodity market price volatility... If consumers are more interested in hedging than producers are, the futures price will exceed the spot price."
+},
+{
+"module": "Alternative Investments - Learning Module 1",
+"question_id": 14,
+"question_text": "Based on Exhibit 2, the total return from the long position in natural gas futures is closest to:\nA. 1.46%.\nB. 3.71%.\nC. 4.14%.",
+"correct_answer": "A",
+"explanation": "A is correct. The total return for a fully collateralized position is the sum of the price return, the roll return, and the collateral return: Price return = 2.05%. Roll return = [(2.99 - 3.03)/2.99] * 100% = -1.34%. Collateral return = 3% * 0.25 = 0.75%. Therefore, the total return for three months = 2.05% - 1.34% + 0.75% = 1.46%."
+},
+{
+"module": "Alternative Investments - Learning Module 1",
+"question_id": 15,
+"question_text": "The most appropriate response to the new committee member's question is that:\nA. roll returns are negatively correlated with price returns.\nB. such roll returns are the result of futures markets in backwardation.\nC. such positions may outperform other positions that have positive roll returns.",
+"correct_answer": "C",
+"explanation": "C is correct. Investment positions are evaluated on the basis of total return, and the roll return is part of the total return. Even though negative roll return negatively affects the total return, this effect could be more than offset by positive price and collateral returns. Therefore, it is possible that positions with negative roll returns outperform positions with positive roll returns, depending on the price and collateral returns."
+},
+{
+"module": "Alternative Investments - Learning Module 1",
+"question_id": 16,
+"question_text": "Which of Nabli's statements regarding the valuation and storage of commodities is correct?\nA. Statement 1\nB. Statement 2\nC. Statement 3",
+"correct_answer": "B",
+"explanation": "B is correct. The most common way to invest in commodities is via derivatives, and commodities do not generate future cash flows beyond what can be realized through their purchase and sale. Also, storage costs are positively related to futures prices."
+},
+{
+"module": "Alternative Investments - Learning Module 1",
+"question_id": 17,
+"question_text": "Based on Exhibit 1, Yamata should conclude that the:\nA. calendar spread for Brent crude oil is $3.97.\nB. Brent crude oil futures market is in backwardation.\nC. basis for the near-term Brent crude oil futures contract is $0.05 per barrel.",
+"correct_answer": "B",
+"explanation": "B is correct. The Brent crude oil futures market is in a state of backwardation. Commodity futures markets are in a state of backwardation when the spot price is greater than the price of near-term futures contracts and, correspondingly, the price of near-term futures contracts is greater than that of longer-term contracts."
+},
+{
+"module": "Alternative Investments - Learning Module 1",
+"question_id": 18,
+"question_text": "Based on Exhibit 1 and Yamata's research on the energy sector, the shape of the futures price curve for Brent crude oil is most consistent with the:\nA. insurance theory.\nB. theory of storage.\nC. hedging pressure hypothesis.",
+"correct_answer": "B",
+"explanation": "B is correct. The Brent crude oil futures market is in a state of backwardation. According to the theory of storage, a commodity that is consumed along a value chain that allows for just-in-time delivery and use (i.e., minimal inventories and storage) can avoid these costs. Yamata's research concluded that energy is consumed on a real-time basis and requires minimal storage. In this situation, demand dominates supply, and current prices are higher than futures prices (state of backwardation)."
+},
+{
+"module": "Alternative Investments - Learning Module 1",
+"question_id": 19,
+"question_text": "The total return (annualized excluding leverage) on the lean hog futures contract is:\nA. -37.2%.\nB. -36.0%.\nC. -34.8%.",
+"correct_answer": "C",
+"explanation": "C is correct. The contract was held for one year, so the price return of -12% is an annualized figure. Additionally, the -24% roll return is also annualized. Nabli's collateral return equals 1.2% per year * 100% initial collateral investment = 1.2%. Total return = -12% + (-24%) + 1.2% = -34.8%."
+},
+{
+"module": "Alternative Investments - Learning Module 1",
+"question_id": 20,
+"question_text": "Which of Nabli's statements about roll returns is correct?\nA. Only Statement 4\nB. Only Statement 5\nC. Both Statement 4 and Statement 5",
+"correct_answer": "C",
+"explanation": "C is correct. Roll returns are generally negative (positive) when the futures market is in contango (backwardation) and zero when the futures market is flat."
+},
+{
+"module": "Alternative Investments - Learning Module 1",
+"question_id": 21,
+"question_text": "The best response to Nabli's question about the relative performance of the two indexes is that Index B is most likely to exhibit returns that are:\nA. lower than those of Index A.\nB. the same as those of Index A.\nC. higher than those of index A.",
+"correct_answer": "C",
+"explanation": "C is correct. Index B is likely to have higher performance than Index A in a market that is trending upward. Indexes that contain contracts that more commonly trade in backwardation may improve forward-looking performance because this generates a positive roll return."
+},
+{
+"module": "Alternative Investments - Learning Module 1",
+"question_id": 22,
+"question_text": "Given Nabli's expectations for crude oil, the most appropriate swap position is the:\nA. basis swap.\nB. volatility swap.\nC. excess return swap.",
+"correct_answer": "A",
+"explanation": "A is correct. Nabli expects the price of Brent crude oil to increase more than that of heavy crude oil, and Nabli can take advantage of this prediction by entering into a basis swap that is long Brent crude oil and short heavy crude oil."
+},
+{
+"module": "Alternative Investments - Learning Module 2",
+"question_id": 23,
+"question_text": "Which of the following statements is most accurate as to how Lee should decide on Allocation 1 versus Allocation 2?\nA. Lee should prefer Allocation 2 to Allocation 1 because real estate is closely correlated with other asset classes.\nB. Lee should prefer Allocation 1 to Allocation 2 to ensure an optimal Sharpe ratio.\nC. Lee should prefer Allocation 2 to Allocation 1 because the GREFI likely understates the volatility of real estate and its correlation with stocks and bonds.",
+"correct_answer": "C",
+"explanation": "C is correct. The appraisal-based GREFI likely overstates the Sharpe ratio of real estate and underestimates the correlation of real estate returns with those of stocks and bonds. As a result, Allocation 1 likely includes more real estate in the allocation than is optimal."
+},
+{
+"module": "Alternative Investments - Learning Module 2",
+"question_id": 24,
+"question_text": "Which of the junior analyst's three statements regarding the appraiser's two primary valuation methods is incorrect?\nA. Statement 1\nB. Statement 2\nC. Statement 3",
+"correct_answer": "A",
+"explanation": "A is the correct choice because Statement 1 is incorrect. The discounted cash flow method (not the direct capitalization method) requires a terminal value by capitalizing NOI at some future date. Statements 2 and 3 are correct."
+},
+{
+"module": "Alternative Investments - Learning Module 2",
+"question_id": 25,
+"question_text": "Which of the following phases of the due diligence process is most likely to ensure that the building's NOI projection for the next year is correct?\nA. Documentation review\nB. Current lease review\nC. Future lease outlook",
+"correct_answer": "B",
+"explanation": "B is the most likely portion of the due diligence process of the three choices to ensure that the NOI projections are correct. Currently, the building is 100% occupied, so the current lease review would provide information as to whether there will be any leases up for renewal during the next year."
+},
+{
+"module": "Alternative Investments - Learning Module 2",
+"question_id": 26,
+"question_text": "Based on the direct capitalization method, the appraiser's current value of the New York City office building is closest to:\nA. USD249,600,000.\nB. USD271,300,000.\nC. USD297,100,000.",
+"correct_answer": "C",
+"explanation": "C is correct. The value of a property = NOI / (r - g) where r = the discount rate (required return) and g = the growth rate for income. Therefore, the building's value is calculated as follows: 15,600,000 / (5.75% - 0.50%) = 297,142,857 (~297,100,000 after rounding)."
+},
+{
+"module": "Alternative Investments - Learning Module 2",
+"question_id": 27,
+"question_text": "The maximum loan amount that the Fund can obtain on the New York City office building is closest to:\nA. USD111.5 million.\nB. USD180.1 million.\nC. USD184 million.",
+"correct_answer": "B",
+"explanation": "B is correct. Based on the LTV, the maximum loan amount would be 65% of 283 million, or 183.95 million, with a DSC of 1.62x, which is below the 1.65 minimum. However, with a minimum DSC of 1.65x, the maximum debt service would be 15,600,000 / 1.65 = 9,454,545. If the loan is interest only, the loan amount is 9,454,545 / 0.0525 = 180,086,580 (~180,100,000 after rounding). Because the loan amount based on the minimum DSC results in a lower loan amount, that would be the maximum amount that could be borrowed."
+},
+{
+"module": "Alternative Investments - Learning Module 2",
+"question_id": 28,
+"question_text": "Which of the following statements is most accurate regarding the effect of unreimbursed operating expenses on the NOI of the New York City and Boston properties?\nA. The NOI of the office property in New York City is more negatively affected by unreimbursed operating expenses than is the NOI of the multi-family property in Boston.\nB. The NOI of the multi-family property in Boston is more negatively affected by unreimbursed operating expenses than is the NOI of the office property in New York City.\nC. The NOIs of both properties are affected similarly by unreimbursed operating expenses.",
+"correct_answer": "B",
+"explanation": "B is correct. The multi-family property in Boston has total operating expenses of USD1,294,510 (the sum of its property management fees plus other operating expenses) and zero in expense reimbursement revenue. Dividing this amount by effective gross income creates a ratio of 45.7%. Doing the same for the office property in New York City creates a ratio of 35.5%."
+},
+{
+"module": "Alternative Investments - Learning Module 2",
+"question_id": 29,
+"question_text": "Which of the following properties is least likely to be in the oversupply phase of its real estate cycle, based on Tang's argument?\nA. The office building in New York City\nB. The retail center in Miami\nC. The multi-family complex in Boston",
+"correct_answer": "C",
+"explanation": "C is correct. The difference between gross potential rental income and gross rental income is represented by the loss to lease figure. A positive loss to lease reflects that current lease rates are lower than potential lease rates. The multi-family complex in Boston is the only property of the three for which gross rental income is lower than potential income. This is likely due to a lack of supply of rental housing."
+},
+{
+"module": "Alternative Investments - Learning Module 2",
+"question_id": 30,
+"question_text": "Which of the following responses is most accurate regarding Rodriguez's Statement 1 and Statement 2?\nA. Statements 1 and 2 are both accurate statements.\nB. Statement 1 is more accurate than Statement 2.\nC. Statement 2 is more accurate than Statement 1.",
+"correct_answer": "B",
+"explanation": "B is correct. The vacancy rate likely indicates that the New York City office building market is currently in either an oversupply or a recession phase. Rodriguez's first statement implies that the recession phase will be short in duration, followed by recovery. Her Statement 2 implies a movement into the expansion phase of the real estate cycle given her comment about improving NOI."
+},
+{
+"module": "Alternative Investments - Learning Module 2",
+"question_id": 31,
+"question_text": "Which of the three property types faces the lowest level of relative risk factors associated with structural and technological changes in the real estate market?\nA. Office property in New York City\nB. Retail center in Miami\nC. Multi-family property in Boston",
+"correct_answer": "C",
+"explanation": "C is correct. Office properties are negatively affected by the structural shift towards remote working. Retail centers face difficulties in the wake of technological change and the rise of internet-based retail. Residential housing is more of a necessity, so from a relative risk perspective, the multi-family property faces the lowest risk due to these changes."
+},
+{
+"module": "Alternative Investments - Learning Module 2",
+"question_id": 32,
+"question_text": "Given Rodriguez's comment in Statement 1 about office property in New York City, which of the following approaches to estimating property value is most appropriate?\nA. Direct capitalization method using last year's NOI\nB. Sales comparison approach\nC. Direct capitalization method using a normalized NOI forecast.",
+"correct_answer": "C",
+"explanation": "C is correct. The direct capitalization method uses a single-period cash flow in the valuation, so properties subject to significant dynamics in their future NOI projections should use a normalized NOI or the discounted cash flow method. The office property in New York City appears to be subject to short-term NOI disruptions due to the real estate cycle."
+},
+{
+"module": "Alternative Investments - Learning Module 2",
+"question_id": 33,
+"question_text": "Which of the following amounts is closest to the undiscounted terminal value of the New York City office property at the end of the five-year investment holding period?\nA. USD57.3 million\nB. USD52.9 million\nC. USD55.7 million",
+"correct_answer": "A",
+"explanation": "A is correct. Terminal value is calculated by dividing the sixth-year NOI by the terminal cap rate of 6% (3,439,613/0.06)."
+},
+{
+"module": "Alternative Investments - Learning Module 2",
+"question_id": 34,
+"question_text": "Which of the following statements is most correct about cap rates and discount rates used in the discounted cash flow valuation of the New York City office property using the data in Exhibit 1?\nA. The going-in cap rate is used to discount the first-year NOI in the discounted cash flow valuation.\nB. The terminal cap rate equals the difference between the discount rate and the constant growth rate of NOI between Years 5 and 6.\nC. The growth rate of NOI in Years 1 through 5 equals the difference between the discount rate and the going-in cap rate.",
+"correct_answer": "B",
+"explanation": "B is correct. The difference between the discount rate of 9% and the terminal cap rate of 6% equals the constant growth rate of 3%, and the sixth-year NOI of 3,439,613 is 3% greater than the fifth-year NOI of 3,339,340."
+},
+{
+"module": "Alternative Investments - Learning Module 2",
+"question_id": 35,
+"question_text": "Which of the following statements is consistent with the results of a sales comparison valuation using the information from Exhibit 2?\nA. The sales comparison approach to valuing the office property is consistent with Tang's belief that the property is underpriced.\nB. The sales comparison approach to valuing the office property suggests that the property is overpriced by approximately 11%.\nC. The sales comparison approach to valuing the office property suggests that the property is overpriced by approximately 19%.",
+"correct_answer": "B",
+"explanation": "B is correct. Applying the sum of adjustments to each of the comparable properties yields adjusted per square foot values of 394.25 for Sales Comp A, 462.15 for Sales Comp B, and 480 for Sales Comp C. The average of these three adjusted per square foot values is 445.47, and multiplying this number by the office property's 100,000 square feet yields an implied property value of USD44.5 million. Comparing this amount to the expected purchase price of USD50 million reflects an approximate 11% difference."
+},
+{
+"module": "Alternative Investments - Learning Module 2",
+"question_id": 36,
+"question_text": "Which of the following statements is most accurate regarding Rodriguez's valuation of the office property using the cost approach?\nA. The replacement cost may exceed the market price of the property's building if the real estate cycle for this property is in the oversupply phase.\nB. Rodriguez's valuation of the office property implies that it is overpriced.\nC. Replacement costs include the real estate developer's profits.",
+"correct_answer": "A",
+"explanation": "A is correct. During an oversupply phase of the real estate cycle, the cost approach may inflate the value estimate because replacement costs of the building are likely higher than the true market value of the building."
+},
+{
+"module": "Alternative Investments - Learning Module 2",
+"question_id": 37,
+"question_text": "If Tang purchases the office property in New York City, what are the forms of real estate investment taken by Delphinus Brothers and Rich Life Insurance?\nA. Delphinus invests in public real estate equity and Rich invests in public real estate debt.\nB. Delphinus invests in private real estate equity and Rich invests in private real estate debt.\nC. Delphinus invests in private real estate equity and Rich invests in public real estate debt.",
+"correct_answer": "B",
+"explanation": "B is correct. Both parties are investors in private real estate because buying a property directly is a private market transaction. Delphinus takes a private position in real estate equity by investing USD15 million, and Rich takes a private position in real estate debt by lending USD35 million to Delphinus to purchase the property."
+},
+{
+"module": "Alternative Investments - Learning Module 3",
+"question_id": 38,
+"question_text": "Which of the following best describes Bay?\nA. Mortgage REIT\nB. Internally managed REIT\nC. Real estate operating company (REOC)",
+"correct_answer": "B",
+"explanation": "B is correct. Bay is internally managed, or self-managed. Bay's senior executives are company employees who report to the board of directors, whose members are elected by shareholders. Fully integrated REITs, such as Bay, generally have fewer conflicts than REITs that are externally advised or externally managed."
+},
+{
+"module": "Alternative Investments - Learning Module 3",
+"question_id": 39,
+"question_text": "Which of the junior analyst's three statements regarding NAVPS is correct?\nA. Statement 1\nB. Statement 2\nC. Statement 3",
+"correct_answer": "B",
+"explanation": "B is correct. REITs whose shares trade below NAVPS or have high leverage might have a more difficult time raising new capital to fund acquisitions and development, which in turn could limit long-term growth, in contrast to REITs that trade at or above NAVPS."
+},
+{
+"module": "Alternative Investments - Learning Module 3",
+"question_id": 40,
+"question_text": "Which of the junior analyst's three statements regarding FFO and AFFO is incorrect?\nA. Statement 4\nB. Statement 5\nC. Statement 6",
+"correct_answer": "C",
+"explanation": "C is the correct choice because Statement 6 is incorrect. AFFO is superior to FFO (not the other way around) as a measure of economic income and thus economic return because it takes into account the capital expenditures necessary to maintain the economic income of a property portfolio."
+},
+{
+"module": "Alternative Investments - Learning Module 3",
+"question_id": 41,
+"question_text": "Based on Exhibit 1, Bay's P/FFO is closest to:\nA. 14.3x.\nB. 13.0x.\nC. 20.7x.",
+"correct_answer": "B",
+"explanation": "B is correct. FFO = AFFO + Non-cash (straight-line) rent + Recurring maintenance-type capital expenditures and leasing commissions = $4,000,000 + $215,000 + $700,000 = $4,915,000. The number of shares outstanding = 4,000,000 / 5.00 = 800,000, FFO per share = $4,915,000 / 800,000 = $6.14. Current stock price = $80.00 per share. P/FFO = $80.00 / $6.14 = 13.0x."
+},
+{
+"module": "Alternative Investments - Learning Module 3",
+"question_id": 42,
+"question_text": "Nowak's most likely response to Lin's question is that the type of real estate security she prefers:\nA. offers a high degree of operating flexibility.\nB. provides dividend income that is exempt from double taxation.\nC. has below-average correlations with overall stock market returns.",
+"correct_answer": "B",
+"explanation": "B is correct. REITs are tax-advantaged entities, whereas REOC securities are not typically tax-advantaged entities. More specifically, REITs are typically exempt from the double taxation of income that comes from taxes being due at the corporate level and again when dividends or distributions are made to shareholders in some jurisdictions, such as the United States."
+},
+{
+"module": "Alternative Investments - Learning Module 3",
+"question_id": 43,
+"question_text": "Based on Exhibit 1 and Exhibit 2, the value per share for REIT A using valuation Method 1 is closest to:\nA. $51.26.\nB. $62.40.\nC. $98.30.",
+"correct_answer": "B",
+"explanation": "B is correct. The NAV is $62.40. Estimated value of operating real estate = (350,000 / 0.07) = 5,000,000. Plus: Cash + accounts receivable = 514,500. Less: Debt and other liabilities = 2,014,000. Net asset value = 3,500,500. Shares outstanding = 56,100. NAV/share = $62.40."
+},
+{
+"module": "Alternative Investments - Learning Module 3",
+"question_id": 44,
+"question_text": "Based on Exhibit 1 and Exhibit 2, the value per share of REIT B using Valuation Method 3 is closest to:\nA. $40.77.\nB. $57.78.\nC. $73.19.",
+"correct_answer": "B",
+"explanation": "B is correct. The value per share is $57.78, calculated as follows: Funds from operations = $290,612. Shares outstanding = 67,900 shares. FFO/share = $290,612 / 67,900 shares = $4.28. Applying the property subsector average P/FFO multiple of 13.5x yields a value per share of $4.28 x 13.5 = $57.78."
+},
+{
+"module": "Alternative Investments - Learning Module 3",
+"question_id": 45,
+"question_text": "Based on Exhibit 2, the value per share of REIT C using Valuation Method 2 is closest to:\nA. $55.83.\nB. $97.57.\nC. $100.91.",
+"correct_answer": "C",
+"explanation": "C is correct. The value per share for REIT C is $100.91. Dividends: Year 1 = $4.00, Year 2 = $4.18, Year 3 = $4.37, Year 4 = $4.54. Value of stock at end of Year 3 = $4.54 / (0.08 - 0.04) = $113.57. NPV = $4.00/(1.08) + $4.18/(1.08)^2 + ($4.37 + $113.57)/(1.08)^3 = $100.91."
+},
+{
+"module": "Alternative Investments - Learning Module 3",
+"question_id": 46,
+"question_text": "Based on Exhibit 1 and Exhibit 2, the value per share of REIT A using Valuation Method 4 is closest to:\nA. $58.32.\nB. $74.12.\nC. $103.40.",
+"correct_answer": "B",
+"explanation": "B is correct. The value per share is $74.12. Funds from operations (FFO) = $316,965. Less: Non-cash rents = $25,991. Less: Recurring maintenance-type capital expenditures = $63,769. Equals AFFO = $227,205. Shares outstanding = 56,100 shares. AFFO/share = $227,205 / 56,100 shares = $4.05. Applying the property subsector average P/AFFO multiple of 18.3x yields a value per share of $4.05 x 18.3 = $74.12."
+},
+{
+"module": "Alternative Investments - Learning Module 3",
+"question_id": 47,
+"question_text": "The risk factor most likely to adversely affect an investment in REIT B is:\nA. new competitive facilities.\nB. tenants' sales per square foot.\nC. obsolescence of existing space.",
+"correct_answer": "A",
+"explanation": "A is correct. As a storage REIT, this investment faces competitive pressures because the ease of entry into the field of self-storage properties can lead to periods of overbuilding."
+},
+{
+"module": "Alternative Investments - Learning Module 3",
+"question_id": 48,
+"question_text": "Based on Caudill's investment preferences, the type of real estate investment Wang is most likely to recommend to Caudill is:\nA. Option 2.\nB. Option 3.\nC. Option 4.",
+"correct_answer": "A",
+"explanation": "A is correct. Option 2 (publicly traded REITs) best satisfies Caudill's investment preferences. REITs are equity investments that, in general, are income tax exempt at the corporate/trust level, so there is no double income taxation. To qualify for the income tax exemption, REITs are legally obligated to pay out a high percentage of taxable income to their shareholders, which typically results in relatively high dividend income for investors. Lastly, public REITs are generally liquid because they are traded in stock exchanges."
+},
+{
+"module": "Alternative Investments - Learning Module 3",
+"question_id": 49,
+"question_text": "Relative to Option 2 and Option 3, an advantage of investing in Option 1 is:\nA. greater liquidity.\nB. lower investment requirements.\nC. greater control over property-level investment decisions.",
+"correct_answer": "C",
+"explanation": "C is correct. Direct property ownership offers greater control over property-level investment decisions compared with the level of control exhibited by shareholders in REITs and REOCs."
+},
+{
+"module": "Alternative Investments - Learning Module 3",
+"question_id": 50,
+"question_text": "The Baldwin REIT is least likely to experience long-run negative effects from:\nA. an economic recession.\nB. an unfavorable change in population demographics.\nC. a major reduction in government funding of health care.",
+"correct_answer": "A",
+"explanation": "A is correct. Baldwin, a health care REIT, is largely resistant to economic recessions but is exposed to changes in population demographics and changes in government funding for health care."
+},
+{
+"module": "Alternative Investments - Learning Module 3",
+"question_id": 51,
+"question_text": "The most appropriate response to Caudill's question is:\nA. Measure 1.\nB. Measure 2.\nC. Measure 3.",
+"correct_answer": "C",
+"explanation": "C is correct. Measure 3, adjusted funds from operations, is a refinement of FFO that is designed to be a more accurate measure of current economic income. In essence, FFO is adjusted to remove any non-cash rent and to include a provision for maintenance-type capital expenditures and leasing costs."
+},
+{
+"module": "Alternative Investments - Learning Module 3",
+"question_id": 52,
+"question_text": "Based on Exhibit 1, the 2019 year-end share price of Baldwin was closest to:\nA. $13.23.\nB. $21.73.\nC. $30.36.",
+"correct_answer": "B",
+"explanation": "B is correct. Baldwin's FFO per share in 2019 was $1.89, and the resulting share price was $21.73. FFO = accounting net earnings, excluding depreciation charges on real estate, deferred tax charges, and gains or losses from sales of property. 2019 Baldwin FFO per share = ($142,187 + $90,409 - $2,162)/121,944 shares = $1.89. At the given 2019 year-end price/FFO multiple of 11.5x, this results in a share price for Baldwin of $1.89 x 11.5 = $21.73."
+},
+{
+"module": "Alternative Investments - Learning Module 3",
+"question_id": 53,
+"question_text": "Based on Exhibit 2, the intrinsic value of the Baldwin REIT on a per share basis using the two-step dividend discount model is closest to:\nA. $26.72.\nB. $27.59.\nC. $28.76.",
+"correct_answer": "C",
+"explanation": "C is correct. The estimated value per share for the Baldwin REIT using a two-step dividend discount model is $28.76, calculated as follows: Value of stock at end of Year 2 = $1.11 / (0.085 - 0.05) = $31.71. Net present value of all dividends = $1.00 / (1.085) + ($1.06 + $31.71) / (1.085)^2 = $28.76."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 54,
+"question_text": "Determine, among the four strategies under consideration by Zang, the two that are permitted given the board's mandate. Justify your response.\ni. Dedicated short bias\nii. Merger arbitrage\niii. Convertible bond arbitrage\niv. Global macro",
+"correct_answer": "ii. Merger arbitrage, iii. Convertible bond arbitrage",
+"explanation": "Merger arbitrage is an event-driven strategy, which is permitted under the board's mandate. Convertible bond arbitrage is an example of a relative value strategy, which is also permitted. Dedicated short bias is an equity hedge fund strategy, and global macro is an opportunistic hedge fund strategy, meaning both are not permitted under the specific mandate to only invest in event-driven and relative value strategies."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 55,
+"question_text": "Which of the IC member's statements regarding hedge fund strategies is incorrect?\nA. Statement 1\nB. Statement 2\nC. Statement 3",
+"correct_answer": "B",
+"explanation": "B is correct. Statement 2 is incorrect: Event-driven strategies, such as merger arbitrage, tend to be exposed to some natural equity market beta risk. Overall market risk can potentially disrupt a merger's consummation. Equity market-neutral strategies do use a relative value approach (Statement 1 is correct), and opportunistic strategies do have risk exposure to market directionality (Statement 3 is correct)."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 56,
+"question_text": "Based on what the IC considers important for equity-related strategies, which strategy should Mukilteo most likely avoid?\nA. Long/short equity\nB. Equity market neutral\nC. Dedicated short selling and short biased",
+"correct_answer": "C",
+"explanation": "C is correct. For equity-related strategies, the IC considers low volatility to be more important than negative correlation. Dedicated short selling and short-biased strategies are more volatile than a typical long/short equity hedge fund because of their short beta exposure. As a result, Mukilteo should avoid dedicated short selling and short-biased strategies."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 57,
+"question_text": "Which of the following set of derivative positions will most likely satisfy the IC's concern about the event-driven strategy involving AA and TT?\nA. Long out-of-the-money puts on AA shares and long out-of-the-money calls on TT shares\nB. Long out-of-the-money calls on AA shares and long out-of-the-money puts on TT shares\nC. Long risk-free bonds, short out-of-the-money puts on AA shares, and long out-of-the-money calls on TT shares",
+"correct_answer": "B",
+"explanation": "B is correct. To manage the risk of the acquisition failing, the manager can buy out-of-the-money calls on AA shares (to cover the short position) and buy out-of-the-money puts on TT shares (to protect against loss in value). Such a position will provide protection that would likely satisfy the IC's concern about losses with this strategy."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 58,
+"question_text": "The government bond strategy that Mukilteo considers is best described as a:\nA. carry trade.\nB. yield curve trade.\nC. long/short credit trade.",
+"correct_answer": "A",
+"explanation": "A is correct. A classic example of a fixed-income arbitrage trade involves buying lower-liquidity, off-the-run government securities and selling higher-liquidity, duration-matched, on-the-run government securities. This is a carry trade where interest rate and credit risks are hedged because long and short positions have the same duration and credit exposure, leaving liquidity risk as the key concern."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 59,
+"question_text": "The opportunistic strategy that Mukilteo considers is most likely to be described as a:\nA. global macro strategy.\nB. time-series momentum strategy.\nC. cross-sectional momentum strategy.",
+"correct_answer": "C",
+"explanation": "C is correct. The strategy under consideration is a managed futures strategy—specifically, a cross-sectional momentum approach. The strategy is to take long positions in contracts for bonds that have risen the most in value relative to the others and short positions in contracts for bonds that have fallen the most in value relative to the others."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 60,
+"question_text": "The specialist hedge fund strategy that Mukilteo plans to recommend is most likely:\nA. cross-asset volatility trading between the US and Japanese markets.\nB. selling equity volatility and collecting the volatility risk premium.\nC. buying longer-dated out-of-the-money options on VIX index futures.",
+"correct_answer": "C",
+"explanation": "C is correct. Mukilteo needs a strategy that can help PWPF maintain a high Sharpe ratio even in a crisis when equity markets fall. Buying longer-dated out-of-the-money options on VIX index futures is a long equity volatility position that works as a protective hedge, particularly in an equity market crisis when volatility spikes and equity prices fall."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 61,
+"question_text": "Based on the email that Mukilteo received, the IC member's perspective is correct with regard to:\nA. layering and netting of fees.\nB. tactical allocation capabilities.\nC. manager-specific operational risks.",
+"correct_answer": "A",
+"explanation": "A is correct. FoFs have double layers of fees without being able to net performance fees on individual managers. The FoF investor always faces netting risk and is responsible for paying performance fees that are due to winning underlying funds while suffering return drag from the performance of losing underlying funds. MSFs actually have the tactical allocation advantage over FoFs, and MSFs have higher manager-specific operational risks."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 62,
+"question_text": "Based on the IC's primary considerations for a combined portfolio, which simulated hedge fund strategy portfolio in Exhibit 1 creates the most suitable combined portfolio?\nA. Merger arbitrage\nB. Systematic futures\nC. Equity market neutral",
+"correct_answer": "C",
+"explanation": "C is correct. The equity market-neutral strategy makes for a combined portfolio that has a standard deviation below the maximum specified and has the highest Sortino ratio (1.80). For hedge fund strategies with large negative events, the Sortino ratio is a more appropriate measure of risk-adjusted return than the Sharpe ratio."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 63,
+"question_text": "Which of Anderson's three statements regarding hedge fund strategies is correct?\nA. Statement 1\nB. Statement 2\nC. Statement 3",
+"correct_answer": "C",
+"explanation": "C is correct. Global macro investing may introduce natural benefits of asset class and investment approach diversification, but they come with naturally higher volatility in the return profiles typically delivered. Relative value strategies tend to use significant leverage (not minimal), and long/short equity strategies tend to be exposed to some natural equity market beta risk."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 64,
+"question_text": "Which opportunistic hedge fund strategy meets Xu's preferences?\nA. Only global macro\nB. Only managed futures\nC. Both global macro and managed futures",
+"correct_answer": "C",
+"explanation": "C is correct. Xu states that she prefers opportunistic hedge fund strategies that use high leverage, have high liquidity, and exhibit right-tail skewness. Both global macro and managed futures are highly liquid, can use high leverage, and their returns typically exhibit positive right-tail skewness in periods of market stress."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 65,
+"question_text": "Assuming the merger between Aqua and Taurus successfully closes, the payoff on Xu's merger arbitrage trade will be:\nA. -€187,500.\nB. €225,000.\nC. €412,500.",
+"correct_answer": "B",
+"explanation": "B is correct. Xu bought 22,500 shares of Taurus at €20 per share for a total cost of €450,000 and sold short 15,000 shares of Aqua at €45 per share for a total cost of €675,000. Given the offer ratio of two shares of Aqua for three shares of Taurus, the 22,500 shares of Taurus are economically equivalent to 15,000 shares of Aqua. Thus, assuming the deal closes, the payoff to Xu's trade is €675,000 - €450,000 = €225,000."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 66,
+"question_text": "Which equity hedge fund strategy best describes the ZMD and Tarreras positions taken by Xu?\nA. Short bias\nB. Long/short equity\nC. Equity market neutral",
+"correct_answer": "C",
+"explanation": "C is correct. Xu's decision to short ZMD and take a long position in Tarreras with equal beta-weighted exposure is an example of a pairs trade or an equity-market-neutral strategy. Xu is neutralizing market risk by constructing a strategy where the expected portfolio beta is zero."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 67,
+"question_text": "Anderson's conclusion about the profitability of the AVC convertible arbitrage trade is:\nA. correct.\nB. incorrect, because the profit will be higher if the share price decreases.\nC. incorrect, because the profit will be higher if the share price increases.",
+"correct_answer": "A",
+"explanation": "A is correct. If the convertible bond's current price is near the conversion value, then the combination of a long convertible and short equity delta exposure will create a situation where for small changes in the share price and ignoring dividends and borrowing costs, the profit/loss will be the same. The current conversion price of the AVC convertible bond is €23, and the current AVC share price is €28. Thus, a profit of €5 can be locked in regardless of changes in the share price."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 68,
+"question_text": "Which of the three characteristics of life settlements noted by Anderson is correct?\nA. Characteristic 1\nB. Characteristic 2\nC. Characteristic 3",
+"correct_answer": "B",
+"explanation": "B is correct. Hedge funds look for policies in which the ongoing premium payments to keep the policy active are relatively low (Characteristic 2). Hedge funds also look for life settlements where the surrender value offered to the insured individual is relatively low, and the probability that the designated insured person is likely to die earlier than predicted by standard actuarial methods is relatively high."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 69,
+"question_text": "Describe how the conditional linear factor model can be used to address Shaindy's concern.",
+"correct_answer": "Constructed Response",
+"explanation": "A conditional linear factor model allows for the analysis in a specific market environment to determine whether hedge fund strategies are exposed to certain risks under abnormal market conditions. A conditional model can show whether hedge fund risk exposures to equities that are insignificant during calm periods become significant during turbulent market periods, specifically addressing if long exposure to equities increases when equities are falling sharply."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 70,
+"question_text": "Determine the most appropriate equity-related hedge fund strategy that Shaindy should employ. Justify your response.",
+"correct_answer": "Equity market-neutral (EMN)",
+"explanation": "Shaindy should employ an equity market-neutral (EMN) equity strategy. EMN managers are more useful for portfolio allocation during periods of non-trending or declining markets. Since these portfolios do not take beta risk and attempt to neutralize many other factor risks, they typically must apply leverage to the long and short positions to achieve a meaningful return profile, which the Fund has the capacity to do."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 71,
+"question_text": "Calculate the payoffs of the merger arbitrage under the following two scenarios: i. The merger is successfully completed. ii. The merger fails.",
+"correct_answer": "i. $220,000, ii. -$260,000",
+"explanation": "i. If successfully completed, Patel would receive $1,100,000 from short selling 20,000 shares of Sellshom and would pay $880,000 to buy 40,000 shares of Meura, providing a net spread of $220,000. ii. If the merger fails, prices revert to $18 for Meura and $60 for Sellshom. Patel buys back 20,000 shares of Sellshom at $60 ($1,200,000) and sells 40,000 shares of Meura at $18 ($720,000). The net loss would be $260,000 ($1,100,000 - $1,200,000 = -$100,000 plus -$880,000 + $720,000 = -$160,000)."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 72,
+"question_text": "Describe how each of the following circumstances can create concerns for Stein's proposed hedge fund strategy: i. Short selling, ii. Credit issues, iii. Time decay of call option, iv. Extreme market volatility",
+"correct_answer": "Constructed Response",
+"explanation": "i. Short selling: A short squeeze can lead to substantial losses and a suddenly unbalanced exposure if borrowing the underlying equity shares becomes too difficult or too costly. ii. Credit issues: When credit spreads widen or narrow, there would be a mismatch in the values of the stock and convertible bond positions. iii. Time decay of call option: The strategy can lose money due to time decay of the embedded call option during periods of reduced realized equity volatility. iv. Extreme market volatility: Convertibles are less-liquid securities, and the strategy may have further unattractive left-tail risk attributes during periods of market stress due to heightened credit risks and redemption pressures."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 73,
+"question_text": "Determine which hedge fund would be most appropriate for Puten. Justify your response.",
+"correct_answer": "Hedge Fund 2",
+"explanation": "Hedge Fund 2 would be most appropriate for Puten because it follows a global macro strategy, which uses fundamental and technical analysis, discretionary and systematic implementation, and top-down strategies employing macroeconomic models. Hedge Fund 1 follows a relative value strategy with a focus on convertible arbitrage, which typically relies on extracting 'cheap' implied volatility and does not use top-down strategies."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 74,
+"question_text": "Describe three paths for implementing the strategy of Hedge Fund A.",
+"correct_answer": "Constructed Response",
+"explanation": "Paths include: 1. Exchange-traded options (maturity up to two years). 2. OTC options (tenor and strike prices can be customized). 3. VIX futures or options on VIX futures (explicitly expresses a pure volatility view). 4. OTC volatility swaps or variance swaps (provides pure exposure to volatility alone)."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 75,
+"question_text": "Discuss two advantages of Hedge Fund B relative to Hedge Fund C with respect to investment characteristics.",
+"correct_answer": "Constructed Response",
+"explanation": "a. Tactical allocation: A multi-strategy manager (Hedge Fund B) has full transparency of different teams' portfolio risks and can reallocate capital more quickly and efficiently than an FoF manager. b. Fee structure: A multi-strategy fund generally has a more attractive fee structure; the general partner absorbs the netting risk, and investor-level incentive fees are paid only on total fund performance after netting, unlike FoFs where investors pay performance fees to winning underlying funds even if overall performance is down."
+},
+{
+"module": "Alternative Investments - Learning Module 4",
+"question_id": 76,
+"question_text": "Discuss which hedge fund strategy Singh should view as most suitable for meeting the considerations expressed by Muskogh's investment committee.",
+"correct_answer": "Global macro",
+"explanation": "Singh should view a 10% allocation to the global macro hedge fund strategy as most suitable. Such an allocation would result in a decrease in standard deviation (volatility) to 8.55% and significant increases in the combined portfolio's Sharpe (0.95) and Sortino (1.35) ratios (the highest among the choices). The lower maximum drawdown (15.0%) also indicates less downside risk."
+}
+]

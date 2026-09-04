@@ -1,0 +1,289 @@
+[
+  {
+    "module": "Economics - Learning Module 1[cite: 3]",
+    "question_id": 1,
+    "question_text": "Based on Exhibit 1, the forward premium (discount) for a 360-day INR/GBP forward contract is closest to:\nΑ. -1.546.\nB. 1.546.\nC. 1.576.[cite: 3]",
+    "correct_answer": "C[cite: 3]",
+    "explanation": "C is correct. The equation to calculate the forward premium (discount) is: $F_{fld}-S_{fld}=S_{fl}(\\frac{[\\frac{Acludl}{360}]}{1+i_{d}[\\frac{Acmal}{360}]})(i_{f}-i_{d}).$ $S_{f/d}$ is the spot rate with GBP the base currency or d and INR the foreign currency or f. $S_{f|d}$ per Exhibit 1 is 79.5093, $i_{f}$ equal to 7.52%, and $i_{d}$ is equal to 5.43%... $F_{f/d}-S_{f/d}=1.576$.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 1[cite: 3]",
+    "question_id": 2,
+    "question_text": "Based on Exhibit 2, the most appropriate recommendation regarding the triangular arbitrage trade is to:\nA. decline the trade, because no arbitrage profits are possible.\nB. execute the trade, buy BRL in the interbank market, and sell BRL to the dealer.\nC. execute the trade, buy BRL from the dealer, and sell BRL in the interbank market.[cite: 3]",
+    "correct_answer": "B[cite: 3]",
+    "explanation": "B is correct. The dealer is posting a bid rate to buy BRL at a price that is too high. This overpricing is determined by calculating the interbank implied cross rate for the CHF/BRL... Since the dealer is willing to buy BRL at 0.2355 but BRL can be purchased from the interbank market at 0.23505, there is an arbitrage opportunity to buy BRL in the interbank market and sell BRL to the dealer for a profit of 0.0045 CHF (0.2355 -0.23505) per BRL transacted.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 1[cite: 3]",
+    "question_id": 3,
+    "question_text": "Based on Exhibit 3, the potential all-in USD return on the carry trade is closest to:\nA. 0.83%.\nB. 1.23%.\nC. 1.63%.[cite: 3]",
+    "correct_answer": "A[cite: 3]",
+    "explanation": "A is correct. The carry trade involves borrowing in a lower-yielding currency to invest in a higher-yielding one and netting any profit after allowing for borrowing costs and exchange rate movements... However, the borrowing costs must be charged against this gross return to fund the carry trade investment (one-year USD MRR was 0.80%). The net return on the carry trade is therefore $1.632\\%-0.80\\%=0.832\\%$.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 1[cite: 3]",
+    "question_id": 4,
+    "question_text": "The factor least likely to lead to a narrow bid-offer spread for the industrial company's needed currency trade is the:\nA. timing of its trade.\nB. company's credit rating.\nC. pair of currencies involved.[cite: 3]",
+    "correct_answer": "B[cite: 3]",
+    "explanation": "B is correct. While credit ratings can affect spreads, the trade involves spot settlement (i.e., two business days after the trade date), so the spread quoted to this highly rated (AA) firm is not likely to be much tighter than the spread that would be quoted to a somewhat lower-rated (but still high-quality) firm. The relationship between the bank and the client, the size of the trade, the time of day the trade is initiated, the currencies involved, and the level of market volatility are likely to be more significant factors in determining the spread for this trade.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 1[cite: 3]",
+    "question_id": 5,
+    "question_text": "If Smith's statement on parity conditions is correct, future spot exchange rates are most likely to be forecast by:\nA. current spot rates.\nB. forward exchange rates.\nC. inflation rate differentials.[cite: 3]",
+    "correct_answer": "B[cite: 3]",
+    "explanation": "B is correct. By rearranging the terms of the equation defining covered interest rate parity and assuming that uncovered interest rate parity is in effect, the forward exchange rate is equal to the expected future spot exchange rate $-F_{fld}=$ $S_{f\\rceil d}^{e}$-with the expected percentage change in the spot rate equal to the interest rate differential. Thus, the forward exchange rate is an unbiased forecast of the future spot exchange rate.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 1[cite: 3]",
+    "question_id": 6,
+    "question_text": "Using the quotes in Exhibit 1, the amount received by Goldsworthy from converting JPY 225,000,000 will be closest to:\nA. GBP 1,734,906.\nB. GBP 1,735,174.\nC. GBP 1,735,442.[cite: 3]",
+    "correct_answer": "A[cite: 3]",
+    "explanation": "A is correct. Goldsworthy has been given a bid-offer spread. Because she is buying the base currency-in this case, GBP-she must pay the offer price of JPY 129.69 per GBP. JPY 225,000,000 / 129.69 JPY/GBP = GBP 1,734,906.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 1[cite: 3]",
+    "question_id": 7,
+    "question_text": "Using Exhibit 1, which of the following would be the best reason for the revised USD/GBP dealer quote of 1.2299/1.2307?\nA. A request for a much larger transaction\nB. A drop in volatility in the USD/GBP market\nC. A request to trade when both New York and London trading centers are open[cite: 3]",
+    "correct_answer": "A[cite: 3]",
+    "explanation": "A is correct. Posted quotes are typically for transactions in 1 million units of the base currency. Larger transactions may be harder for the dealer to sell in the interbank market and would likely require the dealer to quote a wider spread (lower bid price and higher offer price).[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 1[cite: 3]",
+    "question_id": 8,
+    "question_text": "Using the quotes from Dealer A and B, the triangular arbitrage profit on a transaction of MXN 27,000,000 would be closest to:\nA. GBP 0.\nB. GBP 5,400.\nC. GBP 10,800.[cite: 3]",
+    "correct_answer": "A[cite: 3]",
+    "explanation": "A is correct. Using quotes from Dealer A... Dealer A is effectively quoting GBP/MXN at 0.0403/0.0404. Although she can effectively buy MXN more cheaply from Dealer A (GBP 0.0404 from Dealer A, versus GBP 0.0406 from Dealer B), she cannot resell them to Dealer B for a higher price than GBP 0.0403. There is no profit from triangular arbitrage.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 1[cite: 3]",
+    "question_id": 9,
+    "question_text": "Based on Exhibits 1, 2, and 3, the mark-to-market gain for Goldsworthy's forward position is closest to:\nA. GBP 19,971.\nB. GBP 20,500.\nC. GBP 21,968.[cite: 3]",
+    "correct_answer": "A[cite: 3]",
+    "explanation": "A is correct. Marking her nine-month contract to market six months later requires buying GBP/EUR three months forward. The GBP/EUR spot rate is 0.9467/0.9471, and the three-month forward points are 14.0/15.0. The three-month forward rate to use is $0.9471+(15/10000)=0.9486.$ Goldsworthy sold EUR 5,000,000 at 0.9526 and bought at 0.9486... This cash flow will occur in three months, so we discount at the three-month GBP MRR of 58 bps... GBP 19,971.04.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 1[cite: 3]",
+    "question_id": 10,
+    "question_text": "Based on Exhibit 2, Underwood should conclude that three-month EUR MRR is:\nA. below three-month GBP MRR.\nB. equal to three-month GBP MRR.\nC. above three-month GBP MRR.[cite: 3]",
+    "correct_answer": "A[cite: 3]",
+    "explanation": "A is correct. The positive forward points for the GBP/EUR pair shown in Exhibit 2 indicate that the EUR trades at a forward premium at all maturities, including three months... suggests a forward rate greater than the spot rate requires a non-domestic risk-free rate (in this case, the GBP MRR) greater than the domestic risk-free rate (EUR MRR).[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 1[cite: 3]",
+    "question_id": 11,
+    "question_text": "Based on the exchange rate midpoint in Exhibit 1 and the rates in Exhibit 3, the 90-day forward premium (discount) for the USD/GBP would be closest to:\nΑ. -0.0040.\nB. -0.0010.\nC. +0.0010.[cite: 3]",
+    "correct_answer": "B[cite: 3]",
+    "explanation": "B is correct. Using covered interest rate parity, the forward rate is... 1.2295. Because the domestic MRR is higher than the non-domestic MRR, the forward rate will be less than the spot rate, giving a forward discount of $F_{f/d}-S_{f/d}=1.2295-1.2303=-0.0008$.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 1[cite: 3]",
+    "question_id": 12,
+    "question_text": "Using Exhibits 1, 2, and 3, which international parity condition would Goldsworthy most likely use to calculate the EUR MRR?\nA. Real interest rate parity\nB. Covered interest rate parity\nC. Uncovered interest rate parity[cite: 3]",
+    "correct_answer": "B[cite: 3]",
+    "explanation": "B is correct. The covered interest rate parity condition... specifies the forward exchange rate that must hold to prevent arbitrage given the spot exchange rate and the risk-free rates in both countries. If the forward and spot exchange rates, as well as one of the risk-free rates, are known, the other risk-free rate can be calculated.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 1[cite: 3]",
+    "question_id": 13,
+    "question_text": "The international parity condition Goldsworthy will use to provide the estimate of the future JPY/GBP spot rate is most likely:\nA. covered interest rate parity.\nB. uncovered interest rate parity.\nC. relative purchasing power parity.[cite: 3]",
+    "correct_answer": "B[cite: 3]",
+    "explanation": "B is correct. According to uncovered interest rate parity, $\\%4S_{fd}^{e}={i_{f}}-i_{d},$ the expected change in the spot exchange rate should reflect the interest rate spread between the two countries, which can be found in Exhibit 3. Given the spot exchange rate (from Exhibit 1) and the expected future change, she should be able to estimate the future spot exchange rate.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 1[cite: 3]",
+    "question_id": 14,
+    "question_text": "The international parity condition McFadden is referring to in Statement 1 is:\nA. purchasing power parity.\nB. covered interest rate parity.\nC. uncovered interest rate parity.[cite: 3]",
+    "correct_answer": "C[cite: 3]",
+    "explanation": "C is correct. The carry trade strategy is dependent on the fact that uncovered interest rate parity does not hold in the short or medium term. If uncovered interest rate parity held, it would mean that investors would receive identical returns from either an unhedged foreign currency investment or a domestic currency investment...[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 1[cite: 3]",
+    "question_id": 15,
+    "question_text": "In Statement 2, McFadden is most likely failing to consider the:\nA. initial gap between the country's imports and exports.\nB. effect of an initial trade deficit on a country's exchange rates.\nC. lag in the response of import and export demand to price changes.[cite: 3]",
+    "correct_answer": "C[cite: 3]",
+    "explanation": "C is correct. McFadden states that exchange rates will immediately correct the trade imbalance. She is describing the flow supply/demand channel, which assumes that trade imbalances will be corrected as the deficit country's currency depreciates... Studies indicate that there can be long lags between exchange rate changes, changes in the prices of traded goods, and changes in the trade balance.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 1[cite: 3]",
+    "question_id": 16,
+    "question_text": "The least appropriate factor used to describe the type of models mentioned in Statement 3 is:\nA. inflation.\nB. price level changes.\nC. risk premium adjustments.[cite: 3]",
+    "correct_answer": "C[cite: 3]",
+    "explanation": "C is correct. Risk premiums are more closely associated with the portfolio balance approach. The portfolio balance approach addresses the impact of a country's net foreign asset/liability position... Compensation may come in the form of higher interest rates and/or higher risk premiums.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 1[cite: 3]",
+    "question_id": 17,
+    "question_text": "The best response to Question 1 is that the policies will:\nA. have no impact.\nB. lead to currency appreciation.\nC. lead to currency depreciation.[cite: 3]",
+    "correct_answer": "B[cite: 3]",
+    "explanation": "B is correct. The currency is likely to appreciate. The emerging market country has both a restrictive monetary policy and a restrictive fiscal policy under conditions of low capital mobility... Implementation of restrictive policies should result in an improvement in the trade balance, which will result in currency appreciation.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 1[cite: 3]",
+    "question_id": 18,
+    "question_text": "The most likely response to Question 2 is $a(n)$\nA. increase in the price level.\nB. decrease in risk premiums.\nC. increase in government debt.[cite: 3]",
+    "correct_answer": "C[cite: 3]",
+    "explanation": "C is correct. Expansionary fiscal policies result in currency depreciation in the long run. Under a portfolio balance approach, the assumption is that investors hold a mix of domestic and foreign assets including bonds. Fiscal stimulus policies result in budget deficits, which are often financed by debt...[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 1[cite: 3]",
+    "question_id": 19,
+    "question_text": "The factor that McFadden is most likely referring to in Statement 4 is:\nA. FX reserve levels.\nB. domestic demand.\nC. the level of capital flows.[cite: 3]",
+    "correct_answer": "A[cite: 3]",
+    "explanation": "A is correct. EM countries are better able to influence their exchange rates because their reserve levels as a ratio of average daily FX turnover are generally much greater than those of DM countries. This means that EM central banks are in a better position to affect currency supply and demand than DM countries, where the ratio is negligible.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 1[cite: 3]",
+    "question_id": 20,
+    "question_text": "Which of McFadden's predictions in Statement 5 is least likely to be correct?\nA. Prediction 1\nB. Prediction 2\nC. Prediction 3[cite: 3]",
+    "correct_answer": "A[cite: 3]",
+    "explanation": "A is correct. Prediction 1 is least likely to be correct. Foreign exchange reserves tend to decline precipitously, not increase, as a currency crisis approaches. Broad money growth tends to rise in the period leading up to a currency crisis, and the exchange rate is substantially higher than its mean level during tranquil periods.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 2[cite: 3]",
+    "question_id": 21,
+    "question_text": "Based on the country factors provided in Exhibit 1, the country most likely to be considered a developing country is:\nA. Country A.\nB. Country B.\nC. Country C.[cite: 3]",
+    "correct_answer": "C[cite: 3]",
+    "explanation": "C is correct. Country C is the most likely to be a developing economy. Political instability, limited property rights, and poor public education and health are all factors that limit economic growth and thereby contribute to a relatively low standard of living.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 2[cite: 3]",
+    "question_id": 22,
+    "question_text": "Based on Exhibit 1, capital deepening as a source of growth was most important for:\nA. Country A.\nB. Country B.\nC. Country C.[cite: 3]",
+    "correct_answer": "A[cite: 3]",
+    "explanation": "A is correct. The associate economist can measure the effect of pure capital deepening by measuring the difference of the growth rates of labor productivity and total factor productivity. The larger the difference, the more important capital deepening is as a source of economic growth. From 2000-2010, Country A's labor productivity grew by 2.4% per year, of which 0.6% came from TFP growth and 1.8% from capital deepening $(2.4\\%-0.6\\%=1.8\\%)$.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 2[cite: 3]",
+    "question_id": 23,
+    "question_text": "Based on Statement 1, over the requested forecast horizon, the factor that will most likely drive stock market performance is the percentage change in:\nA. GDP.\nB. the earnings to GDP ratio.\nC. the price-to-earnings ratio.[cite: 3]",
+    "correct_answer": "A[cite: 3]",
+    "explanation": "A is correct. In the long run, the GDP growth rate is the most important driver of stock market performance. Therefore, the associate economist should focus on the drivers of long-run potential GDP growth. The ratio of earnings to GDP cannot increase indefinitely because that would imply that profit would eventually absorb all of GDP...[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 2[cite: 3]",
+    "question_id": 24,
+    "question_text": "Based solely on the predictions in Statement 2, over the next decade Country B's sovereign credit risk will most likely:\nA. increase.\nB. decrease.\nC. not change.[cite: 3]",
+    "correct_answer": "A[cite: 3]",
+    "explanation": "A is correct. Credit rating agencies consider the growth rate of potential GDP when evaluating the credit risk of sovereign debt. The chief economist's expectation for lower potential GDP growth for Country B over the next decade increases the perceived credit risk of its sovereign bonds.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 2[cite: 3]",
+    "question_id": 25,
+    "question_text": "Based on Statement 2, the difference in per capita output between Country A and Country B most likely results from differences in:\nA. capital deepening.\nB. capital per worker.\nC. total factor productivity.[cite: 3]",
+    "correct_answer": "C[cite: 3]",
+    "explanation": "C is correct. The higher per capita output for Country A is most likely the result of differences in the cumulative impact of technological progress embodied in total factor productivity. Technological progress raises a country's productive capacity and causes an upward shift in the entire production function, resulting in higher output per worker for a given level of capital per worker.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 2[cite: 3]",
+    "question_id": 26,
+    "question_text": "Based on Statement 3, after the next 10 years, the growth rate of potential GDP for Country A will most likely be:\nA. lower.\nB. higher.\nC. unchanged.[cite: 3]",
+    "correct_answer": "A[cite: 3]",
+    "explanation": "A is correct. Demographic factors can positively or negatively contribute to a country's sustainable rate of economic growth. After the next 10 years, Country A is expected to experience a growing share of the population over the age of 65 and a declining percentage of the population under the age of 16. All else the same, this implies slower growth of the labor force and hence slower growth of potential GDP...[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 2[cite: 3]",
+    "question_id": 27,
+    "question_text": "Based on Statement 4 and Exhibit 1, the sluggish economic growth in Country C is least likely to be explained by:\nA. limited labor force growth.\nB. export driven currency appreciation.\nC. poorly developed economic institutions.[cite: 3]",
+    "correct_answer": "A[cite: 3]",
+    "explanation": "A is correct. Country C is an example of a country endowed with an abundant natural resource yet experiencing slow economic growth. Although labor force growth is an important source of economic growth, it is the least likely explanation of the sluggish economic growth in Country C. As shown in Exhibit 1, growth in total hours worked has accounted for most of Country C's growth...[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 2[cite: 3]",
+    "question_id": 28,
+    "question_text": "Based on Statement 4, the higher rate of per capita income growth in Country A is least likely explained by the:\nA. rate of investment.\nB. growth of its population.\nC. application of information technology.[cite: 3]",
+    "correct_answer": "B[cite: 3]",
+    "explanation": "B is correct. Population growth can increase the growth rate of the overall economy but does not affect the rate of increase in per capita GDP. Therefore, population growth does not explain Country A's higher rate of per capita income growth. An increase in labor force participation could, however, raise the growth rate of per capita GDP.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 2[cite: 3]",
+    "question_id": 29,
+    "question_text": "The type of convergence described by Klymchuk in Statement 5 is best described as:\nA. club convergence.\nB. absolute convergence.\nC. conditional convergence.[cite: 3]",
+    "correct_answer": "A[cite: 3]",
+    "explanation": "A is correct. Klymchuk is referring to the concept of club convergence. The basic premise is that lower-income members of the club are converging to the income levels of the richest countries. This implies that the countries with the lowest per capita income in the club grow at the fastest rate. Countries outside the club, however, continue to fall behind.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 2[cite: 3]",
+    "question_id": 30,
+    "question_text": "Which of Amaral's initiatives is least likely to achieve his stated growth objective?\nA. Dividend tax\nB. Rural literacy\nC. Property rights[cite: 3]",
+    "correct_answer": "A[cite: 3]",
+    "explanation": "A is correct. Amaral's initiative to implement a new dividend tax is likely to impede inflows of equity capital by making equity investment in Brazil less attractive for foreign investors. Capital flows, or lack thereof, have a major impact on economic growth because, in an open economy, world savings can finance domestic investment...[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 2[cite: 3]",
+    "question_id": 31,
+    "question_text": "Which proposal for India is Amaral most likely referring to in his response to Mantri?\nA. Patent initiative\nB. Highway network\nC. Auto and textile factories[cite: 3]",
+    "correct_answer": "A[cite: 3]",
+    "explanation": "A is correct. Mantri's proposal to sponsor a patent initiative, which is likely to result in technology investment and improvement, is likely to cause a proportional upward shift in the entire production function, allowing the economy to produce higher output per worker for a given level of capital per worker. Technological progress also increases the marginal product of capital relative to its marginal cost.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 2[cite: 3]",
+    "question_id": 32,
+    "question_text": "The channel that is least likely to help India overcome its challenge of lacking significant natural resources is:\nA. Channel 1.\nB. Channel 2.\nC. Channel 3.[cite: 3]",
+    "correct_answer": "C[cite: 3]",
+    "explanation": "C is correct. Maintaining a low currency exchange rate is a policy aimed at maintaining demand for the country's exports. It would have little direct impact on the potential growth rate of aggregate supply. It might boost long-term capacity growth indirectly, however, by encouraging adoption of leading edge technology. Nonetheless, it would not be expected to be as powerful as capital deepening and/or investment in technology.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 2[cite: 3]",
+    "question_id": 33,
+    "question_text": "Based on Exhibit 1, which Indian economic statistic least likely supports Kanté's international equity allocation preference?\nA. GDP per capita\nB. Growth resulting from labor productivity\nC. Growth resulting from capital deepening[cite: 3]",
+    "correct_answer": "A[cite: 3]",
+    "explanation": "A is correct. Kanté's decision to invest in equities in India is supported by the country's strong economic growth... In contrast to the growth rate, the relatively low level of GDP per capita in India is less likely to indicate attractive equity investment opportunities. Low per capita GDP suggests that India may lack sufficient industrial and financial infrastructure to support some types of industries.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 2[cite: 3]",
+    "question_id": 34,
+    "question_text": "The strategy that is least likely to improve per capita GDP in Mali is:\nA. Strategy 1.\nB. Strategy 2.\nC. Strategy 3.[cite: 3]",
+    "correct_answer": "A[cite: 3]",
+    "explanation": "A is correct. With Mali's low standard of living (i.e., GDP per capita and large informal workforce), the tax rate is unlikely to be an impediment to growth, so lowering the tax rate is not likely to be a major contributor to growth.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 2[cite: 3]",
+    "question_id": 35,
+    "question_text": "Which of the following strategies being considered by Kanté is most likely to undermine or delay convergence with developed economies?\nA. Strategy 2\nB. Strategy 4\nC. Strategy 5[cite: 3]",
+    "correct_answer": "B[cite: 3]",
+    "explanation": "B is correct. The strategy for Mali to impose high tariffs (trade restrictions) on imports is likely to undermine rather than enhance growth and therefore is not supportive of convergence with developed economies. Freer trade (fewer trade restrictions) tends to enhance growth...[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 2[cite: 3]",
+    "question_id": 36,
+    "question_text": "Based on Exhibit 1, the factor that would most likely have the greatest positive impact on the per capita GDP growth of Country A is:\nA. free trade.\nB. technology.\nC. saving and investment.[cite: 3]",
+    "correct_answer": "B[cite: 3]",
+    "explanation": "B is correct. Country A is a developed country with a high level of capital per worker. Technological progress and/or more intensive use of existing technology can help developed countries increase productivity and thereby increase per capita GDP. Most developed countries have reasonably low trade barriers... Also, because the country already has a high capital-to-labor ratio, increased saving/investment is unlikely to increase the growth rate substantially unless it embodies improved technology.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 2[cite: 3]",
+    "question_id": 37,
+    "question_text": "Based on Observation 1, in the long run the ratio of profits to GDP in Country A is most likely to:\nA. remain near its current level.\nB. increase from its current level.\nC. decrease from its current level.[cite: 3]",
+    "correct_answer": "C[cite: 3]",
+    "explanation": "C is correct. The ratio of profits to GDP for Country A has been trending upward over the past several years and is now well above its historical average. The ratio of profits to GDP cannot rise forever. At some point, stagnant labor income would make workers unwilling to work without an increase in wages and would also undermine demand, making further expansion of profit margins unsustainable. Thus, the ratio of profits to GDP will likely decline in the long run toward its historical average.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 2[cite: 3]",
+    "question_id": 38,
+    "question_text": "Based on Observation 2, Country C is most likely to have:\nA. relatively low real asset returns.\nB. a relatively low real interest rate.\nC. a relatively high real interest rate.[cite: 3]",
+    "correct_answer": "C[cite: 3]",
+    "explanation": "C is correct. A high growth rate of potential GDP would cause real incomes to rise more rapidly and also translate into higher real interest rates and higher expected/required real asset returns. The real interest rate is essentially the real return that consumers/savers demand in exchange for postponing consumption... All else the same, the real interest rate will have to be relatively high in order to induce the savings required to fund required/desired capital accumulation.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 2[cite: 3]",
+    "question_id": 39,
+    "question_text": "Based on Exhibit 2, the least likely reason for the current pace of GDP growth in Country D is:\nA. a persistently strong currency.\nB. strong manufacturing exports.\nC. strong natural resource exports.[cite: 3]",
+    "correct_answer": "B[cite: 3]",
+    "explanation": "B is correct. Country D is a country with abundant resources and has developed the economic institutions necessary for growth, yet the country is experiencing slow economic growth. It is likely that Country D is experiencing the Dutch Disease, whereby currency appreciation driven by strong export demand for natural resources makes other segments of the economy, in particular manufacturing, globally uncompetitive. Strong manufacturing exports indicate that Country D is globally competitive and likely to have adopted leading edge technology. Thus, it is unlikely that the slow growth reflects inability to maintain productivity growth.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 2[cite: 3]",
+    "question_id": 40,
+    "question_text": "The type of convergence described by O'Leary in Statement 1 is best described as:\nA. club convergence.\nB. absolute convergence.\nC. conditional convergence.[cite: 3]",
+    "correct_answer": "C[cite: 3]",
+    "explanation": "C is correct. Conditional convergence means that convergence is conditional on the countries having the same savings rate, population growth rate, and production function. If these conditions hold, the neoclassical model implies convergence to the same level of per capita output as well as the same steady-state growth rate.[cite: 3]"
+  },
+  {
+    "module": "Economics - Learning Module 2[cite: 3]",
+    "question_id": 41,
+    "question_text": "Which of the following growth models is most consistent with O'Leary's Statement 2?\nA. Classical\nB. Endogenous\nC. Neoclassical[cite: 3]",
+    "correct_answer": "C[cite: 3]",
+    "explanation": "C is correct. According to the neoclassical model, convergence should occur more quickly if economies are open and there is free trade and international borrowing and lending. Opening up the economy should increase the rate at which the capital-to-labor ratio converges among countries. In the neoclassical Solow model, however, after the reallocation of world savings, there is no permanent increase in the rate of growth in an economy.[cite: 3]"
+  }
+]
