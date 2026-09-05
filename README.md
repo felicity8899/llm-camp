@@ -144,10 +144,13 @@ This JSON report preserves the exact parameters and quantitative metrics of the 
 ### 📊 Streamlit Web Application & Performance Dashboard (`app.py`)
 For production deployments, the project provides a comprehensive **Streamlit Web Application** featuring a two-part layout:
 
+![Chatting](https://raw.githubusercontent.com/felicity8899/llm-camp/master/chatting.png)
 1.  **CFA Study Assistant Chat Panel**:
     *   Candidates can submit free-form questions or paste practice problems.
     *   Explanations are displayed in high-fidelity markdown (complete with LaTeX mathematical formatting).
     *   An interactive **Thumbs Up (👍) / Thumbs Down (👎)** component allows candidates to rate answer quality, which directly records human feedback.
+
+![Dashboard](https://raw.githubusercontent.com/felicity8899/llm-camp/master/dashboard.png)
 2.  **Real-Time Analytics & Cost Dashboard**:
     *   Built on top of **Pandas and SQLite (`metrics.db`)**, this panel queries real-time telemetry metrics.
     *   **Cost Tracking Graphs**: Visualizes cumulative API spend in USD over time, warning administrators of resource depletion.
