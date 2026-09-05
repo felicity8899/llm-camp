@@ -88,7 +88,7 @@ system:
 
 ## 🧪 5. Rigorous Evaluation Framework
 
-A primary objective of this repository is quantitative validation. We do not guess which pipeline works better; we measure it using a parameters-based grid sweep pipeline (`evaluate_parameterized_v2.py`).
+A primary objective of this repository is quantitative validation. We do not guess which pipeline works better; we measure it using a parameters-based grid sweep pipeline (`evaluate.py`).
 
 ### 📏 Evaluation Criteria
 Reviewers can find our evaluation metrics and logic inside `evaluate.py`:
@@ -170,11 +170,11 @@ OPENAI_API_KEY=your-actual-openai-api-key-here
     ```
 3.  **Run the Interactive CLI Chat (with live SQLite Logging and color codes):**
     ```bash
-    uv run python chat_parameterized_v3.py
+    uv run python chat.py
     ```
 4.  **Run the Quantitative Evaluation Pipeline:**
     ```bash
-    uv run python evaluate_parameterized_v2.py --sample-size 10 --k 3 --search-type mmr
+    uv run python evaluate.py --sample-size 10 --k 3 --search-type mmr
     ```
 
 ### Option B: Quick Deployment with Docker
@@ -185,7 +185,7 @@ For fully isolated, cross-platform execution:
     ```
 2.  **Execute Interactive Chat within Container:**
     ```bash
-    docker compose exec cfa-assistant python chat_parameterized_v3.py
+    docker compose exec cfa-assistant python chat.py
     ```
 
 ---
