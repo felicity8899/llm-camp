@@ -12,7 +12,4 @@ services:
       - .env
     volumes:
       - .:/app
-    # Note: If your Dockerfile already has CMD ["streamlit", "run", "app.py"], 
-    # you can omit the 'command' line below. Otherwise, keep it.
-    command: streamlit run app.py
     restart: unless-stopped
