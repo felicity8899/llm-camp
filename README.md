@@ -1,6 +1,6 @@
-# 🎓 CFA Prep AI Study Assistant: Production-Ready Multi-Subject RAG & LangGraph Agent
+# 🎓 CFA 2 Study Assistant: Multi-Subject RAG & LangGraph Agent
 
-Welcome to the **CFA Prep AI Study Assistant** repository! This project is a complete, production-grade educational software system designed to help CFA Level II candidates study complex concepts, practice tricky quantitative questions, and receive detailed, step-by-step mathematical and ethical explanations grounded in official curriculum materials.
+Welcome to the **CFA 2 Prep Study Assistant** repository! This project is a complete, production-grade educational software system designed to help CFA Level II candidates study complex concepts, practice tricky quantitative questions, and receive detailed, step-by-step mathematical and ethical explanations grounded in official curriculum materials.
 
 We have designed and evaluated two distinct AI architectures side-by-side: a **Standard Retrieval-Augmented Generation (RAG) Chain** and a **multi-step agentic workflow powered by LangGraph**.
 
@@ -93,10 +93,10 @@ system:
 
 ## 🧪 5. Rigorous Evaluation Framework
 
-A primary objective of this repository is quantitative validation. We do not guess which pipeline works better; we measure it using a parameters-based grid sweep pipeline (`evaluate_parameterized_v2.py`).
+A primary objective of this repository is quantitative validation. We do not guess which pipeline works better; we measure it using a parameters-based grid sweep pipeline (`evaluate.py`).
 
 ### 📐 Evaluation Criteria
-Reviewers can find our evaluation metrics and logic inside `evaluate_parameterized_v2.py`:
+Reviewers can find our evaluation metrics and logic inside `evaluate.py`:
 1.  **Retrieval Hit Rate (HR):** Measures if the correct reference document containing the ground-truth explanation is within the retrieved top-$k$ results.
 2.  **Mean Reciprocal Rank (MRR):** Measures the precision of retrieval, rewarding the system when the most relevant chunk is retrieved at Rank 1.
 3.  **Accuracy / Verification Rate (LLM-as-a-judge):** A strict evaluator model grades both outputs against the gold standard `Expected Knowledge`. Our code avoids fragile text matching by implementing a robust parsing structure that extracts clean grading verdicts.
@@ -147,7 +147,7 @@ For production deployments, the project provides a comprehensive **Streamlit Web
 ---
 
 ### 💻 Live ANSI Console Dashboard
-When launching the CLI assistant (`chat_parameterized_v3.py`), the console renders a real-time operational dashboard with color-coded status lights:
+When launching the CLI assistant (`chat.py`), the console renders a real-time operational dashboard with color-coded status lights:
 *   🟩 `✅ AI-Pass` (Bright Green): The automated judge determined the answer is perfectly grounded in the retrieved curriculum.
 *   🟨 `⚠ AI-Review` (Bright Yellow): The response did not fully answer the prompt or relied on ungrounded knowledge, triggering a review flag.
 
@@ -213,11 +213,11 @@ OPENAI_API_KEY=your-actual-openai-api-key-here
     ```
 4.  **Run the Interactive CLI Chat (with live SQLite Logging and color codes):**
     ```bash
-    uv run python chat_parameterized_v3.py
+    uv run python chat.py
     ```
 5.  **Run the Quantitative Evaluation Pipeline:**
     ```bash
-    uv run python evaluate_parameterized_v2.py --sample-size 10 --k 3 --search-type mmr
+    uv run python evaluate.py --sample-size 10 --k 3 --search-type mmr
     ```
 
 ### Option B: Quick Deployment with Docker
@@ -230,7 +230,7 @@ For fully isolated, cross-platform execution:
     Open your browser and navigate to `http://localhost:8501`.
 3.  **Execute Interactive Chat within Container:**
     ```bash
-    docker compose exec cfa-assistant python chat_parameterized_v3.py
+    docker compose exec cfa-assistant python chat.py
     ```
 
 -----
