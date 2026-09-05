@@ -1,0 +1,15 @@
+# CFA Prep Assistant - Production Parameters Configuration
+
+retriever:
+  search_type: "mmr"             # Retrieval strategy: "similarity" (standard similarity search) or "mmr" (Maximal Marginal Relevance to avoid redundancy)
+  k: 8                           # Number of top document chunks to retrieve and feed into the LLM context
+  embedding_model: "text-embedding-3-small" # Embedding model used for indexing and vector search
+  persist_directory: "./chroma_db" # Path to the persistent Chroma vector database
+
+llm:
+  model_name: "gpt-4o-mini"           # The main language model with strong reasoning and calculation capabilities
+  temperature: 0.0               # Kept at 0.0 to ensure deterministic, strict, and precise answers for financial/ethical questions
+
+system:
+  engine_type: "Standard RAG Chain"  # Active execution engine: "Standard RAG Chain" or "LangGraph Tool Agent"
+  sample_size: 20                # Default test dataset sample size used during pipeline evaluation runs
