@@ -115,7 +115,7 @@ uv run python evaluate.py --sample-size 10 --k 3 --search-type mmr
 ```
 This command will dynamically run the evaluation on a random sample of 10 questions using the **MMR (Maximal Marginal Relevance)** retrieval strategy with $K=3$. 
 
-Upon completion, the pipeline automatically compiles the metrics and **generates a structured JSON report file directly inside the `report/` folder** (e.g., `reports/eval_report_gpt-4o-mini_mmr_k3.json`).
+Upon completion, the pipeline automatically compiles the metrics and **generates a structured JSON report file directly inside the `reports/` folder** (e.g., `reports/eval_report_gpt-4o-mini_mmr_k3.json`).
 
 This JSON report preserves the exact parameters and quantitative metrics of the run:
 ```json
