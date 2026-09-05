@@ -108,6 +108,35 @@ You can run automated grid sweeps over different $K$ values and retrieval algori
 ```
 This automatically tests multiple combinations (e.g., $K=3$ similarity vs $K=5$ MMR), writes stdout logs to `logs/`, and saves final quantitative JSON experiment reports directly into the `report/` directory.
 
+### 📝 Single Evaluation Run & JSON Report Generation
+You can also run a single evaluation experiment manually. For example, executing:
+```bash
+uv run python evaluate.py --sample-size 10 --k 3 --search-type mmr
+```
+This command will dynamically run the evaluation on a random sample of 10 questions using the **MMR (Maximal Marginal Relevance)** retrieval strategy with $K=3$. 
+
+Upon completion, the pipeline automatically compiles the metrics and **generates a structured JSON report file directly inside the `report/` folder** (e.g., `report/eval_report_gpt-4o-mini_mmr_k3.json`).
+
+This JSON report preserves the exact parameters and quantitative metrics of the run:
+```json
+{
+    "parameters": {
+        "model_name": "gpt-4o-mini",
+        "embedding_model": "text-embedding-3-small",
+        "search_type": "mmr",
+        "k": 3,
+        "temperature": 0.0,
+        "sample_size": 10
+    },
+    "metrics": {
+        "hit_rate": 90.0,
+        "mrr": 0.783,
+        "rag_accuracy": 70.0,
+        "agent_accuracy": 90.0
+    }
+}
+```
+
 -----
 
 ## 🖥️ 6. App Walkthrough & Outputs
