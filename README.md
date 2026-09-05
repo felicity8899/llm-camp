@@ -91,7 +91,7 @@ system:
 A primary objective of this repository is quantitative validation. We do not guess which pipeline works better; we measure it using a parameters-based grid sweep pipeline (`evaluate_parameterized_v2.py`).
 
 ### 📏 Evaluation Criteria
-Reviewers can find our evaluation metrics and logic inside `evaluate_parameterized_v2.py`:
+Reviewers can find our evaluation metrics and logic inside `evaluate.py`:
 1.  **Retrieval Hit Rate (HR):** Measures if the correct reference document containing the ground-truth explanation is within the retrieved top-$k$ results.
 2.  **Mean Reciprocal Rank (MRR):** Measures the precision of retrieval, rewarding the system when the most relevant chunk is retrieved at Rank 1.
 3.  **Accuracy / Verification Rate (LLM-as-a-judge):** A strict evaluator model grades both outputs against the gold standard `Expected Knowledge`. Our code avoids fragile text matching by implementing a robust parsing structure that extracts clean grading verdicts.
