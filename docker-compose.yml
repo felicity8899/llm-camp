@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  cfa-assistant:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: cfa-assistant-container
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+    # Note: If your Dockerfile already has CMD ["streamlit", "run", "app.py"], 
+    # you can omit the 'command' line below. Otherwise, keep it.
+    command: streamlit run app.py
+    restart: unless-stopped
