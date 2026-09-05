@@ -1,6 +1,6 @@
-# 🎓 CFA Prep AI Study Assistant: Production-Ready Multi-Subject RAG & LangGraph Agent
+# 🎓 CFA 2 Study Assistant: Multi-Subject RAG & LangGraph Agent
 
-Welcome to the **CFA Prep AI Study Assistant** repository! This project is a complete, production-grade educational software system designed to help CFA Level II candidates study complex concepts, practice tricky quantitative questions, and receive detailed, step-by-step mathematical and ethical explanations grounded in official curriculum materials.
+Welcome to the **CFA Study Assistant** repository! This project is a complete, production-grade educational software system designed to help CFA Level II candidates study complex concepts, practice tricky quantitative questions, and receive detailed, step-by-step mathematical and ethical explanations grounded in official curriculum materials.
 
 We have designed and evaluated two distinct AI architectures side-by-side: a **Standard Retrieval-Augmented Generation (RAG) Chain** and a **multi-step agentic workflow powered by LangGraph**.
 
