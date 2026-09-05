@@ -249,18 +249,69 @@ OPENAI_API_KEY=your-actual-openai-api-key-here
     uv run python evaluate.py --sample-size 10 --k 3 --search-type mmr
     ```
 
-### Option B: Quick Deployment with Docker
-For fully isolated, cross-platform execution:
-1.  **Build and launch the container:**
-    ```bash
-    docker-compose up --build -d
-    ```
-2.  **Access the Streamlit Dashboard Web App:**
-    Open your browser and navigate to `http://localhost:8501`.
-3.  **Execute Interactive Chat within Container:**
-    ```bash
-    docker compose exec cfa-assistant python chat.py
-    ```
+### Option B: Quick Deployment with Native Docker (Recommended for Server/Clean OS)
+
+No need for complex Docker Compose or Buildx configurations! You can build and run using standard, native Docker commands.
+
+#### 1. (Optional) Install Docker on AWS EC2 (Amazon Linux 2 / 2023)
+If you are deploying on a completely fresh EC2 instance, execute these commands to set up Docker and user group permissions:
+```bash
+# Update system and install Docker
+sudo yum update -y
+sudo yum install docker -y
+
+# Start service and enable boot autostart
+sudo systemctl start docker
+sudo systemctl enable docker
+
+# Add your user to the docker group so you don't need 'sudo' anymore
+sudo usermod -aG docker $USER
+
+# REFRESH YOUR TERMINAL GROUPS (Run this or reconnect to make it active!)
+newgrp docker
+```
+
+#### 2. Build the Docker Image
+From the repository root (where the `Dockerfile` is located), build your production-ready container:
+```bash
+docker build -t cfa-assistant .
+```
+
+#### 3. Start the Web App & Real-Time Performance Dashboard
+Run the Streamlit application as a background daemon mapping port `8501`. We bind your current directory as a volume (`-v`) so that SQLite telemetry (`metrics.db`) and evaluation JSON records (`report/`) persist safely on your server's host disk:
+```bash
+docker run -d \
+  --name cfa-web-app \
+  -p 8501:8501 \
+  --env-file .env \
+  -v $(pwd):/app \
+  cfa-assistant
+```
+Once started, navigate to `http://YOUR_SERVER_IP:8501` to access the chat and analytics!
+
+#### 4. Run the ANSI Colored CLI Chat in the Container
+If you prefer testing the interactive study assistant via command line with ANSI color codes, run this command:
+```bash
+docker run -it \
+  --name cfa-cli-app \
+  --env-file .env \
+  -v $(pwd):/app \
+  cfa-assistant \
+  python chat.py
+```
+
+#### 5. Run the Quantitative Evaluation Pipeline inside the Running Container
+To trigger a multi-agent vs standard RAG sweep (e.g., sample-size of 10, MMR k=3) on the vector DB, query the running Web container:
+```bash
+docker exec -it cfa-web-app python evaluate.py --sample-size 10 --k 3 --search-type mmr
+```
+*Your newly compiled evaluation reports will immediately fall into your host disk's `./report/` folder!*
+
+#### 🧹 Common Native Docker Cleanup Commands:
+*   **Check running containers**: `docker ps`
+*   **Stop the Web App**: `docker stop cfa-web-app`
+*   **Restart the Web App**: `docker start cfa-web-app`
+*   **Remove the Web App container**: `docker rm -f cfa-web-app`
 
 -----
 
