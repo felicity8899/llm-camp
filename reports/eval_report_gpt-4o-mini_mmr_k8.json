@@ -1,0 +1,16 @@
+{
+    "parameters": {
+        "model_name": "gpt-4o-mini",
+        "embedding_model": "text-embedding-3-small",
+        "search_type": "mmr",
+        "k": 8,
+        "temperature": 0.0,
+        "sample_size": 10
+    },
+    "metrics": {
+        "hit_rate": 90.0,
+        "mrr": 0.775,
+        "rag_accuracy": 60.0,
+        "agent_accuracy": 80.0
+    }
+}
