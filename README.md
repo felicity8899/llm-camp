@@ -48,7 +48,7 @@ Our codebase supports two distinct execution frontends and two distinct backends
 
 ### 🎮 The Frontends
 1.  **Streamlit Web Interface & Analytics Dashboard (`app.py`)**: A fully realized, interactive web application featuring a clean conversational interface for candidates and a real-time, interactive performance tracking dashboard for system administrators.
-2.  **Interactive Terminal CLI Chat (`chat_parameterized_v3.py`)**: A lightweight, developer-focused console program displaying real-time metrics and color-coded evaluation statuses directly in the terminal.
+2.  **Interactive Terminal CLI Chat (`chat.py`)**: A lightweight, developer-focused console program displaying real-time metrics and color-coded evaluation statuses directly in the terminal.
 
 ### 🧠 The Backends
 *   **Pipeline A: Standard RAG (LangChain Chain)**:
