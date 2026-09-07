@@ -95,6 +95,8 @@ system:
 ## 🧪 5. Rigorous Evaluation Framework
 
 A primary objective of this repository is quantitative validation. We do not guess which pipeline works better; we measure it using a parameters-based grid sweep pipeline (`evaluate.py`).
+### 🇬🇺 Evaluation Workflow
+![Dashboard](https://raw.githubusercontent.com/felicity8899/llm-camp/master/evaluation-flowchart.png)
 
 ### 📐 Evaluation Criteria
 Reviewers can find our evaluation metrics and logic inside `evaluate.py`:
