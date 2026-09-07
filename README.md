@@ -336,7 +336,7 @@ Once running, open your browser and navigate to http://YOUR_SERVER_IP:8501 to ac
 Check container status:
 ```bash
 docker compose ps
-```bash
+```
 Monitor live operation logs (e.g., viewing incoming student queries & AI Judge metrics):
 ```bash
 docker compose logs -f
