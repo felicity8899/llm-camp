@@ -144,37 +144,20 @@ This JSON report preserves the exact parameters and quantitative metrics of the 
 ### 📊 Streamlit Web Application & Performance Dashboard (`app.py`)
 For production deployments, the project provides a comprehensive **Streamlit Web Application** featuring a two-part layout:
 
-![Chatting](https://raw.githubusercontent.com/felicity8899/llm-camp/master/chatting.png)
 1.  **CFA Study Assistant Chat Panel**:
     *   Candidates can submit free-form questions or paste practice problems.
     *   Explanations are displayed in high-fidelity markdown (complete with LaTeX mathematical formatting).
     *   An interactive **Thumbs Up (👍) / Thumbs Down (👎)** component allows candidates to rate answer quality, which directly records human feedback.
+![Chatting](https://raw.githubusercontent.com/felicity8899/llm-camp/master/chatting.png)
 
-![Dashboard](https://raw.githubusercontent.com/felicity8899/llm-camp/master/dashboard.png)
+
 2.  **Real-Time Analytics & Cost Dashboard**:
     *   Built on top of **Pandas and SQLite (`metrics.db`)**, this panel queries real-time telemetry metrics.
     *   **Cost Tracking Graphs**: Visualizes cumulative API spend in USD over time, warning administrators of resource depletion.
     *   **Latency Trends**: Line charts plotting response latency in seconds, helping developers spot slow database queries or LLM bottlenecks.
     *   **Token Breakdown Metrics**: Stacked charts showing Prompt vs. Completion token ratios.
     *   **AI Judge vs. Human Alignment**: Bar charts comparing the automated Online AI Judge pass rates against actual candidate feedback scores, exposing RAG regressions immediately.
-
-```text
-+---------------------------------------------------------------------------------------------------+
-| 🎓 CFA Prep AI Study Assistant Web UI                                            [Streamlit App]  |
-+---------------------------------------------------------------------------------------------------+
-|  [ Chat Interface ]                                     |  [ Live Metrics & Cost Dashboard ]      |
-|                                                         |                                         |
-|   Candidate: Why is leverage threshold 3(k+1)/n?        |   💸 Cumulative Spend: $14.28 (OpenAI)  |
-|                                                         |   ⏱ Average Latency: 2.15s (Chroma DB) |
-|   Assistant:                                            |                                         |
-|   According to the curriculum, the leverage...          |   📈 TOKEN USAGE TRENDS                 |
-|   1. Average leverage = (k + 1) / n                     |      ██████ Prompt Tokens (82%)         |
-|   2. High leverage threshold = 3 * (k + 1) / n          |      ███ Completion Tokens (18%)        |
-|                                                         |                                         |
-|   Was this helpful? [ 👍 Thumbs Up ] [ 👎 Thumbs Down ] |   🤖 AI Judge Pass Rate: 94.2%          |
-|                                                         |   👤 User Satisfaction Rate: 91.5%     |
-+---------------------------------------------------------------------------------------------------+
-```
+![Dashboard](https://raw.githubusercontent.com/felicity8899/llm-camp/master/dashboard.png)
 
 ---
 
@@ -182,6 +165,7 @@ For production deployments, the project provides a comprehensive **Streamlit Web
 When launching the CLI assistant (`chat.py`), the console renders a real-time operational dashboard with color-coded status lights:
 *   🟩 `✅ AI-Pass` (Bright Green): The automated judge determined the answer is perfectly grounded in the retrieved curriculum.
 *   🟨 `⚠ AI-Review` (Bright Yellow): The response did not fully answer the prompt or relied on ungrounded knowledge, triggering a review flag.
+![Chatting](https://raw.githubusercontent.com/felicity8899/llm-camp/master/chat-cli.png)
 
 ```text
 ============================================================
