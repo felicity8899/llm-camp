@@ -303,6 +303,55 @@ docker exec -it cfa-web-app python evaluate.py --sample-size 10 --k 3 --search-t
 *   **Restart the Web App**: `docker start cfa-web-app`
 *   **Remove the Web App container**: `docker rm -f cfa-web-app`
 
+
+##### Option C: Modern Container Orchestration with Docker Compose (Recommended)
+For production environments, easier service lifecycle management, or headless server deployment, utilizing **Docker Compose** is highly recommended. It encapsulates environment configurations, port-forwarding, and physical host-disk volume bindings into a single, clean configuration file.
+
+###### 1. Create the `docker-compose.yml` File
+
+1 Prerequisites & Quick Troubleshooting
+Before launching, make sure your deployment environment is correctly configured:
+API Key Configuration (.env):
+Docker Compose requires a .env file containing your OpenAI API Key at the same root directory.
+echo "OPENAI_API_KEY=your-actual-openai-api-key-here" > .env
+Active Docker Daemon (e.g., AWS EC2 Amazon Linux):
+If your container connection fails with a unix:///var/run/docker.sock error, start and enable the Docker service:
+```bash
+sudo systemctl start docker
+sudo systemctl enable docker
+```
+Sudo-free Permissions:
+Ensure your local user (e.g., ec2-user) belongs to the docker user group so you do not need root access to run compose commands:
+```bash
+sudo usermod -aG docker \$USER
+newgrp docker  # Refreshes group association instantly
+```
+2. Start the Suite in Detached Daemon Mode
+Bring up the build process and run the application in the background:
+```bash
+docker compose up -d
+```
+Once running, open your browser and navigate to http://YOUR_SERVER_IP:8501 to access both the conversational assistant and the administrator panel.
+4. Live Log Monitoring & Status Check
+Check container status:
+```bash
+docker compose ps
+```bash
+Monitor live operation logs (e.g., viewing incoming student queries & AI Judge metrics):
+```bash
+docker compose logs -f
+```
+5. Run the Evaluation Pipeline Inside the Running Container
+To run accuracy and retrieval sweeps (e.g., sample-size 10, MMR k=3) on your evaluation dataset inside the active container, execute:
+```bash
+docker compose exec cfa-assistant python evaluate.py --sample-size 10 --k 3 --search-type mmr
+```
+This triggers evaluate.py directly. The newly compiled quantitative JSON reports will persist safely and immediately fall into your local ./reports/ directory on the host disk!
+7. Stop and Clean Up Services
+To stop and tear down the active container resources without losing any of your SQLite telemetry (metrics.db) or evaluation reports:
+```bash
+docker compose down
+```
 -----
 
 ## 🧹 8. Codebase Standards & Reproducibility
