@@ -304,12 +304,10 @@ docker exec -it cfa-web-app python evaluate.py --sample-size 10 --k 3 --search-t
 *   **Remove the Web App container**: `docker rm -f cfa-web-app`
 
 
-##### Option C: Modern Container Orchestration with Docker Compose (Recommended)
+### Option C: Modern Container Orchestration with Docker Compose (Recommended)
 For production environments, easier service lifecycle management, or headless server deployment, utilizing **Docker Compose** is highly recommended. It encapsulates environment configurations, port-forwarding, and physical host-disk volume bindings into a single, clean configuration file.
 
-###### 1. Create the `docker-compose.yml` File
-
-1 Prerequisites & Quick Troubleshooting
+#### 1. Prerequisites & Quick Troubleshooting
 Before launching, make sure your deployment environment is correctly configured:
 API Key Configuration (.env):
 Docker Compose requires a .env file containing your OpenAI API Key at the same root directory.
@@ -326,13 +324,15 @@ Ensure your local user (e.g., ec2-user) belongs to the docker user group so you 
 sudo usermod -aG docker \$USER
 newgrp docker  # Refreshes group association instantly
 ```
-2. Start the Suite in Detached Daemon Mode
+
+#### 2. Start the Suite in Detached Daemon Mode
 Bring up the build process and run the application in the background:
 ```bash
 docker compose up -d
 ```
 Once running, open your browser and navigate to http://YOUR_SERVER_IP:8501 to access both the conversational assistant and the administrator panel.
-4. Live Log Monitoring & Status Check
+
+#### 3. Live Log Monitoring & Status Check
 Check container status:
 ```bash
 docker compose ps
@@ -341,7 +341,8 @@ Monitor live operation logs (e.g., viewing incoming student queries & AI Judge m
 ```bash
 docker compose logs -f
 ```
-5. Run the Evaluation Pipeline Inside the Running Container
+
+#### 4. Run the Evaluation Pipeline Inside the Running Container
 To run accuracy and retrieval sweeps (e.g., sample-size 10, MMR k=3) on your evaluation dataset inside the active container, execute:
 ```bash
 docker compose exec cfa-assistant python evaluate.py --sample-size 10 --k 3 --search-type mmr
