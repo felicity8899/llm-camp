@@ -49,10 +49,40 @@ def format_docs(docs):
 class CFAAssistant:
     def __init__(self):
         init_all_dbs()
-        embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
-        vectorstore = Chroma(persist_directory="./chroma_db", embedding_function=embeddings)
-        self.retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
-        self.llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
+
+        # import data from yaml
+        try:
+            with open(config_path, "r", encoding="utf-8") as f:
+                self.config = yaml.safe_load(f)
+        except FileNotFoundError:
+            # default parameter if fallback
+            self.config = {
+                "retriever": {"k": 3, "search_type": "similarity", "embedding_model": "text-embedding-3-small", "persist_directory": "./chroma_db"},
+                "llm": {"model_name": "gpt-4o-mini", "temperature": 0.0},
+                "system": {"engine_type": "Standard RAG Chain"}
+            }
+
+        # retrieve the data from yaml
+        retriever_cfg = self.config.get("retriever", {})
+        llm_cfg = self.config.get("llm", {})
+
+        embeddings = OpenAIEmbeddings(model=retriever_cfg.get("embedding_model", "text-embedding-3-small"))
+        vectorstore = Chroma(
+            persist_directory=retriever_cfg.get("persist_directory", "./chroma_db"), 
+            embedding_function=embeddings
+        )
+        search_kwargs = {"k": retriever_cfg.get("k", 3)}
+        if retriever_cfg.get("search_type") == "mmr":
+            search_kwargs["fetch_k"] = max(20, search_kwargs["k"] * 3)
+        self.retriever = vectorstore.as_retriever(
+            search_type=retriever_cfg.get("search_type", "similarity"),
+            search_kwargs=search_kwargs
+        )
+        self.llm = ChatOpenAI(
+            model=llm_cfg.get("model_name", "gpt-4o-mini"), 
+            temperature=llm_cfg.get("temperature", 0.0)
+        )
+
 
         system_prompt = (
             "You are an expert CFA Level II study assistant. "
