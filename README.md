@@ -43,6 +43,7 @@ Questions are stored in a structured JSON schema:
 -----
 
 ## ⚙️ 3. Architecture & System Flow
+![Dashboard](https://raw.githubusercontent.com/felicity8899/llm-camp/master/cfa-system-architecture.png)
 
 Our codebase supports two distinct execution frontends and two distinct backends, allowing developers to switch fluidly between development, testing, and production states:
 
