@@ -47,7 +47,7 @@ def format_docs(docs):
     return "\n\n".join(doc.page_content for doc in docs)
 
 class CFAAssistant:
-    def __init__(self):
+    def __init__(self, config_path="config.yaml"):
         init_all_dbs()
 
         # import data from yaml
